@@ -3,107 +3,141 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>메타수학 2026 정시 전략 리포트</title>
+    <title>메타수학 2026 정시 전략 리포트 (재원생 전용)</title>
+    
+    <script>
+        (function() {
+            // 원장님, 비밀번호를 바꾸시려면 아래 "meta314"를 수정하세요.
+            const ACCESS_PASSWORD = "meta314"; 
+            const sessionKey = "meta_auth_status";
+
+            if (sessionStorage.getItem(sessionKey) !== "true") {
+                const userInput = prompt("🔒 메타수학 재원생 전용 시스템입니다.\n학원에서 안내받은 인증 번호를 입력해주세요.");
+                
+                if (userInput === ACCESS_PASSWORD) {
+                    sessionStorage.setItem(sessionKey, "true");
+                    alert("✅ 인증되었습니다. 환영합니다.");
+                } else {
+                    alert("❌ 인증 번호가 올바르지 않습니다. 학원으로 문의 바랍니다.");
+                    window.location.href = "https://www.google.com"; // 틀리면 구글로 쫓겨남
+                }
+            }
+        })();
+    </script>
+
     <style>
         :root { --primary: #0984e3; --stable: #27ae60; --fit: #2980b9; --ambitious: #f39c12; --danger: #e74c3c; }
-        body { font-family: 'Malgun Gothic', sans-serif; background: #f0f2f5; margin: 0; padding: 20px; }
+        body { font-family: 'Malgun Gothic', sans-serif; background: #f0f2f5; margin: 0; padding: 20px; line-height: 1.6; }
         .container { max-width: 1200px; margin: auto; background: white; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); padding: 30px; }
-        .header { text-align: center; margin-bottom: 20px; border-bottom: 2px solid #eee; padding-bottom: 15px; }
+        .header { text-align: center; margin-bottom: 20px; border-bottom: 3px solid var(--primary); padding-bottom: 15px; }
+        .header h1 { color: #2d3436; margin: 0; font-size: 28px; }
+        .header p { color: #636e72; font-weight: bold; margin-top: 5px; }
         
-        /* 인쇄 시 불필요한 요소 숨기기 */
+        /* 인쇄 설정 */
         @media print {
             .no-print { display: none !important; }
             body { background: white; padding: 0; }
-            .container { box-shadow: none; border: none; width: 100%; max-width: 100%; }
-            .badge { border: 1px solid #ccc !important; color: black !important; }
+            .container { box-shadow: none; border: none; width: 100%; max-width: 100%; padding: 10px; }
+            .badge { border: 1px solid #333 !important; color: black !important; background: transparent !important; }
         }
 
-        .score-input { display: flex; justify-content: center; gap: 15px; background: #f8f9fa; padding: 20px; border-radius: 10px; flex-wrap: wrap; margin-bottom: 15px; }
+        .score-input { display: flex; justify-content: center; gap: 12px; background: #f8f9fa; padding: 20px; border-radius: 10px; flex-wrap: wrap; margin-bottom: 15px; border: 1px solid #dfe6e9; }
         .input-group { display: flex; flex-direction: column; align-items: center; }
-        input { width: 85px; padding: 10px; border: 2px solid #dfe6e9; border-radius: 6px; text-align: center; font-size: 16px; }
-        
+        .input-group label { font-weight: bold; margin-bottom: 5px; color: #2d3436; font-size: 14px; }
+        input[type="number"] { width: 80px; padding: 10px; border: 2px solid #ced4da; border-radius: 6px; text-align: center; font-size: 16px; font-weight: bold; }
+        input[type="number"]:focus { border-color: var(--primary); outline: none; background: #e1f5fe; }
+
         .action-btns { display: flex; justify-content: center; gap: 10px; margin-top: 15px; }
-        .btn { padding: 12px 25px; border: none; border-radius: 8px; font-weight: bold; cursor: pointer; font-size: 16px; transition: 0.3s; }
+        .btn { padding: 12px 30px; border: none; border-radius: 8px; font-weight: bold; cursor: pointer; font-size: 16px; transition: 0.2s; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
         .btn-blue { background: var(--primary); color: white; }
         .btn-green { background: var(--stable); color: white; }
+        .btn:hover { opacity: 0.9; transform: translateY(-1px); }
 
-        .search-section { margin: 20px 0; display: flex; justify-content: center; }
-        #univSearch { width: 300px; padding: 10px; border-radius: 20px; border: 1px solid #ddd; text-align: center; }
+        .search-section { margin: 25px 0 10px 0; display: flex; justify-content: center; align-items: center; gap: 10px; }
+        #univSearch { width: 350px; padding: 12px 20px; border-radius: 25px; border: 2px solid #dfe6e9; font-size: 15px; transition: 0.3s; }
+        #univSearch:focus { width: 400px; border-color: var(--primary); outline: none; }
 
         .tabs { display: flex; margin-top: 20px; border-bottom: 2px solid #dfe6e9; }
-        .tab { padding: 12px 25px; cursor: pointer; font-weight: bold; color: #636e72; }
-        .tab.active { color: var(--primary); border-bottom: 3px solid var(--primary); background: #e1f5fe; }
+        .tab { padding: 12px 35px; cursor: pointer; font-weight: bold; color: #636e72; background: #f1f2f6; border-radius: 10px 10px 0 0; margin-right: 5px; }
+        .tab.active { color: white; background: var(--primary); border-bottom: none; }
 
-        table { width: 100%; border-collapse: collapse; margin-top: 15px; font-size: 13px; }
-        th { background: #f8f9fa; padding: 10px; border-bottom: 2px solid #ddd; }
-        td { padding: 10px; border-bottom: 1px solid #eee; text-align: center; }
+        table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+        th { background: #f8f9fa; padding: 12px; border-top: 2px solid #2d3436; border-bottom: 1px solid #ddd; color: #2d3436; }
+        td { padding: 12px; border-bottom: 1px solid #eee; text-align: center; }
         
-        .badge { padding: 4px 10px; border-radius: 15px; color: white; font-weight: bold; font-size: 11px; display: inline-block; }
+        .badge { padding: 5px 12px; border-radius: 20px; color: white; font-weight: bold; font-size: 12px; min-width: 60px; display: inline-block; }
         .bg-stable { background: var(--stable); }
         .bg-fit { background: var(--fit); }
         .bg-ambitious { background: var(--ambitious); }
         .bg-danger { background: var(--danger); }
-        .highlight { color: #e74c3c; font-weight: bold; font-size: 20px; }
+        
+        .total-box { background: #2d3436; color: white; padding: 15px 25px; border-radius: 8px; display: inline-block; }
+        .highlight { color: #ff7675; font-weight: bold; font-size: 26px; }
     </style>
 </head>
 <body>
 
 <div class="container">
     <div class="header">
-        <h1>🎓 메타수학 정시 합격 전략 리포트</h1>
-        <p>재원생 전용 정밀 매칭 분석 결과</p>
+        <h1>🎓 메타수학 2026 정시 분석 시스템</h1>
+        <p>RE-STUDENT EXCLUSIVE ADMISSION STRATEGY</p>
     </div>
 
     <div class="no-print">
         <div class="score-input">
-            <div class="input-group"><label>국어</label><input type="number" id="kor" value="130"></div>
-            <div class="input-group"><label>수학</label><input type="number" id="math" value="135"></div>
-            <div class="input-group"><label>영어</label><input type="number" id="eng" value="1"></div>
-            <div class="input-group"><label>탐1</label><input type="number" id="t1" value="65"></div>
-            <div class="input-group"><label>탐구2</label><input type="number" id="t2" value="60"></div>
+            <div class="input-group"><label>국어(표점)</label><input type="number" id="kor" value="130"></div>
+            <div class="input-group"><label>수학(표점)</label><input type="number" id="math" value="135"></div>
+            <div class="input-group"><label>영어(등급)</label><input type="number" id="eng" value="1" min="1" max="9"></div>
+            <div class="input-group"><label>탐구1(표점)</label><input type="number" id="t1" value="65"></div>
+            <div class="input-group"><label>탐구2(표점)</label><input type="number" id="t2" value="60"></div>
         </div>
         
         <div class="search-section">
-            <input type="text" id="univSearch" placeholder="🔍 대학명 검색 (예: 중앙대)" onkeyup="runAnalysis()">
+            <input type="text" id="univSearch" placeholder="🔍 대학명 또는 학과명을 입력하세요" onkeyup="runAnalysis()">
         </div>
 
         <div class="action-btns">
-            <button class="btn btn-blue" onclick="runAnalysis()">🚀 분석 결과 업데이트</button>
-            <button class="btn btn-green" onclick="window.print()">🖨️ 분석 결과 출력/다운로드</button>
+            <button class="btn btn-blue" onclick="runAnalysis()">📊 실시간 분석 결과보기</button>
+            <button class="btn btn-green" onclick="window.print()">🖨️ 결과 리포트 출력하기</button>
         </div>
     </div>
 
-    <div style="text-align: right; margin-top: 15px;">
-        <span style="font-size: 16px;">분석 기준 총점: <span id="totalDisplay" class="highlight">0</span> 점</span>
+    <div style="text-align: right; margin: 20px 0;">
+        <div class="total-box">
+            내 점수 총합: <span id="totalDisplay" class="highlight">0</span> 점
+        </div>
     </div>
 
     <div class="tabs no-print">
-        <div id="tab-가" class="tab active" onclick="changeTab('가')">가군</div>
-        <div id="tab-나" class="tab" onclick="changeTab('나')">나군</div>
-        <div id="tab-다" class="tab" onclick="changeTab('다')">다군</div>
+        <div id="tab-가" class="tab active" onclick="changeTab('가')">가군 대학</div>
+        <div id="tab-나" class="tab" onclick="changeTab('나')">나군 대학</div>
+        <div id="tab-다" class="tab" onclick="changeTab('다')">다군 대학</div>
     </div>
 
-    <table id="targetTable">
+    <table>
         <thead>
             <tr>
                 <th>대학명</th>
                 <th>모집단위</th>
-                <th>반영비율</th>
-                <th>합격컷</th>
-                <th>내점수</th>
+                <th>국/수/영/탐 비율</th>
+                <th>예상 컷</th>
+                <th>내 점수</th>
                 <th>차이</th>
                 <th>판정</th>
             </tr>
         </thead>
-        <tbody id="resultBody"></tbody>
+        <tbody id="resultBody">
+            <tr><td colspan="7">분석 버튼을 눌러주세요.</td></tr>
+        </tbody>
     </table>
     
-    <p class="no-print" style="color:#7f8c8d; font-size:12px; margin-top:20px; text-align:center;">
-        * 본 결과는 입력하신 가채점/수능 점수 기반이며, 대학별 실제 환산 방식에 따라 오차가 발생할 수 있습니다.
-    </p>
+    <div style="margin-top:30px; border-top:1px solid #eee; padding-top:10px; color:#636e72; font-size:12px;">
+        <p>※ 본 데이터는 비상교육 및 이투스 정보를 바탕으로 메타수학에서 재가공한 자료입니다. 최종 원서 접수 전 반드시 대학별 모집요강을 재확인하시기 바랍니다.</p>
+    </div>
 </div>
 
 <script src="database.js"></script>
+
 <script>
     let currentGroup = '가';
 
@@ -115,7 +149,10 @@
     }
 
     function runAnalysis() {
-        if (typeof database === 'undefined') return;
+        if (typeof database === 'undefined') {
+            alert("데이터를 불러올 수 없습니다. database.js 파일이 업로드되었는지 확인하세요.");
+            return;
+        }
 
         const kor = parseInt(document.getElementById('kor').value) || 0;
         const math = parseInt(document.getElementById('math').value) || 0;
@@ -128,34 +165,52 @@
         const body = document.getElementById('resultBody');
         body.innerHTML = '';
 
+        // 수학/국어 강점 정렬 로직
         const isMathStrong = math >= kor;
-        let filtered = database.filter(d => d.group === currentGroup && (d.univ.toLowerCase().includes(searchKeyword) || d.dept.toLowerCase().includes(searchKeyword)));
+        let filtered = database.filter(d => 
+            d.group === currentGroup && 
+            (d.univ.toLowerCase().includes(searchKeyword) || d.dept.toLowerCase().includes(searchKeyword))
+        );
         
-        // 정렬
-        if (isMathStrong) filtered.sort((a, b) => (b.mr || 0) - (a.mr || 0));
-        else filtered.sort((a, b) => (b.kr || 0) - (a.kr || 0));
+        if (isMathStrong) {
+            filtered.sort((a, b) => (b.mr || 0) - (a.mr || 0));
+        } else {
+            filtered.sort((a, b) => (b.kr || 0) - (a.kr || 0));
+        }
 
-        filtered.slice(0, 150).forEach(item => { // 성능을 위해 상위 150개만 출력
+        if (filtered.length === 0) {
+            body.innerHTML = '<tr><td colspan="7" style="padding:50px;">데이터가 없습니다. 검색어를 확인하거나 다른 군을 선택해보세요.</td></tr>';
+            return;
+        }
+
+        // 성능을 위해 상위 200개까지만 표시 (인쇄 고려)
+        filtered.slice(0, 200).forEach(item => {
             const diff = mySum - item.cut;
             let resultTxt, badgeClass;
+
             if (diff >= 5) { resultTxt = "안정"; badgeClass = "bg-stable"; }
             else if (diff >= -1) { resultTxt = "적정"; badgeClass = "bg-fit"; }
             else if (diff >= -6) { resultTxt = "소신"; badgeClass = "bg-ambitious"; }
             else { resultTxt = "위험"; badgeClass = "bg-danger"; }
 
             const row = `<tr>
-                <td>${item.univ}</td>
+                <td style="font-weight:bold;">${item.univ}</td>
                 <td>${item.dept}</td>
-                <td>${item.ratio || '-'}</td>
-                <td>${item.cut}</td>
-                <td>${mySum}</td>
+                <td style="color:#636e72;">${item.ratio || '-'}</td>
+                <td style="color:#2d3436;">${item.cut}</td>
+                <td style="font-weight:bold;">${mySum}</td>
                 <td style="font-weight:bold; color:${diff >= 0 ? 'blue' : 'red'}">${diff > 0 ? '+' + diff : diff}</td>
                 <td><span class="badge ${badgeClass}">${resultTxt}</span></td>
             </tr>`;
             body.innerHTML += row;
         });
     }
-    window.onload = function() { if (typeof database !== 'undefined') runAnalysis(); };
+
+    // 자동 실행
+    window.onload = function() {
+        if (typeof database !== 'undefined') runAnalysis();
+    };
 </script>
+
 </body>
 </html>
