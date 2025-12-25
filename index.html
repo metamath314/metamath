@@ -16,14 +16,18 @@
         .btn { padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-weight: bold; color: white; margin: 5px; }
         .btn-blue { background: var(--primary); }
         .btn-green { background: var(--stable); }
-        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        /* 탭 스타일 */
+        .tabs { display: flex; justify-content: center; margin-bottom: 20px; gap: 10px; }
+        .tab { padding: 10px 40px; background: #ddd; cursor: pointer; border-radius: 8px 8px 0 0; font-weight: bold; transition: 0.3s; }
+        .tab.active { background: var(--primary); color: white; }
+        table { width: 100%; border-collapse: collapse; margin-top: 10px; }
         th { background: #eee; padding: 12px; border-bottom: 2px solid #333; font-size: 14px; }
         td { padding: 12px; border-bottom: 1px solid #ddd; text-align: center; }
         .badge { padding: 5px 12px; border-radius: 20px; color: white; font-weight: bold; font-size: 12px; }
         .bg-stable { background: var(--stable); } .bg-fit { background: var(--fit); }
         .bg-ambitious { background: var(--ambitious); } .bg-danger { background: var(--danger); }
-        @media print { .no-print { display: none; } }
         #authOverlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: white; z-index: 9999; display: flex; flex-direction: column; justify-content: center; align-items: center; }
+        @media print { .no-print, .tabs { display: none !important; } }
     </style>
 </head>
 <body>
@@ -31,7 +35,7 @@
 <div id="authOverlay">
     <h2 style="margin-bottom:20px;">🔒 메타수학 재원생 전용 시스템</h2>
     <p>학원에서 안내받은 인증 번호를 입력해주세요.</p>
-    <input type="password" id="pwInput" style="width: 200px; margin-bottom: 10px; padding: 10px;">
+    <input type="password" id="pwInput" style="width: 200px; margin-bottom: 10px; padding: 10px;" onkeypress="if(event.keyCode==13) checkAuth()">
     <button class="btn btn-blue" onclick="checkAuth()">인증하기</button>
 </div>
 
@@ -50,10 +54,16 @@
             <div class="input-group"><label>탐구2</label><input type="number" id="t2" value="60"></div>
         </div>
         <div>
-            <input type="text" id="univSearch" placeholder="대학명 검색" style="width:250px; padding:10px;" onkeyup="runAnalysis()">
-            <button class="btn btn-blue" onclick="runAnalysis()">실시간 분석</button>
+            <input type="text" id="univSearch" placeholder="대학명 또는 학과명 검색" style="width:250px; padding:10px;" onkeyup="runAnalysis()">
+            <button class="btn btn-blue" onclick="runAnalysis()">분석 결과 업데이트</button>
             <button class="btn btn-green" onclick="window.print()">리포트 인쇄</button>
         </div>
+    </div>
+
+    <div class="tabs">
+        <div id="tab-가" class="tab active" onclick="changeTab('가')">가군</div>
+        <div id="tab-나" class="tab" onclick="changeTab('나')">나군</div>
+        <div id="tab-다" class="tab" onclick="changeTab('다')">다군</div>
     </div>
 
     <div style="text-align: right; margin-bottom: 10px; font-weight: bold;">
@@ -65,7 +75,7 @@
             <tr>
                 <th>대학명</th>
                 <th>모집단위</th>
-                <th>반영비율</th>
+                <th>반영비율(국/수/영/탐)</th>
                 <th>대학별 컷</th>
                 <th>내 환산점수</th>
                 <th>차이</th>
@@ -80,37 +90,34 @@
 
 <script>
     const CORRECT_PW = "meta314";
+    let currentGroup = '가';
 
-    // [1] 인증 로직 (새로고침 없이 처리)
     function checkAuth() {
-        const input = document.getElementById("pwInput").value;
-        if (input === CORRECT_PW) {
+        if (document.getElementById("pwInput").value === CORRECT_PW) {
             sessionStorage.setItem("meta_auth", "true");
             unlockContent();
-        } else {
-            alert("인증 번호가 틀렸습니다.");
-        }
+        } else { alert("인증 번호가 틀렸습니다."); }
     }
 
     function unlockContent() {
         document.getElementById("authOverlay").style.display = "none";
         document.getElementById("mainContent").style.display = "block";
-        if (typeof database !== 'undefined') runAnalysis();
+        runAnalysis();
     }
 
-    // 페이지 로드 시 기존 인증 확인
+    function changeTab(group) {
+        currentGroup = group;
+        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+        document.getElementById('tab-' + group).classList.add('active');
+        runAnalysis();
+    }
+
     window.onload = function() {
-        if (sessionStorage.getItem("meta_auth") === "true") {
-            unlockContent();
-        }
+        if (sessionStorage.getItem("meta_auth") === "true") unlockContent();
     }
 
-    // [2] 분석 로직
     function runAnalysis() {
-        if (typeof database === 'undefined') {
-            document.getElementById('resultBody').innerHTML = '<tr><td colspan="7">데이터를 로드 중입니다...</td></tr>';
-            return;
-        }
+        if (typeof database === 'undefined') return;
 
         const kor = parseInt(document.getElementById('kor').value) || 0;
         const math = parseInt(document.getElementById('math').value) || 0;
@@ -122,9 +129,10 @@
         document.getElementById('totalDisplay').innerText = kor + math + t1 + t2;
         const body = document.getElementById('resultBody');
         
-        // 데이터가 많을 경우 브라우저 멈춤 방지를 위해 비우고 새로 생성
+        // 탭에 맞는 데이터만 필터링 (속도 핵심!)
         let rows = "";
         database.forEach(item => {
+            if (item.group !== currentGroup) return; // 현재 탭의 군과 다르면 패스
             if (search && !item.univ.toLowerCase().includes(search) && !item.dept.toLowerCase().includes(search)) return;
 
             let myScore = (kor + math + (t1 + t2) / 2);
