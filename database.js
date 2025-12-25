@@ -186,7 +186,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 405,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -312,7 +312,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -501,7 +501,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 414,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -510,7 +510,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 401,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -600,7 +600,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 409,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -609,7 +609,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -618,7 +618,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 322,
     "kr": 40.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -627,7 +627,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 314,
     "kr": 40.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -662,7 +662,7 @@ const database = [
     "dept": "경영학전공",
     "ratio": "비율정보없음",
     "cut": 255,
-    "kr": 0,
+    "kr": 25.0,
     "mr": 0
   },
   {
@@ -671,8 +671,8 @@ const database = [
     "dept": "사회복지학전공",
     "ratio": "비율정보없음",
     "cut": 254,
-    "kr": 0,
-    "mr": 0
+    "kr": 20.0,
+    "mr": NaN
   },
   {
     "group": "나",
@@ -761,8 +761,8 @@ const database = [
     "dept": "자율전공학부",
     "ratio": "비율정보없음",
     "cut": 271,
-    "kr": 0,
-    "mr": 0
+    "kr": NaN,
+    "mr": NaN
   },
   {
     "group": "나",
@@ -779,8 +779,8 @@ const database = [
     "dept": "건축공학전공",
     "ratio": "비율정보없음",
     "cut": 285,
-    "kr": 0,
-    "mr": 0
+    "kr": NaN,
+    "mr": NaN
   },
   {
     "group": "나",
@@ -797,8 +797,8 @@ const database = [
     "dept": "AI소프트웨어융합학부",
     "ratio": "비율정보없음",
     "cut": 280,
-    "kr": 0,
-    "mr": 0
+    "kr": 20.0,
+    "mr": NaN
   },
   {
     "group": "다",
@@ -815,7 +815,7 @@ const database = [
     "dept": "컴퓨터교육과",
     "ratio": "비율정보없음",
     "cut": 298,
-    "kr": 0,
+    "kr": 25.0,
     "mr": 0
   },
   {
@@ -833,8 +833,8 @@ const database = [
     "dept": "건축학전공(5년제)",
     "ratio": "비율정보없음",
     "cut": 286,
-    "kr": 0,
-    "mr": 0
+    "kr": NaN,
+    "mr": NaN
   },
   {
     "group": "다",
@@ -842,8 +842,8 @@ const database = [
     "dept": "의생명과학전공",
     "ratio": "비율정보없음",
     "cut": 275,
-    "kr": 0,
-    "mr": 0
+    "kr": 20.0,
+    "mr": NaN
   },
   {
     "group": "다",
@@ -852,7 +852,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 406,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -861,7 +861,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -869,8 +869,8 @@ const database = [
     "dept": "간호학과",
     "ratio": "비율정보없음",
     "cut": 336,
-    "kr": 40.0,
-    "mr": 0.0
+    "kr": 20.0,
+    "mr": 0
   },
   {
     "group": "나",
@@ -878,8 +878,8 @@ const database = [
     "dept": "자율전공학부",
     "ratio": "비율정보없음",
     "cut": 266,
-    "kr": 0,
-    "mr": 0
+    "kr": NaN,
+    "mr": NaN
   },
   {
     "group": "가",
@@ -1023,7 +1023,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 418,
     "kr": 30.0,
-    "mr": NaN
+    "mr": 0
   },
   {
     "group": "나",
@@ -1031,8 +1031,8 @@ const database = [
     "dept": "간호학과",
     "ratio": "비율정보없음",
     "cut": 381,
-    "kr": 30.0,
-    "mr": NaN
+    "kr": 20.0,
+    "mr": 0
   },
   {
     "group": "나",
@@ -1050,7 +1050,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1059,7 +1059,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1068,7 +1068,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1077,7 +1077,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1086,7 +1086,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1095,7 +1095,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 334,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1104,7 +1104,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -1113,7 +1113,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -1122,7 +1122,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -1131,7 +1131,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -1140,7 +1140,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1158,7 +1158,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1167,7 +1167,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -1176,7 +1176,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -1185,7 +1185,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1194,7 +1194,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 296,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -1203,7 +1203,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -1212,7 +1212,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -1221,7 +1221,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -1230,7 +1230,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -1239,7 +1239,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1248,7 +1248,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1257,7 +1257,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1266,7 +1266,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1275,7 +1275,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1283,8 +1283,8 @@ const database = [
     "dept": "경영회계학부",
     "ratio": "비율정보없음",
     "cut": 342,
-    "kr": 20.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "가",
@@ -1293,7 +1293,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1301,8 +1301,8 @@ const database = [
     "dept": "경제정보통계학부",
     "ratio": "비율정보없음",
     "cut": 342,
-    "kr": 20.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "가",
@@ -1311,7 +1311,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1319,8 +1319,8 @@ const database = [
     "dept": "국제무역학과",
     "ratio": "비율정보없음",
     "cut": 341,
-    "kr": 20.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "가",
@@ -1329,7 +1329,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1337,8 +1337,8 @@ const database = [
     "dept": "문화인류학과",
     "ratio": "비율정보없음",
     "cut": 341,
-    "kr": 20.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "가",
@@ -1346,8 +1346,8 @@ const database = [
     "dept": "사회학과",
     "ratio": "비율정보없음",
     "cut": 340,
-    "kr": 20.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "가",
@@ -1355,8 +1355,8 @@ const database = [
     "dept": "인문대학자유전공학과",
     "ratio": "비율정보없음",
     "cut": 339,
-    "kr": 20.0,
-    "mr": 0.0
+    "kr": 50.0,
+    "mr": 0
   },
   {
     "group": "나",
@@ -1365,7 +1365,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1374,7 +1374,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 348,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1383,7 +1383,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 348,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1391,8 +1391,8 @@ const database = [
     "dept": "영어교육과",
     "ratio": "비율정보없음",
     "cut": 347,
-    "kr": 20.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "나",
@@ -1400,8 +1400,8 @@ const database = [
     "dept": "국어교육과",
     "ratio": "비율정보없음",
     "cut": 346,
-    "kr": 20.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "나",
@@ -1409,8 +1409,8 @@ const database = [
     "dept": "교육학과",
     "ratio": "비율정보없음",
     "cut": 345,
-    "kr": 20.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "나",
@@ -1418,8 +1418,8 @@ const database = [
     "dept": "사회과학대학자유전공학과",
     "ratio": "비율정보없음",
     "cut": 345,
-    "kr": 20.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "나",
@@ -1428,7 +1428,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1437,7 +1437,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1445,8 +1445,8 @@ const database = [
     "dept": "경영대학자유전공학과",
     "ratio": "비율정보없음",
     "cut": 343,
-    "kr": 20.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "나",
@@ -1455,7 +1455,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1464,7 +1464,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1473,7 +1473,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1482,7 +1482,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1491,7 +1491,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1499,8 +1499,8 @@ const database = [
     "dept": "식품자원경제학과",
     "ratio": "비율정보없음",
     "cut": 337,
-    "kr": 20.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "나",
@@ -1509,7 +1509,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1518,7 +1518,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1527,7 +1527,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1536,7 +1536,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 334,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1545,7 +1545,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 410,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1554,7 +1554,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 401,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1563,7 +1563,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 400,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1572,7 +1572,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1581,7 +1581,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1590,7 +1590,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1599,7 +1599,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1607,8 +1607,8 @@ const database = [
     "dept": "건축공학과",
     "ratio": "비율정보없음",
     "cut": 341,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 50.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -1617,7 +1617,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1626,7 +1626,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1634,8 +1634,8 @@ const database = [
     "dept": "토목공학과",
     "ratio": "비율정보없음",
     "cut": 340,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 50.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -1644,7 +1644,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1653,7 +1653,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1662,7 +1662,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1670,8 +1670,8 @@ const database = [
     "dept": "자연과학대학자유전공학과",
     "ratio": "비율정보없음",
     "cut": 339,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 50.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -1679,8 +1679,8 @@ const database = [
     "dept": "생명건강공학과",
     "ratio": "비율정보없음",
     "cut": 338,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "가",
@@ -1689,7 +1689,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1698,7 +1698,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1707,7 +1707,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1716,7 +1716,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1725,7 +1725,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1734,7 +1734,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -1743,7 +1743,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1752,7 +1752,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1760,8 +1760,8 @@ const database = [
     "dept": "수학교육과",
     "ratio": "비율정보없음",
     "cut": 349,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "나",
@@ -1769,8 +1769,8 @@ const database = [
     "dept": "과학교육학부",
     "ratio": "비율정보없음",
     "cut": 347,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "나",
@@ -1779,7 +1779,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1787,8 +1787,8 @@ const database = [
     "dept": "전기전자공학과",
     "ratio": "비율정보없음",
     "cut": 346,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "나",
@@ -1796,8 +1796,8 @@ const database = [
     "dept": "전자공학과",
     "ratio": "비율정보없음",
     "cut": 346,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "나",
@@ -1805,8 +1805,8 @@ const database = [
     "dept": "AI융합학과",
     "ratio": "비율정보없음",
     "cut": 345,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "나",
@@ -1815,7 +1815,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1823,8 +1823,8 @@ const database = [
     "dept": "화학생화학부",
     "ratio": "비율정보없음",
     "cut": 342,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "나",
@@ -1833,7 +1833,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1842,7 +1842,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1850,8 +1850,8 @@ const database = [
     "dept": "수학과",
     "ratio": "비율정보없음",
     "cut": 340,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "나",
@@ -1860,7 +1860,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1869,7 +1869,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1878,7 +1878,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1886,8 +1886,8 @@ const database = [
     "dept": "문화예술공과대학자유전공학과",
     "ratio": "비율정보없음",
     "cut": 339,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "나",
@@ -1896,7 +1896,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1905,7 +1905,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1914,7 +1914,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1923,7 +1923,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1932,7 +1932,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1940,8 +1940,8 @@ const database = [
     "dept": "식품생명공학과",
     "ratio": "비율정보없음",
     "cut": 336,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "나",
@@ -1950,7 +1950,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1959,7 +1959,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1968,7 +1968,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1976,8 +1976,8 @@ const database = [
     "dept": "생명환경융합학부",
     "ratio": "비율정보없음",
     "cut": 333,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "나",
@@ -1986,7 +1986,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -1995,7 +1995,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2004,7 +2004,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2013,7 +2013,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -2022,7 +2022,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 407,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -2031,7 +2031,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2040,7 +2040,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2049,7 +2049,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2058,7 +2058,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2067,7 +2067,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2076,7 +2076,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 308,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2085,7 +2085,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 304,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2094,7 +2094,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 303,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2103,7 +2103,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 301,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2112,7 +2112,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 301,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2121,7 +2121,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 298,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2130,7 +2130,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 296,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2139,7 +2139,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 295,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2148,7 +2148,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 291,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2157,7 +2157,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 289,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2166,7 +2166,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 406,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2175,7 +2175,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 299,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2184,7 +2184,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 296,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2193,7 +2193,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 293,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2202,7 +2202,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 293,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2211,7 +2211,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 293,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2220,7 +2220,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 291,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2229,7 +2229,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 291,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2238,7 +2238,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 291,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2247,7 +2247,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 290,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2256,7 +2256,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 287,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2265,7 +2265,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 286,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2274,7 +2274,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 285,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -2283,7 +2283,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 294,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2291,8 +2291,8 @@ const database = [
     "dept": "인문대학자유전공학과",
     "ratio": "비율정보없음",
     "cut": 303,
-    "kr": 20.0,
-    "mr": 0.0
+    "kr": 50.0,
+    "mr": 0
   },
   {
     "group": "다",
@@ -2301,7 +2301,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 301,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2319,7 +2319,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2328,7 +2328,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 296,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2337,7 +2337,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 292,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2345,8 +2345,8 @@ const database = [
     "dept": "자연과학대학자유전공학과",
     "ratio": "비율정보없음",
     "cut": 291,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 50.0,
+    "mr": 0
   },
   {
     "group": "다",
@@ -2355,7 +2355,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 403,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2364,7 +2364,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 285,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2373,7 +2373,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 289,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2382,7 +2382,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 285,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2391,7 +2391,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 278,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2400,7 +2400,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2408,8 +2408,8 @@ const database = [
     "dept": "물리치료학과",
     "ratio": "비율정보없음",
     "cut": 335,
-    "kr": 50.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "나",
@@ -2418,7 +2418,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2427,7 +2427,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2436,7 +2436,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2445,7 +2445,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 304,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2454,7 +2454,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 291,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2463,7 +2463,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 288,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2472,7 +2472,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 278,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2481,7 +2481,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 285,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2490,7 +2490,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 277,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2499,7 +2499,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2507,8 +2507,8 @@ const database = [
     "dept": "물리치료학과",
     "ratio": "비율정보없음",
     "cut": 330,
-    "kr": 50.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "나",
@@ -2517,7 +2517,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2526,7 +2526,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 305,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2535,7 +2535,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 299,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -2544,7 +2544,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 286,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2553,7 +2553,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 294,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2561,8 +2561,8 @@ const database = [
     "dept": "경제금융학과",
     "ratio": "비율정보없음",
     "cut": 288,
-    "kr": 50.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "나",
@@ -2570,8 +2570,8 @@ const database = [
     "dept": "영어과",
     "ratio": "비율정보없음",
     "cut": 286,
-    "kr": 50.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "나",
@@ -2579,8 +2579,8 @@ const database = [
     "dept": "관광학과",
     "ratio": "비율정보없음",
     "cut": 284,
-    "kr": 50.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "가",
@@ -2589,7 +2589,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 299,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -2597,8 +2597,8 @@ const database = [
     "dept": "공학대학자유전공학과",
     "ratio": "비율정보없음",
     "cut": 290,
-    "kr": 50.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "나",
@@ -2606,8 +2606,8 @@ const database = [
     "dept": "기계공학과",
     "ratio": "비율정보없음",
     "cut": 288,
-    "kr": 50.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "나",
@@ -2615,8 +2615,8 @@ const database = [
     "dept": "도시건축학과",
     "ratio": "비율정보없음",
     "cut": 286,
-    "kr": 50.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "나",
@@ -2625,7 +2625,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 285,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2634,7 +2634,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 288,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2643,7 +2643,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 287,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2652,7 +2652,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 308,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2661,7 +2661,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 308,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2670,7 +2670,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 288,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2679,7 +2679,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2688,7 +2688,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2697,7 +2697,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 308,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2706,7 +2706,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 304,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2715,7 +2715,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 302,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2724,7 +2724,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 300,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -2733,7 +2733,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 291,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -2742,7 +2742,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -2751,7 +2751,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -2760,7 +2760,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 376,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -2769,7 +2769,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 375,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2778,7 +2778,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 381,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2787,7 +2787,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2796,7 +2796,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2805,7 +2805,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2814,7 +2814,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2823,7 +2823,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2832,7 +2832,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2841,7 +2841,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2850,7 +2850,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2859,7 +2859,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2868,7 +2868,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2877,7 +2877,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 376,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2886,7 +2886,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 376,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2895,7 +2895,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 376,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2904,7 +2904,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 375,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2913,7 +2913,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 375,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -2922,7 +2922,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 375,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -2940,7 +2940,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 404,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -2949,7 +2949,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -2958,7 +2958,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -2967,7 +2967,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -2976,7 +2976,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -2985,7 +2985,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -2994,7 +2994,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 381,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -3003,7 +3003,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -3012,7 +3012,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3021,7 +3021,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3030,7 +3030,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 381,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3039,7 +3039,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 381,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3048,7 +3048,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3057,7 +3057,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3066,7 +3066,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3075,7 +3075,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3084,7 +3084,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3093,7 +3093,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3102,7 +3102,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 384,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3111,7 +3111,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 383,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3120,7 +3120,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 383,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3129,7 +3129,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 383,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3138,7 +3138,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3147,7 +3147,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3156,7 +3156,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3164,8 +3164,8 @@ const database = [
     "dept": "영어문화학과",
     "ratio": "비율정보없음",
     "cut": 350,
-    "kr": 50.0,
-    "mr": 0.0
+    "kr": 20.0,
+    "mr": 0
   },
   {
     "group": "다",
@@ -3173,8 +3173,8 @@ const database = [
     "dept": "경제통상학과",
     "ratio": "비율정보없음",
     "cut": 349,
-    "kr": 50.0,
-    "mr": 0.0
+    "kr": 20.0,
+    "mr": 0
   },
   {
     "group": "다",
@@ -3182,8 +3182,8 @@ const database = [
     "dept": "사회복지학과",
     "ratio": "비율정보없음",
     "cut": 346,
-    "kr": 50.0,
-    "mr": 0.0
+    "kr": 20.0,
+    "mr": 0
   },
   {
     "group": "다",
@@ -3192,7 +3192,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3201,7 +3201,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3210,7 +3210,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3219,7 +3219,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3237,7 +3237,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 410,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3246,7 +3246,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 375,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3255,7 +3255,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3264,7 +3264,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3273,7 +3273,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3282,7 +3282,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3291,7 +3291,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3300,7 +3300,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3308,8 +3308,8 @@ const database = [
     "dept": "식품영양학과",
     "ratio": "비율정보없음",
     "cut": 345,
-    "kr": 50.0,
-    "mr": 0.0
+    "kr": 20.0,
+    "mr": 0
   },
   {
     "group": "다",
@@ -3318,7 +3318,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3327,7 +3327,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3336,7 +3336,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3345,7 +3345,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 408,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3354,7 +3354,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -3363,7 +3363,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -3372,7 +3372,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 313,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -3381,7 +3381,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3390,7 +3390,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 288,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3399,7 +3399,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 283,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3408,7 +3408,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 286,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3417,7 +3417,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3426,7 +3426,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 303,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3435,7 +3435,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 286,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -3461,7 +3461,7 @@ const database = [
     "dept": "국방반도체공학과",
     "ratio": "비율정보없음",
     "cut": 311,
-    "kr": 0,
+    "kr": 50.0,
     "mr": 0
   },
   {
@@ -3516,7 +3516,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -3525,7 +3525,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 409,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -3534,7 +3534,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -3543,7 +3543,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -3552,7 +3552,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -3561,7 +3561,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -3570,7 +3570,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -3579,7 +3579,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -3588,7 +3588,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3597,7 +3597,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3606,7 +3606,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3615,7 +3615,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3624,7 +3624,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3633,7 +3633,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 314,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3642,7 +3642,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 307,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3651,7 +3651,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 307,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -3660,7 +3660,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 407,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3669,7 +3669,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3678,7 +3678,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -3687,7 +3687,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -3696,7 +3696,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -3705,7 +3705,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 313,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3714,7 +3714,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3723,7 +3723,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3732,7 +3732,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -3804,7 +3804,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3813,7 +3813,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3822,7 +3822,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3831,7 +3831,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3840,7 +3840,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3849,7 +3849,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3858,7 +3858,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3867,7 +3867,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3876,7 +3876,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3885,7 +3885,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3894,7 +3894,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3903,7 +3903,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3912,7 +3912,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3921,7 +3921,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3930,7 +3930,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3939,7 +3939,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3957,7 +3957,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -3966,7 +3966,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3975,7 +3975,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3984,7 +3984,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -3993,7 +3993,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -4002,7 +4002,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -4011,7 +4011,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -4020,7 +4020,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -4029,7 +4029,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -4038,7 +4038,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -4047,7 +4047,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -4056,7 +4056,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -4065,7 +4065,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -4074,7 +4074,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -4083,7 +4083,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -4092,7 +4092,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -4101,7 +4101,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -4110,7 +4110,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4128,7 +4128,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 318,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4137,7 +4137,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 318,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4146,7 +4146,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 304,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4155,7 +4155,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 300,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -4164,7 +4164,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 313,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -4173,7 +4173,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 288,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -4182,7 +4182,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 284,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4191,7 +4191,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -4200,7 +4200,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -4209,7 +4209,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -4218,7 +4218,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 305,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4488,7 +4488,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 260,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -4497,7 +4497,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 248,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4506,7 +4506,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 306,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4524,7 +4524,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 276,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4533,7 +4533,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 275,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4542,7 +4542,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 265,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4551,7 +4551,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 262,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4560,7 +4560,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 259,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -4569,7 +4569,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 288,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -4578,7 +4578,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 272,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -4587,7 +4587,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 291,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4596,7 +4596,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 299,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4605,7 +4605,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 296,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4614,7 +4614,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 293,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4623,7 +4623,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 290,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4632,7 +4632,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 286,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -4641,7 +4641,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -4650,7 +4650,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -4659,7 +4659,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 305,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -4668,7 +4668,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 299,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -4677,7 +4677,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 296,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4686,7 +4686,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 281,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4695,7 +4695,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 277,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -4704,7 +4704,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -4713,7 +4713,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -4722,7 +4722,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -4731,7 +4731,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -4740,7 +4740,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -4749,7 +4749,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -4758,7 +4758,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -4767,7 +4767,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -4776,7 +4776,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -4785,7 +4785,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -4794,7 +4794,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -4803,7 +4803,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -4812,7 +4812,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -4821,7 +4821,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -4830,7 +4830,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -4839,7 +4839,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4848,7 +4848,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4857,7 +4857,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4866,7 +4866,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4875,7 +4875,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4884,7 +4884,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4893,7 +4893,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4902,7 +4902,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4911,7 +4911,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4920,7 +4920,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4929,7 +4929,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4938,7 +4938,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4947,7 +4947,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4956,7 +4956,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4965,7 +4965,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4974,7 +4974,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4983,7 +4983,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -4992,7 +4992,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5001,7 +5001,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 411,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5010,7 +5010,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5019,7 +5019,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5028,7 +5028,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5037,7 +5037,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5046,7 +5046,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 371,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5055,7 +5055,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5064,7 +5064,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5073,7 +5073,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5082,7 +5082,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5091,7 +5091,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5100,7 +5100,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5109,7 +5109,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5118,7 +5118,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5127,7 +5127,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5136,7 +5136,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5145,7 +5145,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5154,7 +5154,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5163,7 +5163,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5172,7 +5172,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5181,7 +5181,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5190,7 +5190,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5199,7 +5199,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5208,7 +5208,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5217,7 +5217,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5226,7 +5226,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5235,7 +5235,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 406,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5244,7 +5244,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 400,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5253,7 +5253,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 376,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5262,7 +5262,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5271,7 +5271,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5280,7 +5280,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5289,7 +5289,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5298,7 +5298,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5307,7 +5307,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5316,7 +5316,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5325,7 +5325,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5334,7 +5334,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5343,7 +5343,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5352,7 +5352,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5361,7 +5361,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5370,7 +5370,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5379,7 +5379,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5388,7 +5388,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5397,7 +5397,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5406,7 +5406,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5415,7 +5415,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5424,7 +5424,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5433,7 +5433,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5442,7 +5442,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5451,7 +5451,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5460,7 +5460,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5469,7 +5469,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5478,7 +5478,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5487,7 +5487,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5504,7 +5504,7 @@ const database = [
     "dept": "생물교육과",
     "ratio": "비율정보없음",
     "cut": 367,
-    "kr": 0,
+    "kr": 25.0,
     "mr": 0
   },
   {
@@ -5514,7 +5514,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 409,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5523,7 +5523,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5532,7 +5532,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5541,7 +5541,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5550,7 +5550,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 329,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5559,7 +5559,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5568,7 +5568,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 308,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5577,7 +5577,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 307,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5586,7 +5586,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 303,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5595,7 +5595,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 303,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5604,7 +5604,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 303,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5613,7 +5613,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 302,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5622,7 +5622,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 298,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5631,7 +5631,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5640,7 +5640,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 313,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5649,7 +5649,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5658,7 +5658,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5667,7 +5667,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5676,7 +5676,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5685,7 +5685,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 307,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5694,7 +5694,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 299,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5703,7 +5703,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 292,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5712,7 +5712,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 348,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5721,7 +5721,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 348,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5730,7 +5730,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5739,7 +5739,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5748,7 +5748,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5757,7 +5757,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5766,7 +5766,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5775,7 +5775,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5784,7 +5784,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5793,7 +5793,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5802,7 +5802,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 334,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -5811,7 +5811,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5820,7 +5820,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5829,7 +5829,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5838,7 +5838,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5847,7 +5847,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5856,7 +5856,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5865,7 +5865,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5874,7 +5874,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5883,7 +5883,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5892,7 +5892,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5901,7 +5901,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5910,7 +5910,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5919,7 +5919,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5928,7 +5928,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 334,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5937,7 +5937,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5946,7 +5946,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5955,7 +5955,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5964,7 +5964,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 329,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5972,7 +5972,7 @@ const database = [
     "dept": "영어전공",
     "ratio": "비율정보없음",
     "cut": 328,
-    "kr": 0,
+    "kr": 25.0,
     "mr": 0
   },
   {
@@ -5982,7 +5982,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -5991,7 +5991,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6000,7 +6000,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6009,7 +6009,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -6018,7 +6018,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 401,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -6027,7 +6027,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 400,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -6036,7 +6036,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -6045,7 +6045,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -6054,7 +6054,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6063,7 +6063,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6072,7 +6072,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6081,7 +6081,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6090,7 +6090,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6099,7 +6099,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6108,7 +6108,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6117,7 +6117,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6126,7 +6126,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6135,7 +6135,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6144,7 +6144,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6153,7 +6153,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6162,7 +6162,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6171,7 +6171,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6180,7 +6180,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6189,7 +6189,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6198,7 +6198,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6207,7 +6207,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6216,7 +6216,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6225,7 +6225,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 329,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6234,7 +6234,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 329,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6243,7 +6243,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6252,7 +6252,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6261,7 +6261,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6270,7 +6270,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6279,7 +6279,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6288,7 +6288,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6297,7 +6297,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6306,7 +6306,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6315,7 +6315,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6324,7 +6324,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 322,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6333,7 +6333,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 322,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6342,7 +6342,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 322,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6351,7 +6351,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 321,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6360,7 +6360,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6369,7 +6369,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6378,7 +6378,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6387,7 +6387,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6396,7 +6396,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 317,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6405,7 +6405,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 317,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6414,7 +6414,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 317,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6423,7 +6423,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6432,7 +6432,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6441,7 +6441,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 321,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -6450,7 +6450,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 400,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -6459,7 +6459,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 399,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6468,7 +6468,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -6477,7 +6477,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 409,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -6486,7 +6486,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6495,7 +6495,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6504,7 +6504,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6513,7 +6513,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 315,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6522,7 +6522,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 313,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -6531,7 +6531,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 407,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -6540,7 +6540,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -6557,7 +6557,7 @@ const database = [
     "dept": "기계시스템공학과",
     "ratio": "비율정보없음",
     "cut": 321,
-    "kr": 0,
+    "kr": 25.0,
     "mr": 0
   },
   {
@@ -6621,7 +6621,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -6630,7 +6630,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 329,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -6639,7 +6639,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -6648,7 +6648,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 324,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -6657,7 +6657,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 315,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -6666,7 +6666,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -6675,7 +6675,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -6684,7 +6684,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 301,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6693,7 +6693,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6702,7 +6702,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 318,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6711,7 +6711,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 315,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6720,7 +6720,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 305,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6729,7 +6729,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 305,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6738,7 +6738,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 301,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6747,7 +6747,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 299,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -6756,7 +6756,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 308,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -6765,7 +6765,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 308,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -6774,7 +6774,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 303,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -6783,7 +6783,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 295,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6792,7 +6792,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -6801,7 +6801,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 401,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -6810,7 +6810,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -6819,7 +6819,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 314,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -6828,7 +6828,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -6837,7 +6837,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 302,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -6846,7 +6846,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 290,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6855,7 +6855,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6864,7 +6864,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6873,7 +6873,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 314,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6882,7 +6882,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6891,7 +6891,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 297,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -6900,7 +6900,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 296,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -6909,7 +6909,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 287,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -6953,7 +6953,7 @@ const database = [
     "dept": "화학공학과",
     "ratio": "비율정보없음",
     "cut": 282,
-    "kr": 0,
+    "kr": 25.0,
     "mr": 0
   },
   {
@@ -7025,7 +7025,7 @@ const database = [
     "dept": "정보통신공학과",
     "ratio": "비율정보없음",
     "cut": 287,
-    "kr": 0,
+    "kr": 25.0,
     "mr": 0
   },
   {
@@ -7035,7 +7035,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -7179,7 +7179,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7188,7 +7188,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 329,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -7197,7 +7197,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 285,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -7206,7 +7206,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 271,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7305,7 +7305,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 252,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7314,7 +7314,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 246,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7323,7 +7323,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 292,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7332,7 +7332,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 292,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7341,7 +7341,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 268,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7350,7 +7350,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 246,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7358,8 +7358,8 @@ const database = [
     "dept": "산업안전보건학과",
     "ratio": "비율정보없음",
     "cut": 272,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": 30.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -7367,8 +7367,8 @@ const database = [
     "dept": "AI전기자동차학과",
     "ratio": "비율정보없음",
     "cut": 272,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": 30.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -7404,7 +7404,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 385,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7413,7 +7413,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 383,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7422,7 +7422,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7431,7 +7431,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7440,7 +7440,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 381,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7449,7 +7449,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 381,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7458,7 +7458,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 381,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7467,7 +7467,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 381,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7476,7 +7476,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7485,7 +7485,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7494,7 +7494,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7503,7 +7503,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7512,7 +7512,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7521,7 +7521,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7529,8 +7529,8 @@ const database = [
     "dept": "응용영어통번역학과",
     "ratio": "비율정보없음",
     "cut": 380,
-    "kr": 35.0,
-    "mr": 0.0
+    "kr": 30.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -7539,7 +7539,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7548,7 +7548,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7557,7 +7557,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7566,7 +7566,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7575,7 +7575,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7584,7 +7584,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -7593,7 +7593,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 406,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7602,7 +7602,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 384,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7611,7 +7611,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7620,7 +7620,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7629,7 +7629,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 384,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7638,7 +7638,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 384,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7647,7 +7647,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 383,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7656,7 +7656,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 383,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7665,7 +7665,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7674,7 +7674,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7683,7 +7683,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 381,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7692,7 +7692,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -7701,7 +7701,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 414,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -7710,7 +7710,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 408,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -7719,7 +7719,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 406,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -7728,7 +7728,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 403,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7737,7 +7737,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 375,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7746,7 +7746,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7755,7 +7755,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7764,7 +7764,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7773,7 +7773,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7782,7 +7782,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7791,7 +7791,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -7800,7 +7800,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 376,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7809,7 +7809,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7818,7 +7818,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 385,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7827,7 +7827,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 385,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7836,7 +7836,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 384,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7845,7 +7845,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 384,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7854,7 +7854,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 383,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -7863,7 +7863,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -7872,7 +7872,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 383,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -7881,7 +7881,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -7890,7 +7890,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -7899,7 +7899,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 381,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -7908,7 +7908,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 381,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -7916,8 +7916,8 @@ const database = [
     "dept": "응용수학과",
     "ratio": "비율정보없음",
     "cut": 381,
-    "kr": 35.0,
-    "mr": 0.0
+    "kr": 30.0,
+    "mr": 0
   },
   {
     "group": "나",
@@ -7925,8 +7925,8 @@ const database = [
     "dept": "응용화학과",
     "ratio": "비율정보없음",
     "cut": 381,
-    "kr": 35.0,
-    "mr": 0.0
+    "kr": 30.0,
+    "mr": 0
   },
   {
     "group": "나",
@@ -7935,7 +7935,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -7944,7 +7944,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -7953,7 +7953,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -7962,7 +7962,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -7970,8 +7970,8 @@ const database = [
     "dept": "응용물리학과",
     "ratio": "비율정보없음",
     "cut": 378,
-    "kr": 35.0,
-    "mr": 0.0
+    "kr": 30.0,
+    "mr": 0
   },
   {
     "group": "나",
@@ -7980,7 +7980,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -7989,7 +7989,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -7998,7 +7998,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -8006,8 +8006,8 @@ const database = [
     "dept": "사회기반시스템공학과",
     "ratio": "비율정보없음",
     "cut": 377,
-    "kr": 35.0,
-    "mr": 0.0
+    "kr": 30.0,
+    "mr": 0
   },
   {
     "group": "나",
@@ -8016,7 +8016,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8025,7 +8025,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8034,7 +8034,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8043,7 +8043,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8052,7 +8052,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8061,7 +8061,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8070,7 +8070,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8079,7 +8079,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8088,7 +8088,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8097,7 +8097,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 321,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8106,7 +8106,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8115,7 +8115,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8124,7 +8124,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8133,7 +8133,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 318,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8142,7 +8142,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 318,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8151,7 +8151,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 315,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8160,7 +8160,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8169,7 +8169,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 306,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8178,7 +8178,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 305,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -8187,7 +8187,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 318,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -8196,7 +8196,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 308,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8205,7 +8205,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8214,7 +8214,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8223,7 +8223,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8232,7 +8232,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8250,7 +8250,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8259,7 +8259,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8268,7 +8268,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8277,7 +8277,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 318,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8286,7 +8286,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 313,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8295,7 +8295,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8304,7 +8304,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8313,7 +8313,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8331,7 +8331,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 303,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -8340,7 +8340,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 329,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8349,7 +8349,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8358,7 +8358,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8367,7 +8367,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8376,7 +8376,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 321,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8385,7 +8385,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8394,7 +8394,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 317,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8403,7 +8403,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 315,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8412,7 +8412,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 314,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8421,7 +8421,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 313,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8430,7 +8430,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8439,7 +8439,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8448,7 +8448,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8457,7 +8457,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 308,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8466,7 +8466,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 308,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8475,7 +8475,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 308,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8484,7 +8484,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 305,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8493,7 +8493,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 409,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8502,7 +8502,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 401,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8511,7 +8511,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8520,7 +8520,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8529,7 +8529,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8538,7 +8538,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8547,7 +8547,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8556,7 +8556,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8565,7 +8565,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 317,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8574,7 +8574,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 314,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8583,7 +8583,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 313,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8592,7 +8592,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8601,7 +8601,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 307,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8610,7 +8610,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 307,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8637,7 +8637,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 296,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -8655,7 +8655,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 399,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8664,7 +8664,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8673,7 +8673,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8682,7 +8682,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8691,7 +8691,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 396,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8700,7 +8700,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 396,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8709,7 +8709,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 395,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8718,7 +8718,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 395,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8727,7 +8727,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 395,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8736,7 +8736,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 395,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8745,7 +8745,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 394,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8754,7 +8754,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 394,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8763,7 +8763,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8772,7 +8772,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8781,7 +8781,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8790,7 +8790,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8799,7 +8799,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 392,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8808,7 +8808,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 392,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8817,7 +8817,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 392,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8826,7 +8826,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 392,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8835,7 +8835,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 391,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8844,7 +8844,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 391,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8853,7 +8853,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 391,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8862,7 +8862,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 391,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8871,7 +8871,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 391,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8880,7 +8880,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 390,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8889,7 +8889,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 390,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8898,7 +8898,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 390,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8907,7 +8907,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 390,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8916,7 +8916,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 389,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8924,8 +8924,8 @@ const database = [
     "dept": "학부대학",
     "ratio": "비율정보없음",
     "cut": 398,
-    "kr": 31.3,
-    "mr": 0.0
+    "kr": 28.6,
+    "mr": 0
   },
   {
     "group": "가",
@@ -8934,7 +8934,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 416,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8943,7 +8943,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8952,7 +8952,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 401,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8961,7 +8961,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 400,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8970,7 +8970,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 400,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8979,7 +8979,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 399,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8988,7 +8988,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 399,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -8997,7 +8997,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 399,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9006,7 +9006,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9015,7 +9015,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9024,7 +9024,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9033,7 +9033,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9042,7 +9042,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 397,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9051,7 +9051,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 397,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9060,7 +9060,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 397,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9069,7 +9069,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 397,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9078,7 +9078,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 396,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9087,7 +9087,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 396,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9096,7 +9096,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 395,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9105,7 +9105,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 395,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9114,7 +9114,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 395,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9123,7 +9123,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 395,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9132,7 +9132,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 394,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9140,8 +9140,8 @@ const database = [
     "dept": "식품공학과",
     "ratio": "비율정보없음",
     "cut": 394,
-    "kr": 31.3,
-    "mr": 0.0
+    "kr": 28.6,
+    "mr": 0
   },
   {
     "group": "가",
@@ -9150,7 +9150,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9159,7 +9159,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9168,7 +9168,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9176,8 +9176,8 @@ const database = [
     "dept": "보건환경융합과학부",
     "ratio": "비율정보없음",
     "cut": 393,
-    "kr": 31.3,
-    "mr": 0.0
+    "kr": 28.6,
+    "mr": 0
   },
   {
     "group": "가",
@@ -9186,7 +9186,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9195,7 +9195,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9204,7 +9204,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 391,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9213,7 +9213,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 397,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9222,7 +9222,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 397,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9231,7 +9231,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 397,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9240,7 +9240,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 396,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9249,7 +9249,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 395,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9258,7 +9258,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 394,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9267,7 +9267,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 394,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9276,7 +9276,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 394,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9285,7 +9285,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 394,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9294,7 +9294,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9303,7 +9303,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9312,7 +9312,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9321,7 +9321,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 392,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9330,7 +9330,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 392,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9339,7 +9339,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 392,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9348,7 +9348,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 392,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9357,7 +9357,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 392,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9366,7 +9366,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 391,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9375,7 +9375,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 391,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9384,7 +9384,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 391,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9393,7 +9393,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 390,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9402,7 +9402,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 390,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9411,7 +9411,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 390,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9420,7 +9420,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 390,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9429,7 +9429,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 390,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9438,7 +9438,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 390,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9447,7 +9447,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 389,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9456,7 +9456,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 389,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9465,7 +9465,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 389,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9474,7 +9474,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 388,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9483,7 +9483,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 415,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9492,7 +9492,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 399,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9501,7 +9501,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9510,7 +9510,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9519,7 +9519,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9528,7 +9528,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 397,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9537,7 +9537,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 397,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9546,7 +9546,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 396,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9555,7 +9555,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 396,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9564,7 +9564,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 396,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9573,7 +9573,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 395,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9582,7 +9582,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 395,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9591,7 +9591,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 395,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9600,7 +9600,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 395,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9609,7 +9609,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 395,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9618,7 +9618,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 394,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9627,7 +9627,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 394,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9636,7 +9636,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 394,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9645,7 +9645,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 394,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9654,7 +9654,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 394,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9663,7 +9663,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9672,7 +9672,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9680,8 +9680,8 @@ const database = [
     "dept": "식품공학과",
     "ratio": "비율정보없음",
     "cut": 393,
-    "kr": 31.3,
-    "mr": 0.0
+    "kr": 28.6,
+    "mr": 0
   },
   {
     "group": "가",
@@ -9690,7 +9690,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9698,8 +9698,8 @@ const database = [
     "dept": "보건환경융합과학부",
     "ratio": "비율정보없음",
     "cut": 392,
-    "kr": 31.3,
-    "mr": 0.0
+    "kr": 28.6,
+    "mr": 0
   },
   {
     "group": "가",
@@ -9708,7 +9708,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 392,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9717,7 +9717,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 391,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9726,7 +9726,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 390,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9734,8 +9734,8 @@ const database = [
     "dept": "융합경영학부",
     "ratio": "비율정보없음",
     "cut": 342,
-    "kr": 20.0,
-    "mr": 0.0
+    "kr": 31.3,
+    "mr": 0
   },
   {
     "group": "가",
@@ -9744,7 +9744,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9752,8 +9752,8 @@ const database = [
     "dept": "경제통계학부(경제정책학전공)",
     "ratio": "비율정보없음",
     "cut": 341,
-    "kr": 20.0,
-    "mr": 0.0
+    "kr": 28.6,
+    "mr": 0
   },
   {
     "group": "나",
@@ -9762,7 +9762,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -9771,7 +9771,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -9780,7 +9780,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -9789,7 +9789,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -9798,7 +9798,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9807,7 +9807,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -9816,7 +9816,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -9825,7 +9825,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -9834,7 +9834,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9843,7 +9843,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 401,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9851,8 +9851,8 @@ const database = [
     "dept": "지능형반도체공학과",
     "ratio": "비율정보없음",
     "cut": 349,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": 31.3,
+    "mr": 0
   },
   {
     "group": "가",
@@ -9861,7 +9861,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -9870,7 +9870,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -9879,7 +9879,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -9888,7 +9888,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -9897,7 +9897,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -9906,7 +9906,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -9915,7 +9915,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -9924,7 +9924,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -9933,7 +9933,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 31.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -9942,7 +9942,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -9950,8 +9950,8 @@ const database = [
     "dept": "생명정보공학과",
     "ratio": "비율정보없음",
     "cut": 345,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": 31.3,
+    "mr": 0
   },
   {
     "group": "다",
@@ -9959,8 +9959,8 @@ const database = [
     "dept": "전자기계융합공학과",
     "ratio": "비율정보없음",
     "cut": 342,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": 31.3,
+    "mr": 0
   },
   {
     "group": "다",
@@ -9968,8 +9968,8 @@ const database = [
     "dept": "전자및정보공학과",
     "ratio": "비율정보없음",
     "cut": 342,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": 31.3,
+    "mr": 0
   },
   {
     "group": "다",
@@ -9977,8 +9977,8 @@ const database = [
     "dept": "환경시스템공학과",
     "ratio": "비율정보없음",
     "cut": 341,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": 31.3,
+    "mr": 0
   },
   {
     "group": "다",
@@ -9986,8 +9986,8 @@ const database = [
     "dept": "식품생명공학과",
     "ratio": "비율정보없음",
     "cut": 339,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": 28.6,
+    "mr": 0
   },
   {
     "group": "가",
@@ -9996,7 +9996,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 400,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -10149,7 +10149,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 408,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -10158,7 +10158,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -10167,7 +10167,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 406,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -10176,7 +10176,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10185,7 +10185,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10194,7 +10194,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10203,7 +10203,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10212,7 +10212,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10221,7 +10221,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10230,7 +10230,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10239,7 +10239,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10248,7 +10248,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10257,7 +10257,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10266,7 +10266,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -10275,7 +10275,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10284,7 +10284,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10293,7 +10293,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10302,7 +10302,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10311,7 +10311,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10320,7 +10320,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10329,7 +10329,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10338,7 +10338,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10347,7 +10347,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10356,7 +10356,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10365,7 +10365,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10374,7 +10374,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10383,7 +10383,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10392,7 +10392,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10401,7 +10401,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10410,7 +10410,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10419,7 +10419,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 322,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10428,7 +10428,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -10437,7 +10437,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10454,7 +10454,7 @@ const database = [
     "dept": "특수교육과",
     "ratio": "비율정보없음",
     "cut": 352,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -10472,7 +10472,7 @@ const database = [
     "dept": "경영학과",
     "ratio": "비율정보없음",
     "cut": 335,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -10499,7 +10499,7 @@ const database = [
     "dept": "사회복지학과",
     "ratio": "비율정보없음",
     "cut": 333,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -10517,7 +10517,7 @@ const database = [
     "dept": "영어영문학과",
     "ratio": "비율정보없음",
     "cut": 332,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -10526,7 +10526,7 @@ const database = [
     "dept": "지리학과",
     "ratio": "비율정보없음",
     "cut": 327,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -10581,7 +10581,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10589,7 +10589,7 @@ const database = [
     "dept": "물리교육과",
     "ratio": "비율정보없음",
     "cut": 360,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -10616,7 +10616,7 @@ const database = [
     "dept": "화학과",
     "ratio": "비율정보없음",
     "cut": 317,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -10626,7 +10626,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10635,7 +10635,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 315,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -10644,7 +10644,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 317,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10653,7 +10653,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10662,7 +10662,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10671,7 +10671,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10689,7 +10689,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10698,7 +10698,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10769,7 +10769,7 @@ const database = [
     "dept": "지역건설공학과",
     "ratio": "비율정보없음",
     "cut": 302,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -10779,7 +10779,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10788,7 +10788,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10797,7 +10797,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10806,7 +10806,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 329,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10815,7 +10815,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10824,7 +10824,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 322,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -10833,7 +10833,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -10842,7 +10842,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10860,7 +10860,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10868,7 +10868,7 @@ const database = [
     "dept": "화학공학부",
     "ratio": "비율정보없음",
     "cut": 333,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -10904,7 +10904,7 @@ const database = [
     "dept": "정보통신공학과",
     "ratio": "비율정보없음",
     "cut": 329,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -10914,7 +10914,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -10940,7 +10940,7 @@ const database = [
     "dept": "산업공학과",
     "ratio": "비율정보없음",
     "cut": 323,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -10958,7 +10958,7 @@ const database = [
     "dept": "환경공학과",
     "ratio": "비율정보없음",
     "cut": 321,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -10976,8 +10976,8 @@ const database = [
     "dept": "유아교육과",
     "ratio": "비율정보없음",
     "cut": 254,
-    "kr": 0.0,
-    "mr": 0.0
+    "kr": 0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -10985,8 +10985,8 @@ const database = [
     "dept": "복지상담융합학부",
     "ratio": "비율정보없음",
     "cut": 252,
-    "kr": 0.0,
-    "mr": 0.0
+    "kr": 0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -10994,8 +10994,8 @@ const database = [
     "dept": "한국어교육학과",
     "ratio": "비율정보없음",
     "cut": 250,
-    "kr": 0.0,
-    "mr": 0.0
+    "kr": 0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -11003,8 +11003,8 @@ const database = [
     "dept": "유아교육과",
     "ratio": "비율정보없음",
     "cut": 252,
-    "kr": 0.0,
-    "mr": 0.0
+    "kr": 0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -11012,8 +11012,8 @@ const database = [
     "dept": "복지상담융합학부",
     "ratio": "비율정보없음",
     "cut": 250,
-    "kr": 0.0,
-    "mr": 0.0
+    "kr": 0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -11031,7 +11031,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -11040,7 +11040,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -11049,7 +11049,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -11058,7 +11058,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -11067,7 +11067,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -11076,7 +11076,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -11085,7 +11085,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -11094,7 +11094,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -11102,8 +11102,8 @@ const database = [
     "dept": "국제학부",
     "ratio": "비율정보없음",
     "cut": 357,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": 20.0,
+    "mr": 0
   },
   {
     "group": "나",
@@ -11112,7 +11112,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -11121,7 +11121,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -11130,7 +11130,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11139,7 +11139,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11148,7 +11148,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11157,7 +11157,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11166,7 +11166,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11175,7 +11175,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11184,7 +11184,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11193,7 +11193,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11202,7 +11202,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11211,7 +11211,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11220,7 +11220,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11229,7 +11229,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11238,7 +11238,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11247,7 +11247,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11256,7 +11256,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11265,7 +11265,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11274,7 +11274,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11283,7 +11283,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -11292,7 +11292,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -11328,7 +11328,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -11436,7 +11436,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11526,7 +11526,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11535,7 +11535,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 371,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11544,7 +11544,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -11553,7 +11553,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 371,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -11562,7 +11562,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -11571,7 +11571,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -11580,7 +11580,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -11589,7 +11589,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -11598,7 +11598,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -11607,7 +11607,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -11616,7 +11616,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 371,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -11625,7 +11625,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -11634,7 +11634,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -11643,7 +11643,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -11652,7 +11652,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -11661,7 +11661,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -11670,7 +11670,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11679,7 +11679,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11688,7 +11688,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11697,7 +11697,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11706,7 +11706,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 371,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11714,8 +11714,8 @@ const database = [
     "dept": "융합바이오공학과",
     "ratio": "비율정보없음",
     "cut": 370,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 20.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -11724,7 +11724,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11733,7 +11733,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11742,7 +11742,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -11751,7 +11751,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -11760,7 +11760,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -11769,7 +11769,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -11778,7 +11778,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 371,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -11787,7 +11787,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -11796,7 +11796,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -11805,7 +11805,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -11814,7 +11814,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -11822,7 +11822,7 @@ const database = [
     "dept": "광고홍보학전공",
     "ratio": "비율정보없음",
     "cut": 372,
-    "kr": 0,
+    "kr": 20.0,
     "mr": 0
   },
   {
@@ -11832,7 +11832,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -11895,7 +11895,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -11912,7 +11912,7 @@ const database = [
     "dept": "미래모빌리티학과",
     "ratio": "비율정보없음",
     "cut": 373,
-    "kr": 0,
+    "kr": 20.0,
     "mr": 0
   },
   {
@@ -11922,7 +11922,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -11930,7 +11930,7 @@ const database = [
     "dept": "전자화학재료전공",
     "ratio": "비율정보없음",
     "cut": 369,
-    "kr": 0,
+    "kr": 30.0,
     "mr": 0
   },
   {
@@ -11949,7 +11949,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 306,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -11958,7 +11958,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 305,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -11967,7 +11967,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 299,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -11976,7 +11976,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 299,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -11985,7 +11985,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 294,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -11994,7 +11994,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 293,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12003,7 +12003,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 284,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12012,7 +12012,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 281,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12021,7 +12021,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 279,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12030,7 +12030,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 278,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12039,7 +12039,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 275,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12048,7 +12048,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 273,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12057,7 +12057,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 272,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12066,7 +12066,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 272,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12075,7 +12075,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 268,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12084,7 +12084,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 287,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12093,7 +12093,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12102,7 +12102,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 314,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12111,7 +12111,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 307,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12120,7 +12120,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 304,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12129,7 +12129,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 304,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12138,7 +12138,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 300,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12147,7 +12147,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 298,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12156,7 +12156,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 297,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12165,7 +12165,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 291,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12174,7 +12174,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 290,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12183,7 +12183,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 287,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12192,7 +12192,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 287,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12201,7 +12201,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 287,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12210,7 +12210,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 286,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12219,7 +12219,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 284,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12228,7 +12228,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 284,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12237,7 +12237,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 282,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12246,7 +12246,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 281,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12255,7 +12255,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 278,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12264,7 +12264,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 278,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12273,7 +12273,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 278,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12282,7 +12282,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 277,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12291,7 +12291,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 273,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12300,7 +12300,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 272,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12309,7 +12309,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 272,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -12318,7 +12318,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 270,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -12434,7 +12434,7 @@ const database = [
     "dept": "경영학과",
     "ratio": "비율정보없음",
     "cut": 301,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -12443,7 +12443,7 @@ const database = [
     "dept": "기계공학부",
     "ratio": "비율정보없음",
     "cut": 327,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -12452,7 +12452,7 @@ const database = [
     "dept": "재료공학부",
     "ratio": "비율정보없음",
     "cut": 325,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -12461,7 +12461,7 @@ const database = [
     "dept": "화학소재공학부",
     "ratio": "비율정보없음",
     "cut": 320,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -12470,7 +12470,7 @@ const database = [
     "dept": "산업빅데이터공학부",
     "ratio": "비율정보없음",
     "cut": 319,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -12479,7 +12479,7 @@ const database = [
     "dept": "컴퓨터공학부",
     "ratio": "비율정보없음",
     "cut": 331,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -12488,7 +12488,7 @@ const database = [
     "dept": "전자공학부",
     "ratio": "비율정보없음",
     "cut": 330,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -12497,7 +12497,7 @@ const database = [
     "dept": "스마트모빌리티전공",
     "ratio": "비율정보없음",
     "cut": 320,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -12506,7 +12506,7 @@ const database = [
     "dept": "바이오메디컬공학과",
     "ratio": "비율정보없음",
     "cut": 320,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -12515,7 +12515,7 @@ const database = [
     "dept": "건축토목환경공학부",
     "ratio": "비율정보없음",
     "cut": 320,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -12524,7 +12524,7 @@ const database = [
     "dept": "광시스템공학과",
     "ratio": "비율정보없음",
     "cut": 316,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -12533,7 +12533,7 @@ const database = [
     "dept": "자율전공학부",
     "ratio": "비율정보없음",
     "cut": 322,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -12543,7 +12543,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 252,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -12552,7 +12552,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -12561,7 +12561,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 282,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -12687,7 +12687,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 321,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -12696,7 +12696,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 315,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -12705,7 +12705,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 306,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -12714,7 +12714,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 268,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -12723,7 +12723,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -12732,7 +12732,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -12741,7 +12741,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 308,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -12903,7 +12903,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 305,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -12912,7 +12912,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 301,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -12921,7 +12921,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 300,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -12930,7 +12930,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 299,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -12939,7 +12939,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 296,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -12948,7 +12948,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 295,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -12957,7 +12957,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 295,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -12966,7 +12966,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 290,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -12975,7 +12975,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 290,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -12984,7 +12984,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 290,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -12993,7 +12993,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 289,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13002,7 +13002,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 288,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13011,7 +13011,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 288,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13020,7 +13020,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 285,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13029,7 +13029,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 283,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13038,7 +13038,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13047,7 +13047,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13056,7 +13056,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13065,7 +13065,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13074,7 +13074,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 329,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13083,7 +13083,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 302,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -13092,7 +13092,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -13101,7 +13101,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -13110,7 +13110,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -13119,7 +13119,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -13128,7 +13128,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 307,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -13137,7 +13137,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 304,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -13146,7 +13146,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 302,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -13155,7 +13155,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 302,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -13164,7 +13164,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 299,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -13173,7 +13173,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 298,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13182,7 +13182,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13191,7 +13191,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13200,7 +13200,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13209,7 +13209,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13218,7 +13218,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13227,7 +13227,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13236,7 +13236,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13245,7 +13245,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13254,7 +13254,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13263,7 +13263,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13272,7 +13272,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13281,7 +13281,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13290,7 +13290,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13299,7 +13299,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -13308,7 +13308,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -13317,7 +13317,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -13326,7 +13326,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13335,7 +13335,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13344,7 +13344,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13353,7 +13353,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13362,7 +13362,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13371,7 +13371,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13380,7 +13380,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13389,7 +13389,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13398,7 +13398,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13407,7 +13407,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13416,7 +13416,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13425,7 +13425,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13434,7 +13434,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13443,7 +13443,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13452,7 +13452,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -13461,7 +13461,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -13470,7 +13470,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -13479,7 +13479,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -13487,7 +13487,7 @@ const database = [
     "dept": "사회계열광역",
     "ratio": "비율정보없음",
     "cut": 362,
-    "kr": 0,
+    "kr": 25.0,
     "mr": 0
   },
   {
@@ -13496,7 +13496,7 @@ const database = [
     "dept": "인문계열광역",
     "ratio": "비율정보없음",
     "cut": 358,
-    "kr": 0,
+    "kr": 20.0,
     "mr": 0
   },
   {
@@ -13505,7 +13505,7 @@ const database = [
     "dept": "공학계열광역",
     "ratio": "비율정보없음",
     "cut": 365,
-    "kr": 0,
+    "kr": 30.0,
     "mr": 0
   },
   {
@@ -13524,7 +13524,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13533,7 +13533,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13542,7 +13542,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13551,7 +13551,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13560,7 +13560,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13569,7 +13569,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13578,7 +13578,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13587,7 +13587,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13596,7 +13596,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13605,7 +13605,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13614,7 +13614,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13623,7 +13623,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13632,7 +13632,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13641,7 +13641,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13650,7 +13650,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13659,7 +13659,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 321,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -13668,7 +13668,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13677,7 +13677,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 401,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13686,7 +13686,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13695,7 +13695,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13704,7 +13704,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13713,7 +13713,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13722,7 +13722,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13731,7 +13731,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13740,7 +13740,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13749,7 +13749,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13757,8 +13757,8 @@ const database = [
     "dept": "경영공학과",
     "ratio": "비율정보없음",
     "cut": 344,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": 20.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -13766,8 +13766,8 @@ const database = [
     "dept": "수학과",
     "ratio": "비율정보없음",
     "cut": 343,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": 30.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -13776,7 +13776,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13785,7 +13785,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13794,7 +13794,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13803,7 +13803,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 406,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13812,7 +13812,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13821,7 +13821,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13830,7 +13830,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13838,8 +13838,8 @@ const database = [
     "dept": "화학과",
     "ratio": "비율정보없음",
     "cut": 345,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": 30.0,
+    "mr": 0
   },
   {
     "group": "나",
@@ -13848,7 +13848,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13857,7 +13857,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13866,7 +13866,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13875,7 +13875,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13884,7 +13884,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -13893,7 +13893,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 410,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -13910,7 +13910,7 @@ const database = [
     "dept": "인문사회계열광역",
     "ratio": "비율정보없음",
     "cut": 342,
-    "kr": 0,
+    "kr": 20.0,
     "mr": 0
   },
   {
@@ -13938,7 +13938,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13947,7 +13947,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 404,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -13956,7 +13956,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 408,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -13992,7 +13992,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -14001,7 +14001,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -14019,7 +14019,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 410,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -14145,7 +14145,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 399,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -14154,7 +14154,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -14163,7 +14163,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 408,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -14190,7 +14190,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -14199,7 +14199,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -14208,7 +14208,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -14217,7 +14217,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -14226,7 +14226,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 274,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -14235,7 +14235,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -14244,7 +14244,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 306,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -14253,7 +14253,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 274,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -14262,7 +14262,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -14271,7 +14271,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -14280,7 +14280,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 296,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -14289,7 +14289,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 288,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -14333,7 +14333,7 @@ const database = [
     "dept": "경영학부",
     "ratio": "비율정보없음",
     "cut": 277,
-    "kr": 0,
+    "kr": 20.0,
     "mr": 0
   },
   {
@@ -14612,7 +14612,7 @@ const database = [
     "dept": "물리교육과",
     "ratio": "비율정보없음",
     "cut": 321,
-    "kr": 0,
+    "kr": 20.0,
     "mr": 0
   },
   {
@@ -14657,7 +14657,7 @@ const database = [
     "dept": "보건의료학과",
     "ratio": "비율정보없음",
     "cut": 291,
-    "kr": 0,
+    "kr": 20.0,
     "mr": 0
   },
   {
@@ -14784,7 +14784,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 270,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -14793,7 +14793,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -14802,7 +14802,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -14811,7 +14811,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 317,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -14820,7 +14820,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 279,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -14829,7 +14829,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -14838,7 +14838,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -14847,7 +14847,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 276,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -14856,7 +14856,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 275,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -14883,7 +14883,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 405,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -14892,7 +14892,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 304,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -14901,7 +14901,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -14910,7 +14910,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -14919,7 +14919,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -15180,7 +15180,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 403,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -15189,7 +15189,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -15558,7 +15558,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -15567,7 +15567,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -15576,7 +15576,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -15585,7 +15585,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 376,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -15594,7 +15594,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 375,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -15603,7 +15603,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 375,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -15612,7 +15612,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 375,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -15621,7 +15621,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 375,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -15630,7 +15630,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -15639,7 +15639,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -15648,7 +15648,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -15657,7 +15657,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -15666,7 +15666,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -15675,7 +15675,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -15684,7 +15684,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -15693,7 +15693,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 376,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -15702,7 +15702,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 375,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -15711,7 +15711,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 375,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -15720,7 +15720,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 375,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -15729,7 +15729,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -15738,7 +15738,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -15747,7 +15747,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -15756,7 +15756,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -15765,7 +15765,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -15774,7 +15774,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 383,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -15783,7 +15783,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -15792,7 +15792,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -15801,7 +15801,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -15810,7 +15810,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -15819,7 +15819,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -15828,7 +15828,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -15837,7 +15837,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -15846,7 +15846,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -15855,7 +15855,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 376,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -15864,7 +15864,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -15873,7 +15873,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 381,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -15882,7 +15882,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -15891,7 +15891,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -15900,7 +15900,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -15909,7 +15909,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -15918,7 +15918,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 376,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -15927,7 +15927,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -15936,7 +15936,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -15945,7 +15945,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -15954,7 +15954,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -15963,7 +15963,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -15972,7 +15972,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 299,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -15981,7 +15981,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 299,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -15990,7 +15990,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 296,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -15999,7 +15999,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 295,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16008,7 +16008,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 294,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16017,7 +16017,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 290,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16026,7 +16026,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 280,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16034,8 +16034,8 @@ const database = [
     "dept": "불교문화콘텐츠전공",
     "ratio": "비율정보없음",
     "cut": 279,
-    "kr": 50.0,
-    "mr": 0.0
+    "kr": 25.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -16044,7 +16044,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 271,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16053,7 +16053,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16061,8 +16061,8 @@ const database = [
     "dept": "행정경찰공공학부",
     "ratio": "비율정보없음",
     "cut": 313,
-    "kr": 50.0,
-    "mr": 0.0
+    "kr": 25.0,
+    "mr": 0
   },
   {
     "group": "다",
@@ -16071,7 +16071,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 304,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16079,8 +16079,8 @@ const database = [
     "dept": "경영학과",
     "ratio": "비율정보없음",
     "cut": 300,
-    "kr": 50.0,
-    "mr": 0.0
+    "kr": 25.0,
+    "mr": 0
   },
   {
     "group": "다",
@@ -16089,7 +16089,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 300,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16098,7 +16098,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 296,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16107,7 +16107,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 291,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16116,7 +16116,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 288,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16125,7 +16125,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 286,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16133,8 +16133,8 @@ const database = [
     "dept": "정보경영학과",
     "ratio": "비율정보없음",
     "cut": 284,
-    "kr": 50.0,
-    "mr": 0.0
+    "kr": 25.0,
+    "mr": 0
   },
   {
     "group": "다",
@@ -16143,7 +16143,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 283,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16152,7 +16152,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 280,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16161,7 +16161,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 302,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16170,7 +16170,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 317,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16178,8 +16178,8 @@ const database = [
     "dept": "전자정보통신공학과",
     "ratio": "비율정보없음",
     "cut": 313,
-    "kr": 50.0,
-    "mr": 0.0
+    "kr": 25.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -16188,7 +16188,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 307,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16197,7 +16197,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 307,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16206,7 +16206,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 299,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16215,7 +16215,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 290,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16224,7 +16224,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 409,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16233,7 +16233,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16242,7 +16242,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16251,7 +16251,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16260,7 +16260,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 313,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16269,7 +16269,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16287,7 +16287,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 297,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16296,7 +16296,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 399,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16305,7 +16305,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 406,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16314,7 +16314,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16323,7 +16323,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16332,7 +16332,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 375,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -16341,7 +16341,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 403,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -16350,7 +16350,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -16359,7 +16359,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 375,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16368,7 +16368,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 376,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16377,7 +16377,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 10.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -16404,7 +16404,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 400,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16475,8 +16475,8 @@ const database = [
     "dept": "사회복지학전공",
     "ratio": "비율정보없음",
     "cut": 354,
-    "kr": 0,
-    "mr": 0
+    "kr": NaN,
+    "mr": NaN
   },
   {
     "group": "가",
@@ -16565,8 +16565,8 @@ const database = [
     "dept": "정보통계학전공",
     "ratio": "비율정보없음",
     "cut": 355,
-    "kr": 0,
-    "mr": 0
+    "kr": NaN,
+    "mr": NaN
   },
   {
     "group": "가",
@@ -16602,7 +16602,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 290,
     "kr": 15.75,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -16611,7 +16611,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 268,
     "kr": 15.75,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -16620,7 +16620,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 258,
     "kr": 15.75,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16629,7 +16629,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 270,
     "kr": 15.75,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16638,7 +16638,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 286,
     "kr": 15.75,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -16647,7 +16647,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 268,
     "kr": 15.75,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16656,7 +16656,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 15.75,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16665,7 +16665,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 292,
     "kr": 15.75,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16674,7 +16674,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 291,
     "kr": 15.75,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16683,7 +16683,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 280,
     "kr": 15.75,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16692,7 +16692,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 275,
     "kr": 15.75,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16701,7 +16701,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 273,
     "kr": 15.75,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16710,7 +16710,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 268,
     "kr": 15.75,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16746,7 +16746,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 271,
     "kr": 15.75,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16764,7 +16764,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 305,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16773,7 +16773,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 296,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16782,7 +16782,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 280,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16791,7 +16791,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 278,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16800,7 +16800,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 272,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16809,7 +16809,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 267,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -16818,7 +16818,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 271,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16827,7 +16827,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 276,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16836,7 +16836,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 261,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16845,7 +16845,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 260,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16854,7 +16854,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16863,7 +16863,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16872,7 +16872,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 314,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16881,7 +16881,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 303,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16890,7 +16890,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 294,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16899,7 +16899,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 275,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16908,7 +16908,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 275,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -16917,7 +16917,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 275,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16926,7 +16926,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 278,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16935,7 +16935,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 277,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -16944,7 +16944,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 273,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -17033,8 +17033,8 @@ const database = [
     "dept": "국제한국어학과",
     "ratio": "비율정보없음",
     "cut": 267,
-    "kr": 0,
-    "mr": 0
+    "kr": 20.0,
+    "mr": 10.0
   },
   {
     "group": "다",
@@ -17223,7 +17223,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 408,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -17232,7 +17232,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -17241,7 +17241,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -17250,7 +17250,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 406,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -17259,7 +17259,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -17268,7 +17268,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -17277,7 +17277,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -17286,7 +17286,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 334,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -17295,7 +17295,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -17304,7 +17304,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -17313,7 +17313,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 329,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17322,7 +17322,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17331,7 +17331,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17340,7 +17340,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 334,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17349,7 +17349,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17358,7 +17358,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17367,7 +17367,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17376,7 +17376,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -17385,7 +17385,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17394,7 +17394,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17403,7 +17403,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 329,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17412,7 +17412,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17421,7 +17421,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17430,7 +17430,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -17439,7 +17439,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -17448,7 +17448,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -17457,7 +17457,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -17466,7 +17466,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -17475,7 +17475,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -17484,7 +17484,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -17493,7 +17493,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 329,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -17502,7 +17502,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 329,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -17511,7 +17511,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -17520,7 +17520,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -17529,7 +17529,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -17538,7 +17538,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 317,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -17547,7 +17547,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -17556,7 +17556,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 315,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17565,7 +17565,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17574,7 +17574,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17583,7 +17583,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17592,7 +17592,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17601,7 +17601,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17610,7 +17610,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17619,7 +17619,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17628,7 +17628,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17637,7 +17637,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17646,7 +17646,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 322,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17655,7 +17655,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 321,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17664,7 +17664,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -17673,7 +17673,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -17682,7 +17682,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 321,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -17691,7 +17691,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -17700,7 +17700,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -17709,7 +17709,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17718,7 +17718,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 295,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17726,7 +17726,7 @@ const database = [
     "dept": "경찰범죄심리학과",
     "ratio": "비율정보없음",
     "cut": 294,
-    "kr": 0,
+    "kr": 30.0,
     "mr": 0
   },
   {
@@ -17736,7 +17736,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 294,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -17745,7 +17745,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 284,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -17754,7 +17754,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 302,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -17763,7 +17763,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 299,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -17790,7 +17790,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 313,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17799,7 +17799,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 297,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17808,7 +17808,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 296,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -17825,7 +17825,7 @@ const database = [
     "dept": "철도운전제어학과",
     "ratio": "비율정보없음",
     "cut": 296,
-    "kr": 0,
+    "kr": 30.0,
     "mr": 0
   },
   {
@@ -17835,7 +17835,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17844,7 +17844,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -17853,7 +17853,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17862,7 +17862,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17871,7 +17871,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17880,7 +17880,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -17889,7 +17889,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -17898,7 +17898,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 304,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -18402,7 +18402,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 249,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -18411,7 +18411,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -18420,7 +18420,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -18429,7 +18429,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -18438,7 +18438,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -18447,7 +18447,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -18456,7 +18456,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -18465,7 +18465,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -18474,7 +18474,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -18483,7 +18483,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -18492,7 +18492,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -18501,7 +18501,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -18626,8 +18626,8 @@ const database = [
     "dept": "영어학과",
     "ratio": "비율정보없음",
     "cut": 277,
-    "kr": 0,
-    "mr": 0
+    "kr": NaN,
+    "mr": NaN
   },
   {
     "group": "다",
@@ -18789,7 +18789,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 296,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -18798,7 +18798,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 284,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -18807,7 +18807,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -18816,7 +18816,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 318,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -18825,7 +18825,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 289,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -18834,7 +18834,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 289,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -18843,7 +18843,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 286,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -18852,7 +18852,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 284,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -18861,7 +18861,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 283,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -18870,7 +18870,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 277,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -18879,7 +18879,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 324,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -18888,7 +18888,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 314,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -18897,7 +18897,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -18906,7 +18906,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 301,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -18915,7 +18915,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 295,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -18924,7 +18924,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 290,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -18933,7 +18933,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 288,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -18942,7 +18942,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 271,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -18951,7 +18951,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 294,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -18960,7 +18960,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -18969,7 +18969,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -18978,7 +18978,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 322,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -18987,7 +18987,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -18996,7 +18996,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19005,7 +19005,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 308,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19014,7 +19014,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 305,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19023,7 +19023,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 302,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19032,7 +19032,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 297,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19041,7 +19041,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 293,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19050,7 +19050,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 292,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19059,7 +19059,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 290,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -19068,7 +19068,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 302,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -19077,7 +19077,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 296,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -19086,7 +19086,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 290,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -19095,7 +19095,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 287,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -19104,7 +19104,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 287,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -19113,7 +19113,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 286,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19122,7 +19122,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 399,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19131,7 +19131,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 285,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19140,7 +19140,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19149,7 +19149,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19158,7 +19158,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19167,7 +19167,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19176,7 +19176,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19185,7 +19185,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19194,7 +19194,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19203,7 +19203,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 313,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19212,7 +19212,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 305,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19221,7 +19221,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 278,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19230,7 +19230,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 276,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19239,7 +19239,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 275,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19248,7 +19248,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 273,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19257,7 +19257,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 278,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -19266,7 +19266,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 278,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -19275,7 +19275,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -19284,7 +19284,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 277,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -19293,7 +19293,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 286,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19545,7 +19545,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19554,7 +19554,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19563,7 +19563,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 291,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19572,7 +19572,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 291,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19581,7 +19581,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 264,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -19590,7 +19590,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -19599,7 +19599,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 300,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -19608,7 +19608,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 296,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -19617,7 +19617,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 295,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -19626,7 +19626,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 291,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -19635,7 +19635,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 286,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -19644,7 +19644,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 300,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19653,7 +19653,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19662,7 +19662,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19671,7 +19671,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 317,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19680,7 +19680,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 302,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19689,7 +19689,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 292,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19698,7 +19698,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 291,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -19707,7 +19707,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -19716,7 +19716,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 305,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -19725,7 +19725,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 299,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19734,7 +19734,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19743,7 +19743,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19752,7 +19752,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19761,7 +19761,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19770,7 +19770,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19779,7 +19779,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19788,7 +19788,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19797,7 +19797,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -19806,7 +19806,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -19815,7 +19815,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -19824,7 +19824,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -19833,7 +19833,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -19842,7 +19842,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -19851,7 +19851,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 348,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -19860,7 +19860,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 348,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -19869,7 +19869,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -19878,7 +19878,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -19887,7 +19887,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19896,7 +19896,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -19905,7 +19905,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19914,7 +19914,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19923,7 +19923,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19932,7 +19932,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19941,7 +19941,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19950,7 +19950,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19959,7 +19959,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19968,7 +19968,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19977,7 +19977,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19986,7 +19986,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -19995,7 +19995,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20004,7 +20004,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20013,7 +20013,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20022,7 +20022,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20031,7 +20031,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20040,7 +20040,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20049,7 +20049,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20058,7 +20058,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20067,7 +20067,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20076,7 +20076,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20085,7 +20085,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20094,7 +20094,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20103,7 +20103,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20112,7 +20112,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20121,7 +20121,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -20130,7 +20130,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -20139,7 +20139,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20148,7 +20148,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20157,7 +20157,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20166,7 +20166,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20175,7 +20175,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20184,7 +20184,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20193,7 +20193,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20202,7 +20202,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20211,7 +20211,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20220,7 +20220,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20229,7 +20229,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20238,7 +20238,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20247,7 +20247,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20256,7 +20256,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20265,7 +20265,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20274,7 +20274,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20283,7 +20283,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -20292,7 +20292,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -20301,7 +20301,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20310,7 +20310,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 267,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20319,7 +20319,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 270,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -20328,7 +20328,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 265,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -20337,7 +20337,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 275,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20346,7 +20346,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20355,7 +20355,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20364,7 +20364,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 321,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20373,7 +20373,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 292,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20382,7 +20382,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 274,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20391,7 +20391,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 272,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20400,7 +20400,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20409,7 +20409,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20418,7 +20418,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 287,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20427,7 +20427,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 284,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20436,7 +20436,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20445,7 +20445,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20454,7 +20454,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 371,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20463,7 +20463,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20472,7 +20472,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20481,7 +20481,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20490,7 +20490,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20499,7 +20499,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20508,7 +20508,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20517,7 +20517,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20526,7 +20526,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20535,7 +20535,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20544,7 +20544,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20553,7 +20553,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20562,7 +20562,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20571,7 +20571,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20580,7 +20580,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20589,7 +20589,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20598,7 +20598,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20607,7 +20607,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20616,7 +20616,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20625,7 +20625,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20634,7 +20634,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20643,7 +20643,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20652,7 +20652,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20661,7 +20661,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20670,7 +20670,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20679,7 +20679,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20688,7 +20688,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20697,7 +20697,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20706,7 +20706,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20715,7 +20715,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20724,7 +20724,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20733,7 +20733,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20742,7 +20742,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20751,7 +20751,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20760,7 +20760,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20769,7 +20769,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -20778,7 +20778,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20787,7 +20787,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20796,7 +20796,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20805,7 +20805,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20814,7 +20814,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20823,7 +20823,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 376,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20832,7 +20832,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 375,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20841,7 +20841,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20850,7 +20850,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20859,7 +20859,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20868,7 +20868,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20877,7 +20877,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20886,7 +20886,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20895,7 +20895,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20904,7 +20904,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20913,7 +20913,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20922,7 +20922,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20931,7 +20931,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20940,7 +20940,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20949,7 +20949,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20958,7 +20958,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20967,7 +20967,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20976,7 +20976,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20985,7 +20985,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -20993,8 +20993,8 @@ const database = [
     "dept": "사회기반시스템공학과",
     "ratio": "비율정보없음",
     "cut": 361,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 25.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -21003,7 +21003,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -21012,7 +21012,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21021,7 +21021,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 376,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21030,7 +21030,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21039,7 +21039,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21048,7 +21048,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21057,7 +21057,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21066,7 +21066,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21075,7 +21075,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21084,7 +21084,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21093,7 +21093,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21102,7 +21102,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21111,7 +21111,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21120,7 +21120,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21129,7 +21129,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21138,7 +21138,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -21147,7 +21147,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -21156,7 +21156,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -21165,7 +21165,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -21174,7 +21174,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -21183,7 +21183,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 400,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21192,7 +21192,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21201,7 +21201,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21209,8 +21209,8 @@ const database = [
     "dept": "식품자원경제학과",
     "ratio": "비율정보없음",
     "cut": 353,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": 30.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -21219,7 +21219,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -21228,7 +21228,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -21237,7 +21237,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -21246,7 +21246,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -21255,7 +21255,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21264,7 +21264,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21273,7 +21273,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21282,7 +21282,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -21291,7 +21291,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 404,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -21300,7 +21300,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -21309,7 +21309,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21318,7 +21318,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 412,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21327,7 +21327,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 408,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21336,7 +21336,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -21345,7 +21345,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21354,7 +21354,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 410,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21363,7 +21363,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 406,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21372,7 +21372,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 277,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -21435,7 +21435,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 401,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21588,7 +21588,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21597,7 +21597,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21606,7 +21606,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21615,7 +21615,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21624,7 +21624,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21633,7 +21633,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21642,7 +21642,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21651,7 +21651,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21660,7 +21660,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21669,7 +21669,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21678,7 +21678,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21687,7 +21687,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21696,7 +21696,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21705,7 +21705,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21714,7 +21714,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21723,7 +21723,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21732,7 +21732,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21741,7 +21741,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21750,7 +21750,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21759,7 +21759,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21768,7 +21768,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21776,7 +21776,7 @@ const database = [
     "dept": "게임전공",
     "ratio": "비율정보없음",
     "cut": 361,
-    "kr": 0,
+    "kr": 20.0,
     "mr": 0
   },
   {
@@ -21786,7 +21786,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21795,7 +21795,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21804,7 +21804,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21813,7 +21813,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21831,7 +21831,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21840,7 +21840,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21849,7 +21849,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21858,7 +21858,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21867,7 +21867,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21876,7 +21876,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21885,7 +21885,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21894,7 +21894,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21903,7 +21903,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21912,7 +21912,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21921,7 +21921,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21930,7 +21930,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21939,7 +21939,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21948,7 +21948,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21957,7 +21957,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21966,7 +21966,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21975,7 +21975,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -21984,7 +21984,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -21993,7 +21993,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22047,7 +22047,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 401,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -22236,7 +22236,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 399,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -22245,7 +22245,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 399,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22479,7 +22479,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 40.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22488,7 +22488,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 40.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -22497,7 +22497,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 40.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -22524,7 +22524,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -22533,7 +22533,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 371,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -22542,7 +22542,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -22551,7 +22551,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -22560,7 +22560,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -22569,7 +22569,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22578,7 +22578,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 371,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22587,7 +22587,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -22596,7 +22596,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -22605,7 +22605,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -22614,7 +22614,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 375,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -22623,7 +22623,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -22632,7 +22632,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -22641,7 +22641,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -22650,7 +22650,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -22659,7 +22659,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -22668,7 +22668,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -22677,7 +22677,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 371,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -22686,7 +22686,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -22695,7 +22695,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -22704,7 +22704,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -22713,7 +22713,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -22722,7 +22722,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -22731,7 +22731,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22740,7 +22740,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22749,7 +22749,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22758,7 +22758,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22767,7 +22767,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22776,7 +22776,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22785,7 +22785,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22794,7 +22794,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22803,7 +22803,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22812,7 +22812,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22821,7 +22821,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -22830,7 +22830,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 375,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -22839,7 +22839,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -22848,7 +22848,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -22857,7 +22857,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -22875,7 +22875,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 384,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22884,7 +22884,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 273,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22893,7 +22893,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 268,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22902,7 +22902,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 263,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22911,7 +22911,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 258,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22919,8 +22919,8 @@ const database = [
     "dept": "경영대학",
     "ratio": "비율정보없음",
     "cut": 406,
-    "kr": 26.7,
-    "mr": 0.0
+    "kr": 50.0,
+    "mr": 0
   },
   {
     "group": "나",
@@ -22929,7 +22929,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 406,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22938,7 +22938,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 405,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22947,7 +22947,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 403,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22956,7 +22956,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22965,7 +22965,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22974,7 +22974,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22983,7 +22983,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 401,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -22991,8 +22991,8 @@ const database = [
     "dept": "사회학과",
     "ratio": "비율정보없음",
     "cut": 401,
-    "kr": 26.7,
-    "mr": 0.0
+    "kr": 50.0,
+    "mr": 0
   },
   {
     "group": "나",
@@ -23000,8 +23000,8 @@ const database = [
     "dept": "아동가족학전공",
     "ratio": "비율정보없음",
     "cut": 400,
-    "kr": 26.7,
-    "mr": 0.0
+    "kr": 50.0,
+    "mr": 0
   },
   {
     "group": "나",
@@ -23010,7 +23010,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 400,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23019,7 +23019,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 399,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23028,7 +23028,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 399,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23036,8 +23036,8 @@ const database = [
     "dept": "사회교육과",
     "ratio": "비율정보없음",
     "cut": 399,
-    "kr": 26.7,
-    "mr": 0.0
+    "kr": 50.0,
+    "mr": 0
   },
   {
     "group": "나",
@@ -23046,7 +23046,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23054,8 +23054,8 @@ const database = [
     "dept": "영어교육과",
     "ratio": "비율정보없음",
     "cut": 398,
-    "kr": 26.7,
-    "mr": 0.0
+    "kr": 50.0,
+    "mr": 0
   },
   {
     "group": "나",
@@ -23064,7 +23064,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23073,7 +23073,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23082,7 +23082,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 396,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23090,8 +23090,8 @@ const database = [
     "dept": "간호대학(유형1)",
     "ratio": "비율정보없음",
     "cut": 396,
-    "kr": 26.7,
-    "mr": 0.0
+    "kr": 50.0,
+    "mr": 0
   },
   {
     "group": "나",
@@ -23100,7 +23100,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 409,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23109,7 +23109,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 408,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23118,7 +23118,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 421,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23127,7 +23127,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 415,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23136,7 +23136,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 411,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23145,7 +23145,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 409,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23154,7 +23154,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 409,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23163,7 +23163,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 408,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23172,7 +23172,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 406,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23181,7 +23181,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 406,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23190,7 +23190,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 405,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23199,7 +23199,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 405,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23208,7 +23208,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 405,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23217,7 +23217,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 405,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23226,7 +23226,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 404,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23234,8 +23234,8 @@ const database = [
     "dept": "물리학전공",
     "ratio": "비율정보없음",
     "cut": 403,
-    "kr": 26.7,
-    "mr": 0.0
+    "kr": 50.0,
+    "mr": 0
   },
   {
     "group": "나",
@@ -23244,7 +23244,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 403,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23253,7 +23253,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 403,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23262,7 +23262,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 403,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23271,7 +23271,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23280,7 +23280,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23289,7 +23289,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23298,7 +23298,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23307,7 +23307,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 401,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23316,7 +23316,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 401,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23325,7 +23325,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 401,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23334,7 +23334,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 401,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23343,7 +23343,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 401,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23352,7 +23352,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 400,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23361,7 +23361,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 399,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23369,8 +23369,8 @@ const database = [
     "dept": "물리교육과",
     "ratio": "비율정보없음",
     "cut": 399,
-    "kr": 26.7,
-    "mr": 0.0
+    "kr": 50.0,
+    "mr": 0
   },
   {
     "group": "나",
@@ -23379,7 +23379,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 399,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23388,7 +23388,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 399,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23397,7 +23397,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 399,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23406,7 +23406,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23415,7 +23415,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23424,7 +23424,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23433,7 +23433,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23442,7 +23442,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 397,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23451,7 +23451,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 397,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23459,8 +23459,8 @@ const database = [
     "dept": "간호대학(유형2)",
     "ratio": "비율정보없음",
     "cut": 396,
-    "kr": 26.7,
-    "mr": 0.0
+    "kr": 50.0,
+    "mr": 0
   },
   {
     "group": "나",
@@ -23469,7 +23469,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 403,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23478,7 +23478,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 401,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23487,7 +23487,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 399,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23505,7 +23505,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23514,7 +23514,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 419,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23523,7 +23523,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 413,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23532,7 +23532,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 408,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23541,7 +23541,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 405,
     "kr": 26.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23559,7 +23559,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -23568,7 +23568,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 384,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23577,7 +23577,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 387,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23586,7 +23586,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23595,7 +23595,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23604,7 +23604,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 383,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23612,8 +23612,8 @@ const database = [
     "dept": "도시사회학과",
     "ratio": "비율정보없음",
     "cut": 383,
-    "kr": 20.0,
-    "mr": 0.0
+    "kr": 15.0,
+    "mr": 0
   },
   {
     "group": "나",
@@ -23622,7 +23622,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23630,8 +23630,8 @@ const database = [
     "dept": "사회복지학과",
     "ratio": "비율정보없음",
     "cut": 381,
-    "kr": 15.0,
-    "mr": 0.0
+    "kr": 20.0,
+    "mr": 0
   },
   {
     "group": "나",
@@ -23640,7 +23640,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 381,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23649,7 +23649,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23658,7 +23658,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23667,7 +23667,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23676,7 +23676,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -23685,7 +23685,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 385,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -23694,7 +23694,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 385,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23703,7 +23703,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 387,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23712,7 +23712,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 387,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23721,7 +23721,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23730,7 +23730,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 385,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23739,7 +23739,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 385,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23747,8 +23747,8 @@ const database = [
     "dept": "도시공학과",
     "ratio": "비율정보없음",
     "cut": 384,
-    "kr": 20.0,
-    "mr": 0.0
+    "kr": 15.0,
+    "mr": 0
   },
   {
     "group": "나",
@@ -23757,7 +23757,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 384,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23766,7 +23766,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 383,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23775,7 +23775,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 383,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23784,7 +23784,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 383,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23793,7 +23793,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23802,7 +23802,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23811,7 +23811,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23820,7 +23820,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23829,7 +23829,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23838,7 +23838,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 381,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23847,7 +23847,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -23855,8 +23855,8 @@ const database = [
     "dept": "환경원예학과",
     "ratio": "비율정보없음",
     "cut": 380,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": 20.0,
+    "mr": 0
   },
   {
     "group": "다",
@@ -23865,7 +23865,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -23874,7 +23874,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -23882,8 +23882,8 @@ const database = [
     "dept": "융합바이오헬스전공",
     "ratio": "비율정보없음",
     "cut": 385,
-    "kr": 20.0,
-    "mr": 0.0
+    "kr": 25.0,
+    "mr": 0
   },
   {
     "group": "다",
@@ -23892,7 +23892,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -23900,7 +23900,7 @@ const database = [
     "dept": "글로벌경영학과",
     "ratio": "비율정보없음",
     "cut": 321,
-    "kr": 0,
+    "kr": 40.0,
     "mr": 0
   },
   {
@@ -23909,7 +23909,7 @@ const database = [
     "dept": "사회복지학과",
     "ratio": "비율정보없음",
     "cut": 320,
-    "kr": 0,
+    "kr": 40.0,
     "mr": 0
   },
   {
@@ -23918,7 +23918,7 @@ const database = [
     "dept": "일본어문화콘텐츠학과",
     "ratio": "비율정보없음",
     "cut": 318,
-    "kr": 0,
+    "kr": 40.0,
     "mr": 0
   },
   {
@@ -23927,7 +23927,7 @@ const database = [
     "dept": "관광경영학과",
     "ratio": "비율정보없음",
     "cut": 310,
-    "kr": 0,
+    "kr": 40.0,
     "mr": 0
   },
   {
@@ -23936,7 +23936,7 @@ const database = [
     "dept": "중국언어문화콘텐츠학과",
     "ratio": "비율정보없음",
     "cut": 308,
-    "kr": 0,
+    "kr": 40.0,
     "mr": 0
   },
   {
@@ -23945,7 +23945,7 @@ const database = [
     "dept": "아동보육학과",
     "ratio": "비율정보없음",
     "cut": 304,
-    "kr": 0,
+    "kr": 40.0,
     "mr": 0
   },
   {
@@ -23954,7 +23954,7 @@ const database = [
     "dept": "유아교육과",
     "ratio": "비율정보없음",
     "cut": 329,
-    "kr": 0,
+    "kr": 40.0,
     "mr": 0
   },
   {
@@ -23963,7 +23963,7 @@ const database = [
     "dept": "자율전공학부",
     "ratio": "비율정보없음",
     "cut": 327,
-    "kr": 0,
+    "kr": 40.0,
     "mr": 0
   },
   {
@@ -23972,7 +23972,7 @@ const database = [
     "dept": "데이터사이언스학과",
     "ratio": "비율정보없음",
     "cut": 323,
-    "kr": 0,
+    "kr": 40.0,
     "mr": 0
   },
   {
@@ -24648,7 +24648,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 257,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -24657,7 +24657,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 259,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -24666,7 +24666,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -24675,7 +24675,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -24684,7 +24684,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -24693,7 +24693,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 280,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -24702,7 +24702,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 274,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -24711,7 +24711,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -24720,7 +24720,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 308,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -24756,7 +24756,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 297,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -24774,7 +24774,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -24783,7 +24783,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -24792,7 +24792,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -24801,7 +24801,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -24810,7 +24810,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 321,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -24819,7 +24819,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 321,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -24828,7 +24828,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 321,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -24837,7 +24837,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -24846,7 +24846,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 318,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -24855,7 +24855,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 315,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -24864,7 +24864,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 315,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -24873,7 +24873,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -24882,7 +24882,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -24891,7 +24891,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -24900,7 +24900,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -24909,7 +24909,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -24918,7 +24918,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -24927,7 +24927,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 322,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -24936,7 +24936,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 321,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -24963,7 +24963,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -24972,7 +24972,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -24981,7 +24981,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -24990,7 +24990,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -24999,7 +24999,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25008,7 +25008,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -25017,7 +25017,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -25296,7 +25296,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -25305,7 +25305,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -25314,7 +25314,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -25323,7 +25323,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -25332,7 +25332,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25341,7 +25341,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25350,7 +25350,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25359,7 +25359,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25368,7 +25368,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25377,7 +25377,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25386,7 +25386,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25395,7 +25395,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25404,7 +25404,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25413,7 +25413,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25422,7 +25422,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25431,7 +25431,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25440,7 +25440,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25449,7 +25449,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25458,7 +25458,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -25467,7 +25467,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -25476,7 +25476,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -25485,7 +25485,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -25494,7 +25494,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25503,7 +25503,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25512,7 +25512,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25521,7 +25521,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25529,8 +25529,8 @@ const database = [
     "dept": "융합보안공학과",
     "ratio": "비율정보없음",
     "cut": 361,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 20.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -25539,7 +25539,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25548,7 +25548,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25556,8 +25556,8 @@ const database = [
     "dept": "사회복지학과",
     "ratio": "비율정보없음",
     "cut": 356,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": 30.0,
+    "mr": 0
   },
   {
     "group": "나",
@@ -25566,7 +25566,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -25575,7 +25575,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -25584,7 +25584,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -25593,7 +25593,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -25602,7 +25602,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25611,7 +25611,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25620,7 +25620,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25629,7 +25629,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25638,7 +25638,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 284,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25647,7 +25647,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 280,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25656,7 +25656,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 277,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25665,7 +25665,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 277,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -25674,7 +25674,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 293,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25683,7 +25683,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25701,7 +25701,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 296,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25710,7 +25710,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 293,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25719,7 +25719,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 277,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -25737,7 +25737,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 296,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -25746,7 +25746,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 277,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25853,7 +25853,7 @@ const database = [
     "dept": "보건안전학과",
     "ratio": "비율정보없음",
     "cut": 268,
-    "kr": 0,
+    "kr": 50.0,
     "mr": 0
   },
   {
@@ -25908,7 +25908,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25917,7 +25917,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -25926,7 +25926,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 10.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -25935,7 +25935,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -25944,7 +25944,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -25953,7 +25953,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25971,7 +25971,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25980,7 +25980,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -25989,7 +25989,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -26007,7 +26007,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -26016,7 +26016,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -26025,7 +26025,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -26034,7 +26034,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -26043,7 +26043,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -26133,7 +26133,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -26160,7 +26160,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -26177,7 +26177,7 @@ const database = [
     "dept": "생명시스템학부",
     "ratio": "비율정보없음",
     "cut": 366,
-    "kr": 0,
+    "kr": 25.0,
     "mr": 0
   },
   {
@@ -26195,7 +26195,7 @@ const database = [
     "dept": "양자원자력공학과",
     "ratio": "비율정보없음",
     "cut": 366,
-    "kr": 0,
+    "kr": 25.0,
     "mr": 0
   },
   {
@@ -26258,7 +26258,7 @@ const database = [
     "dept": "정보보호학과",
     "ratio": "비율정보없음",
     "cut": 371,
-    "kr": 0,
+    "kr": 25.0,
     "mr": 0
   },
   {
@@ -26285,7 +26285,7 @@ const database = [
     "dept": "AI융합전자공학과",
     "ratio": "비율정보없음",
     "cut": 367,
-    "kr": 0,
+    "kr": 25.0,
     "mr": 0
   },
   {
@@ -26330,7 +26330,7 @@ const database = [
     "dept": "사이버국방학과(남)",
     "ratio": "비율정보없음",
     "cut": 362,
-    "kr": 0,
+    "kr": 25.0,
     "mr": 0
   },
   {
@@ -26339,7 +26339,7 @@ const database = [
     "dept": "사이버국방학과(여)",
     "ratio": "비율정보없음",
     "cut": 361,
-    "kr": 0,
+    "kr": 25.0,
     "mr": 0
   },
   {
@@ -26349,7 +26349,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -26358,7 +26358,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -26367,7 +26367,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -26376,7 +26376,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -26483,7 +26483,7 @@ const database = [
     "dept": "철도운전관제시스템학과",
     "ratio": "비율정보없음",
     "cut": 294,
-    "kr": 0.0,
+    "kr": 0,
     "mr": 5.0
   },
   {
@@ -26492,7 +26492,7 @@ const database = [
     "dept": "철도운전경영학과",
     "ratio": "비율정보없음",
     "cut": 290,
-    "kr": 0.0,
+    "kr": 0,
     "mr": 5.0
   },
   {
@@ -26537,7 +26537,7 @@ const database = [
     "dept": "철도운전시스템학과",
     "ratio": "비율정보없음",
     "cut": 303,
-    "kr": 0.0,
+    "kr": 0,
     "mr": 5.0
   },
   {
@@ -26556,7 +26556,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 287,
     "kr": 0,
-    "mr": 0
+    "mr": 5.0
   },
   {
     "group": "가",
@@ -26898,7 +26898,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -26907,7 +26907,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -26916,7 +26916,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -26925,7 +26925,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -26934,7 +26934,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -26943,7 +26943,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 371,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -26952,7 +26952,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 371,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -26961,7 +26961,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 371,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -26970,7 +26970,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -26979,7 +26979,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -26988,7 +26988,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -26996,7 +26996,7 @@ const database = [
     "dept": "테슬(TESL)전공",
     "ratio": "비율정보없음",
     "cut": 370,
-    "kr": 0,
+    "kr": 25.0,
     "mr": 0
   },
   {
@@ -27006,7 +27006,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27015,7 +27015,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27024,7 +27024,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27033,7 +27033,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27042,7 +27042,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27051,7 +27051,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27060,7 +27060,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27069,7 +27069,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27078,7 +27078,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27087,7 +27087,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27096,7 +27096,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27105,7 +27105,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27114,7 +27114,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -27123,7 +27123,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27132,7 +27132,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27141,7 +27141,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27150,7 +27150,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27159,7 +27159,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27168,7 +27168,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27177,7 +27177,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27186,7 +27186,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27195,7 +27195,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 371,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27204,7 +27204,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 371,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27213,7 +27213,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 371,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27222,7 +27222,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 371,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27231,7 +27231,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27240,7 +27240,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -27249,7 +27249,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -27258,7 +27258,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27267,7 +27267,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 324,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27276,7 +27276,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27285,7 +27285,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27294,7 +27294,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 317,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27438,7 +27438,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27447,7 +27447,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 401,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27456,7 +27456,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27465,7 +27465,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27474,7 +27474,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27483,7 +27483,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 318,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -27492,7 +27492,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -27501,7 +27501,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -27510,7 +27510,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -27519,7 +27519,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 318,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -27528,7 +27528,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -27537,7 +27537,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27546,7 +27546,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27555,7 +27555,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27564,7 +27564,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27573,7 +27573,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27582,7 +27582,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 321,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27591,7 +27591,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27600,7 +27600,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27609,7 +27609,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 318,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27618,7 +27618,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27627,7 +27627,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27636,7 +27636,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27645,7 +27645,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27654,7 +27654,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 321,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27663,7 +27663,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27672,7 +27672,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -27681,7 +27681,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -27690,7 +27690,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -27699,7 +27699,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -27708,7 +27708,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 321,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -27717,7 +27717,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 317,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -27726,7 +27726,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -27735,7 +27735,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27744,7 +27744,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 411,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27753,7 +27753,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27762,7 +27762,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27771,7 +27771,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27780,7 +27780,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 329,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27789,7 +27789,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27798,7 +27798,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27807,7 +27807,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27816,7 +27816,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27825,7 +27825,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 317,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27834,7 +27834,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27843,7 +27843,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 315,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27852,7 +27852,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 315,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27861,7 +27861,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 314,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27870,7 +27870,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 313,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27879,7 +27879,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27888,7 +27888,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27897,7 +27897,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27906,7 +27906,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27915,7 +27915,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 409,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -27924,7 +27924,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27933,7 +27933,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27942,7 +27942,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 371,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27951,7 +27951,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 371,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27960,7 +27960,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27969,7 +27969,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27978,7 +27978,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27987,7 +27987,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -27996,7 +27996,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -28005,7 +28005,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -28014,7 +28014,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -28023,7 +28023,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -28032,7 +28032,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -28041,7 +28041,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -28050,7 +28050,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -28059,7 +28059,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -28068,7 +28068,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -28077,7 +28077,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -28086,7 +28086,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -28095,7 +28095,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -28104,7 +28104,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28113,7 +28113,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28122,7 +28122,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -28131,7 +28131,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 376,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -28140,7 +28140,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -28149,7 +28149,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -28158,7 +28158,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -28167,7 +28167,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -28176,7 +28176,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28185,7 +28185,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28194,7 +28194,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28203,7 +28203,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28212,7 +28212,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28221,7 +28221,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28230,7 +28230,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28239,7 +28239,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28248,7 +28248,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 371,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28257,7 +28257,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 371,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28266,7 +28266,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 371,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28275,7 +28275,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28284,7 +28284,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28293,7 +28293,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -28320,7 +28320,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28329,7 +28329,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 329,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28338,7 +28338,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 329,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28347,7 +28347,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28356,7 +28356,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28365,7 +28365,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 293,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28374,7 +28374,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 289,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -28383,7 +28383,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 302,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28392,7 +28392,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28401,7 +28401,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 329,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28410,7 +28410,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28419,7 +28419,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28428,7 +28428,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28437,7 +28437,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -28445,7 +28445,7 @@ const database = [
     "dept": "항공교통물류학부",
     "ratio": "비율정보없음",
     "cut": 291,
-    "kr": 0,
+    "kr": 25.0,
     "mr": 0
   },
   {
@@ -28454,7 +28454,7 @@ const database = [
     "dept": "항공서비스학과",
     "ratio": "비율정보없음",
     "cut": 266,
-    "kr": 0,
+    "kr": 25.0,
     "mr": 0
   },
   {
@@ -28833,7 +28833,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 413,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -28842,7 +28842,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -28851,7 +28851,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 403,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -28860,7 +28860,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28869,7 +28869,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28878,7 +28878,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28887,7 +28887,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28896,7 +28896,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28905,7 +28905,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28914,7 +28914,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28923,7 +28923,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28932,7 +28932,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28941,7 +28941,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28950,7 +28950,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28959,7 +28959,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28968,7 +28968,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28977,7 +28977,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 376,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28986,7 +28986,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 375,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -28995,7 +28995,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 375,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29004,7 +29004,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 375,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29013,7 +29013,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29022,7 +29022,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29031,7 +29031,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29040,7 +29040,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29049,7 +29049,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29058,7 +29058,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 371,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29067,7 +29067,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29076,7 +29076,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29085,7 +29085,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29094,7 +29094,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29103,7 +29103,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29112,7 +29112,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29121,7 +29121,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29130,7 +29130,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29139,7 +29139,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -29157,7 +29157,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -29166,7 +29166,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -29175,7 +29175,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 334,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -29184,7 +29184,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -29193,7 +29193,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -29202,7 +29202,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 305,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -29211,7 +29211,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 288,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29220,7 +29220,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29229,7 +29229,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29238,7 +29238,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29247,7 +29247,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 334,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29256,7 +29256,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29265,7 +29265,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29274,7 +29274,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 301,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29283,7 +29283,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 321,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -29292,7 +29292,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -29301,7 +29301,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -29310,7 +29310,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -29319,7 +29319,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -29328,7 +29328,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -29337,7 +29337,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -29346,7 +29346,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -29355,7 +29355,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 322,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29364,7 +29364,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29373,7 +29373,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29382,7 +29382,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29391,7 +29391,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29400,7 +29400,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29409,7 +29409,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -29418,7 +29418,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 299,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -29427,7 +29427,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 298,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29436,7 +29436,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 399,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29445,7 +29445,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 399,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29454,7 +29454,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29463,7 +29463,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29472,7 +29472,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29481,7 +29481,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 396,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29490,7 +29490,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 396,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29499,7 +29499,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 395,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29508,7 +29508,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 395,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29517,7 +29517,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 395,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29526,7 +29526,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29535,7 +29535,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29544,7 +29544,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29553,7 +29553,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29562,7 +29562,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29571,7 +29571,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 392,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29580,7 +29580,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 392,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29589,7 +29589,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 392,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29598,7 +29598,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 392,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29607,7 +29607,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 391,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29616,7 +29616,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 391,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29625,7 +29625,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 391,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29634,7 +29634,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 391,
     "kr": 16.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29643,7 +29643,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 389,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29652,7 +29652,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 394,
     "kr": 16.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29661,7 +29661,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 394,
     "kr": 16.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29670,7 +29670,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 16.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29679,7 +29679,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 16.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29688,7 +29688,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 16.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29697,7 +29697,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 392,
     "kr": 16.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29706,7 +29706,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 419,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29715,7 +29715,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 411,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29724,7 +29724,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 401,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29733,7 +29733,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 400,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29742,7 +29742,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 400,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29751,7 +29751,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 400,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29760,7 +29760,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 399,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29769,7 +29769,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 399,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29778,7 +29778,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 399,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29787,7 +29787,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29796,7 +29796,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 397,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29805,7 +29805,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 397,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29814,7 +29814,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 397,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29823,7 +29823,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 397,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29832,7 +29832,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 396,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29841,7 +29841,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 396,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29850,7 +29850,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 396,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29858,8 +29858,8 @@ const database = [
     "dept": "건축공학과",
     "ratio": "비율정보없음",
     "cut": 396,
-    "kr": 33.3,
-    "mr": 0.0
+    "kr": 16.7,
+    "mr": 0
   },
   {
     "group": "가",
@@ -29868,7 +29868,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 396,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29877,7 +29877,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 395,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29886,7 +29886,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 395,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29894,8 +29894,8 @@ const database = [
     "dept": "사회환경시스템공학부",
     "ratio": "비율정보없음",
     "cut": 395,
-    "kr": 33.3,
-    "mr": 0.0
+    "kr": 25.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -29904,7 +29904,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 394,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29913,7 +29913,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 394,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29921,8 +29921,8 @@ const database = [
     "dept": "융합인문사회과학부(HASS)",
     "ratio": "비율정보없음",
     "cut": 390,
-    "kr": 16.7,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "가",
@@ -29931,7 +29931,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 405,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29940,7 +29940,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29949,7 +29949,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 397,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29958,7 +29958,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 396,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29966,8 +29966,8 @@ const database = [
     "dept": "융합과학공학부(ISE)",
     "ratio": "비율정보없음",
     "cut": 392,
-    "kr": 16.7,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "나",
@@ -29976,7 +29976,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29985,7 +29985,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 16.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -29993,8 +29993,8 @@ const database = [
     "dept": "물리치료학과",
     "ratio": "비율정보없음",
     "cut": 364,
-    "kr": 28.6,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "가",
@@ -30003,7 +30003,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -30012,7 +30012,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -30020,8 +30020,8 @@ const database = [
     "dept": "AI보건정보관리학과",
     "ratio": "비율정보없음",
     "cut": 349,
-    "kr": 28.6,
-    "mr": 0.0
+    "kr": 25.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -30030,7 +30030,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -30039,7 +30039,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -30048,7 +30048,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -30057,7 +30057,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -30066,7 +30066,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -30075,7 +30075,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30084,7 +30084,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 410,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30111,7 +30111,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 407,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30120,7 +30120,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30129,7 +30129,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30138,7 +30138,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30147,7 +30147,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30156,7 +30156,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30165,7 +30165,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30174,7 +30174,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30183,7 +30183,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30192,7 +30192,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30201,7 +30201,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30210,7 +30210,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30219,7 +30219,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30228,7 +30228,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30237,7 +30237,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30246,7 +30246,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30255,7 +30255,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30264,7 +30264,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30273,7 +30273,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30282,7 +30282,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30291,7 +30291,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30300,7 +30300,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30309,7 +30309,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30318,7 +30318,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30327,7 +30327,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30336,7 +30336,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30345,7 +30345,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30354,7 +30354,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30363,7 +30363,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 334,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30372,7 +30372,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30380,8 +30380,8 @@ const database = [
     "dept": "식품경제외식학과",
     "ratio": "비율정보없음",
     "cut": 332,
-    "kr": 20.0,
-    "mr": 0.0
+    "kr": 25.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -30390,7 +30390,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30399,7 +30399,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 401,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30408,7 +30408,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30417,7 +30417,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30426,7 +30426,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30435,7 +30435,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30444,7 +30444,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30453,7 +30453,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30462,7 +30462,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30471,7 +30471,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30480,7 +30480,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30489,7 +30489,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30498,7 +30498,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30507,7 +30507,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30516,7 +30516,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30525,7 +30525,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30534,7 +30534,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30543,7 +30543,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30552,7 +30552,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30561,7 +30561,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30570,7 +30570,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30579,7 +30579,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30588,7 +30588,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30596,8 +30596,8 @@ const database = [
     "dept": "화학공학부",
     "ratio": "비율정보없음",
     "cut": 338,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": 20.0,
+    "mr": 0
   },
   {
     "group": "다",
@@ -30606,7 +30606,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30615,7 +30615,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30624,7 +30624,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30633,7 +30633,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30642,7 +30642,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30651,7 +30651,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30660,7 +30660,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30669,7 +30669,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30678,7 +30678,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30687,7 +30687,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 400,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30696,7 +30696,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 409,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30705,7 +30705,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 406,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30714,7 +30714,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 262,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30768,7 +30768,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 291,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30777,7 +30777,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 257,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30786,7 +30786,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30795,7 +30795,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -30804,7 +30804,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 293,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30831,7 +30831,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30840,7 +30840,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30849,7 +30849,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30858,7 +30858,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30867,7 +30867,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30876,7 +30876,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30885,7 +30885,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30894,7 +30894,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30903,7 +30903,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30912,7 +30912,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30921,7 +30921,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30930,7 +30930,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30939,7 +30939,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30948,7 +30948,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30957,7 +30957,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30966,7 +30966,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30975,7 +30975,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30984,7 +30984,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 403,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -30993,7 +30993,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 400,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -31002,7 +31002,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -31011,7 +31011,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -31020,7 +31020,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 401,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -31029,7 +31029,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -31038,7 +31038,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 371,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -31047,7 +31047,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -31253,8 +31253,8 @@ const database = [
     "dept": "철도자율전공학부",
     "ratio": "비율정보없음",
     "cut": 316,
-    "kr": 0,
-    "mr": 0
+    "kr": NaN,
+    "mr": NaN
   },
   {
     "group": "가",
@@ -31271,8 +31271,8 @@ const database = [
     "dept": "철도소프트웨어전공",
     "ratio": "비율정보없음",
     "cut": 320,
-    "kr": 0,
-    "mr": 0
+    "kr": NaN,
+    "mr": NaN
   },
   {
     "group": "가",
@@ -31361,8 +31361,8 @@ const database = [
     "dept": "철도건설시스템전공",
     "ratio": "비율정보없음",
     "cut": 321,
-    "kr": 0,
-    "mr": 0
+    "kr": NaN,
+    "mr": NaN
   },
   {
     "group": "다",
@@ -31542,7 +31542,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 405,
     "kr": 27.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -31551,7 +31551,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 27.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -31560,7 +31560,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 305,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -31569,7 +31569,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 299,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -31578,7 +31578,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -31587,7 +31587,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 408,
     "kr": 27.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -31596,7 +31596,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 406,
     "kr": 27.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -31605,7 +31605,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 403,
     "kr": 27.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -31614,7 +31614,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 401,
     "kr": 27.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -31623,7 +31623,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 376,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -31632,7 +31632,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -31641,7 +31641,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 321,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -31650,7 +31650,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 300,
     "kr": 28.6,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -31659,7 +31659,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 293,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -31668,7 +31668,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32010,7 +32010,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 277,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32019,7 +32019,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 264,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32028,7 +32028,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 261,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32037,7 +32037,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 245,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -32046,7 +32046,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 278,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -32055,7 +32055,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 255,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -32064,7 +32064,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 248,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -32073,7 +32073,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 247,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32082,7 +32082,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 313,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32091,7 +32091,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 258,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -32100,7 +32100,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 292,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -32109,7 +32109,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 261,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -32118,7 +32118,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 260,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32127,7 +32127,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 239,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32136,7 +32136,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 260,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32145,7 +32145,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32154,7 +32154,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32163,7 +32163,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 292,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32172,7 +32172,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 291,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32181,7 +32181,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 273,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32190,7 +32190,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 273,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32199,7 +32199,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 268,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32208,7 +32208,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 261,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -32217,7 +32217,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 258,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -32226,7 +32226,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 254,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -32235,7 +32235,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 253,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -32244,7 +32244,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 250,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -32253,7 +32253,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 250,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -32262,7 +32262,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 246,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -32271,7 +32271,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 253,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -32280,7 +32280,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 277,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -32289,7 +32289,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 273,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -32298,7 +32298,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 264,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -32307,7 +32307,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 263,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -32316,7 +32316,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 262,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -32334,7 +32334,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 411,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32343,7 +32343,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 409,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32352,7 +32352,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -32361,7 +32361,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32370,7 +32370,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32379,7 +32379,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32388,7 +32388,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32397,7 +32397,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32406,7 +32406,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32415,7 +32415,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32424,7 +32424,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32433,7 +32433,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32442,7 +32442,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32451,7 +32451,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -32460,7 +32460,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32469,7 +32469,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32478,7 +32478,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32487,7 +32487,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32496,7 +32496,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32505,7 +32505,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32514,7 +32514,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32523,7 +32523,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32532,7 +32532,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32541,7 +32541,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32550,7 +32550,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32559,7 +32559,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32568,7 +32568,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32577,7 +32577,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32586,7 +32586,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32595,7 +32595,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 385,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32604,7 +32604,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 383,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32613,7 +32613,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32622,7 +32622,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32631,7 +32631,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 381,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32640,7 +32640,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 381,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32649,7 +32649,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 409,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32658,7 +32658,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32667,7 +32667,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 383,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32676,7 +32676,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 383,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32685,7 +32685,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 381,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -32694,7 +32694,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32721,7 +32721,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 385,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32730,7 +32730,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 412,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32738,8 +32738,8 @@ const database = [
     "dept": "약학전공",
     "ratio": "비율정보없음",
     "cut": 402,
-    "kr": 0,
-    "mr": 0
+    "kr": NaN,
+    "mr": NaN
   },
   {
     "group": "나",
@@ -32748,7 +32748,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 387,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32757,7 +32757,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32766,7 +32766,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 385,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -32774,8 +32774,8 @@ const database = [
     "dept": "과학교육과",
     "ratio": "비율정보없음",
     "cut": 383,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": 20.0,
+    "mr": 0
   },
   {
     "group": "다",
@@ -32784,7 +32784,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32793,7 +32793,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 288,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32802,7 +32802,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 280,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32811,7 +32811,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 280,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32820,7 +32820,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 401,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32829,7 +32829,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32838,7 +32838,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32847,7 +32847,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32856,7 +32856,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 291,
     "kr": 40.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32865,7 +32865,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 284,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32919,7 +32919,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 285,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32946,7 +32946,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 399,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32955,7 +32955,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 412,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32964,7 +32964,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -32973,7 +32973,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 408,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -32982,7 +32982,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33000,7 +33000,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33009,7 +33009,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33018,7 +33018,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33027,7 +33027,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33036,7 +33036,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33045,7 +33045,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33054,7 +33054,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33063,7 +33063,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33072,7 +33072,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33081,7 +33081,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33090,7 +33090,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33099,7 +33099,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33108,7 +33108,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33117,7 +33117,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33126,7 +33126,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33135,7 +33135,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33144,7 +33144,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33153,7 +33153,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 348,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33162,7 +33162,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33171,7 +33171,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33180,7 +33180,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33189,7 +33189,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33198,7 +33198,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33207,7 +33207,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33216,7 +33216,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33225,7 +33225,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33234,7 +33234,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33243,7 +33243,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33252,7 +33252,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33261,7 +33261,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33270,7 +33270,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33279,7 +33279,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33288,7 +33288,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33297,7 +33297,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33306,7 +33306,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33315,7 +33315,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33324,7 +33324,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33333,7 +33333,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33342,7 +33342,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33351,7 +33351,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33360,7 +33360,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33369,7 +33369,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33378,7 +33378,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33387,7 +33387,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33396,7 +33396,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33404,8 +33404,8 @@ const database = [
     "dept": "정보통신공학과",
     "ratio": "비율정보없음",
     "cut": 357,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 25.0,
+    "mr": 0
   },
   {
     "group": "다",
@@ -33414,7 +33414,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33423,7 +33423,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33431,8 +33431,8 @@ const database = [
     "dept": "도시건축학부",
     "ratio": "비율정보없음",
     "cut": 353,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 25.0,
+    "mr": 0
   },
   {
     "group": "다",
@@ -33440,8 +33440,8 @@ const database = [
     "dept": "도시공학과",
     "ratio": "비율정보없음",
     "cut": 352,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 25.0,
+    "mr": 0
   },
   {
     "group": "다",
@@ -33450,7 +33450,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33459,7 +33459,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33468,7 +33468,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33477,7 +33477,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33486,7 +33486,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33522,7 +33522,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33531,7 +33531,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33548,8 +33548,8 @@ const database = [
     "dept": "경영학과",
     "ratio": "비율정보없음",
     "cut": 366,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": NaN,
+    "mr": NaN
   },
   {
     "group": "나",
@@ -33557,8 +33557,8 @@ const database = [
     "dept": "사회교육과",
     "ratio": "비율정보없음",
     "cut": 366,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": NaN,
+    "mr": NaN
   },
   {
     "group": "나",
@@ -33567,7 +33567,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33576,7 +33576,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33585,7 +33585,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33594,7 +33594,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33603,7 +33603,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33612,7 +33612,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33621,7 +33621,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33629,8 +33629,8 @@ const database = [
     "dept": "사회복지학과",
     "ratio": "비율정보없음",
     "cut": 361,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": NaN,
+    "mr": NaN
   },
   {
     "group": "나",
@@ -33639,7 +33639,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33648,7 +33648,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33657,7 +33657,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33666,7 +33666,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33675,7 +33675,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33684,7 +33684,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33693,7 +33693,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33702,7 +33702,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33711,7 +33711,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33720,7 +33720,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 413,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33729,7 +33729,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 375,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -33756,7 +33756,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33765,7 +33765,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33774,7 +33774,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33783,7 +33783,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33792,7 +33792,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33801,7 +33801,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 370,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33809,8 +33809,8 @@ const database = [
     "dept": "공학융합학부",
     "ratio": "비율정보없음",
     "cut": 369,
-    "kr": NaN,
-    "mr": NaN
+    "kr": 30.0,
+    "mr": 0
   },
   {
     "group": "나",
@@ -33819,7 +33819,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33828,7 +33828,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33837,7 +33837,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33846,7 +33846,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33855,7 +33855,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33864,7 +33864,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33873,7 +33873,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33881,8 +33881,8 @@ const database = [
     "dept": "사회인프라공학과",
     "ratio": "비율정보없음",
     "cut": 364,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": NaN,
+    "mr": NaN
   },
   {
     "group": "나",
@@ -33891,7 +33891,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -33900,7 +33900,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33909,7 +33909,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33918,7 +33918,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33927,7 +33927,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 372,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33936,7 +33936,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33945,7 +33945,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33954,7 +33954,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33963,7 +33963,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33971,8 +33971,8 @@ const database = [
     "dept": "화학과",
     "ratio": "비율정보없음",
     "cut": 367,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": 30.0,
+    "mr": 0
   },
   {
     "group": "다",
@@ -33981,7 +33981,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33990,7 +33990,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -33999,7 +33999,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -34008,7 +34008,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -34017,7 +34017,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -34026,7 +34026,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34035,7 +34035,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34044,7 +34044,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34053,7 +34053,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34062,7 +34062,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34071,7 +34071,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34080,7 +34080,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34089,7 +34089,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34098,7 +34098,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34107,7 +34107,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 348,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34116,7 +34116,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 348,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34125,7 +34125,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34134,7 +34134,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34143,7 +34143,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34152,7 +34152,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34161,7 +34161,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34170,7 +34170,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34179,7 +34179,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34188,7 +34188,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34197,7 +34197,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34206,7 +34206,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34215,7 +34215,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34224,7 +34224,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34233,7 +34233,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34242,7 +34242,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 348,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34251,7 +34251,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 348,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34260,7 +34260,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 348,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34269,7 +34269,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34278,7 +34278,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34287,7 +34287,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34296,7 +34296,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 411,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34305,7 +34305,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 406,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34314,7 +34314,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34323,7 +34323,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34332,7 +34332,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34341,7 +34341,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34350,7 +34350,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34359,7 +34359,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34368,7 +34368,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34377,7 +34377,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34386,7 +34386,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34395,7 +34395,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34404,7 +34404,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34413,7 +34413,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34422,7 +34422,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34431,7 +34431,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34440,7 +34440,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34449,7 +34449,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34458,7 +34458,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34467,7 +34467,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34476,7 +34476,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34485,7 +34485,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34494,7 +34494,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34503,7 +34503,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34512,7 +34512,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34521,7 +34521,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34530,7 +34530,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34539,7 +34539,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34548,7 +34548,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34557,7 +34557,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 400,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34566,7 +34566,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34575,7 +34575,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34584,7 +34584,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34593,7 +34593,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34602,7 +34602,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34611,7 +34611,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34620,7 +34620,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34629,7 +34629,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34638,7 +34638,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34647,7 +34647,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34656,7 +34656,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34665,7 +34665,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34674,7 +34674,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34683,7 +34683,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34692,7 +34692,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34701,7 +34701,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34710,7 +34710,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34719,7 +34719,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34728,7 +34728,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34737,7 +34737,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 410,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34746,7 +34746,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 405,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34755,7 +34755,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34764,7 +34764,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 401,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34773,7 +34773,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -34782,7 +34782,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 288,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -34791,7 +34791,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 285,
     "kr": 24.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34799,7 +34799,7 @@ const database = [
     "dept": "문화관광경영학과",
     "ratio": "비율정보없음",
     "cut": 300,
-    "kr": 0,
+    "kr": 24.0,
     "mr": 0
   },
   {
@@ -34808,7 +34808,7 @@ const database = [
     "dept": "영어학전공",
     "ratio": "비율정보없음",
     "cut": 315,
-    "kr": 0,
+    "kr": 24.0,
     "mr": 0
   },
   {
@@ -34880,7 +34880,7 @@ const database = [
     "dept": "산업기술융합공학과(야)",
     "ratio": "비율정보없음",
     "cut": 267,
-    "kr": 0,
+    "kr": 24.0,
     "mr": 0
   },
   {
@@ -34898,7 +34898,7 @@ const database = [
     "dept": "공학계열",
     "ratio": "비율정보없음",
     "cut": 299,
-    "kr": 0,
+    "kr": 24.0,
     "mr": 0
   },
   {
@@ -34907,7 +34907,7 @@ const database = [
     "dept": "건축디자인학과",
     "ratio": "비율정보없음",
     "cut": 298,
-    "kr": 0,
+    "kr": 24.0,
     "mr": 0
   },
   {
@@ -34916,7 +34916,7 @@ const database = [
     "dept": "문화콘텐츠학부",
     "ratio": "비율정보없음",
     "cut": 296,
-    "kr": 0,
+    "kr": 24.0,
     "mr": 0
   },
   {
@@ -34935,7 +34935,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34944,7 +34944,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34953,7 +34953,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34962,7 +34962,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34971,7 +34971,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34980,7 +34980,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -34989,7 +34989,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -34998,7 +34998,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35007,7 +35007,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -35016,7 +35016,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 406,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -35025,7 +35025,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -35033,8 +35033,8 @@ const database = [
     "dept": "과학교육학부",
     "ratio": "비율정보없음",
     "cut": 351,
-    "kr": 40.0,
-    "mr": 0.0
+    "kr": 30.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -35043,7 +35043,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -35052,7 +35052,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -35061,7 +35061,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -35070,7 +35070,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -35079,7 +35079,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35088,7 +35088,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 409,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35097,7 +35097,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 400,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35106,7 +35106,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35115,7 +35115,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35124,7 +35124,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35133,7 +35133,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35142,7 +35142,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -35159,7 +35159,7 @@ const database = [
     "dept": "국어국문학과",
     "ratio": "비율정보없음",
     "cut": 337,
-    "kr": 0,
+    "kr": 30.0,
     "mr": 0
   },
   {
@@ -35168,7 +35168,7 @@ const database = [
     "dept": "영어영문학과",
     "ratio": "비율정보없음",
     "cut": 336,
-    "kr": 0,
+    "kr": 30.0,
     "mr": 0
   },
   {
@@ -35268,7 +35268,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 403,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35277,7 +35277,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 406,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35286,7 +35286,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35295,7 +35295,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 401,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35304,7 +35304,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35313,7 +35313,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -35322,7 +35322,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 275,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35331,7 +35331,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 306,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35340,7 +35340,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 277,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35349,7 +35349,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35358,7 +35358,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35367,7 +35367,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35376,7 +35376,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 318,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35385,7 +35385,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 288,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35394,7 +35394,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 279,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35403,7 +35403,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 287,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -35412,7 +35412,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 291,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -35421,7 +35421,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 288,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -35430,7 +35430,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 284,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -35439,7 +35439,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 277,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -35448,7 +35448,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 276,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -35457,7 +35457,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 275,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -35466,7 +35466,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 273,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -35475,7 +35475,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 272,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -35484,7 +35484,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 271,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -35493,7 +35493,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 264,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35502,7 +35502,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 282,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35511,7 +35511,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35520,7 +35520,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35529,7 +35529,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 329,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35538,7 +35538,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35547,7 +35547,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35556,7 +35556,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35565,7 +35565,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 305,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35574,7 +35574,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 288,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35583,7 +35583,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 271,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -35592,7 +35592,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 273,
     "kr": 10.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -35601,7 +35601,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 268,
     "kr": 10.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -35610,7 +35610,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 262,
     "kr": 10.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -35619,7 +35619,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 278,
     "kr": 10.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -35628,7 +35628,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 278,
     "kr": 10.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -35637,7 +35637,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 269,
     "kr": 10.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -35646,7 +35646,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 262,
     "kr": 10.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35655,7 +35655,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35664,7 +35664,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35673,7 +35673,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35682,7 +35682,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35691,7 +35691,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35700,7 +35700,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 324,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35709,7 +35709,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35718,7 +35718,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35727,7 +35727,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 318,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35736,7 +35736,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35744,7 +35744,7 @@ const database = [
     "dept": "경영전공(야)",
     "ratio": "비율정보없음",
     "cut": 279,
-    "kr": 0,
+    "kr": 30.0,
     "mr": 0
   },
   {
@@ -35754,7 +35754,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35763,7 +35763,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35772,7 +35772,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35781,7 +35781,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35790,7 +35790,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35799,7 +35799,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35808,7 +35808,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35817,7 +35817,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35826,7 +35826,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35835,7 +35835,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35844,7 +35844,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35853,7 +35853,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35862,7 +35862,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 314,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35871,7 +35871,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -35880,7 +35880,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 277,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35889,7 +35889,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 408,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35898,7 +35898,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35907,7 +35907,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35916,7 +35916,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35925,7 +35925,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35934,7 +35934,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 317,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35943,7 +35943,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 315,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35952,7 +35952,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 314,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35961,7 +35961,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 314,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35970,7 +35970,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35979,7 +35979,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 307,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35988,7 +35988,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 305,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -35997,7 +35997,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 305,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -36006,7 +36006,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 303,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -36015,7 +36015,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 298,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -36024,7 +36024,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 296,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -36033,7 +36033,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 400,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -36042,7 +36042,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 400,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -36051,7 +36051,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -36060,7 +36060,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -36069,7 +36069,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -36078,7 +36078,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -36087,7 +36087,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -36096,7 +36096,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -36105,7 +36105,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -36114,7 +36114,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -36123,7 +36123,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 322,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -36132,7 +36132,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -36141,7 +36141,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -36150,7 +36150,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 314,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -36159,7 +36159,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 314,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -36168,7 +36168,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 313,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -36177,7 +36177,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 313,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -36186,7 +36186,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 307,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -36195,7 +36195,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 305,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -36204,7 +36204,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 303,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -36213,7 +36213,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 303,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -36222,7 +36222,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 299,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -36240,7 +36240,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 405,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -36249,7 +36249,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 398,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -36258,7 +36258,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 397,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -36267,7 +36267,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -36276,7 +36276,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 409,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -36285,7 +36285,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 406,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -36294,7 +36294,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 403,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -36303,7 +36303,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -36816,7 +36816,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 403,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -36825,7 +36825,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 400,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -36834,7 +36834,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 407,
     "kr": 15.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -36843,7 +36843,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -36878,8 +36878,8 @@ const database = [
     "dept": "경찰경호학전공",
     "ratio": "비율정보없음",
     "cut": 278,
-    "kr": 0,
-    "mr": 0
+    "kr": 30.0,
+    "mr": 30.0
   },
   {
     "group": "가",
@@ -37122,7 +37122,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 388,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37131,7 +37131,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 387,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37140,7 +37140,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 387,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37149,7 +37149,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37158,7 +37158,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37167,7 +37167,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 385,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37176,7 +37176,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 385,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37185,7 +37185,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 385,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37194,7 +37194,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 384,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37203,7 +37203,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 384,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37212,7 +37212,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 383,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -37221,7 +37221,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -37230,7 +37230,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -37239,7 +37239,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -37248,7 +37248,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -37257,7 +37257,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 385,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -37266,7 +37266,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 385,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -37275,7 +37275,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 385,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -37284,7 +37284,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 385,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -37293,7 +37293,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 384,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -37302,7 +37302,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 384,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -37311,7 +37311,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 384,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -37320,7 +37320,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 384,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -37329,7 +37329,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 388,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37338,7 +37338,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 406,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37347,7 +37347,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 390,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37356,7 +37356,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 389,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37365,7 +37365,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 389,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37374,7 +37374,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 387,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37383,7 +37383,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -37392,7 +37392,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 414,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -37401,7 +37401,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 391,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -37410,7 +37410,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 390,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -37419,7 +37419,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 388,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -37428,7 +37428,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 387,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -37437,7 +37437,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -37445,8 +37445,8 @@ const database = [
     "dept": "도시시스템공학전공",
     "ratio": "비율정보없음",
     "cut": 386,
-    "kr": 35.0,
-    "mr": 0.0
+    "kr": 30.0,
+    "mr": 0
   },
   {
     "group": "나",
@@ -37455,7 +37455,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -37464,7 +37464,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 385,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -37473,7 +37473,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 383,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -37482,7 +37482,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 391,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -37491,7 +37491,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 389,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37500,7 +37500,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37509,7 +37509,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37518,7 +37518,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37527,7 +37527,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37536,7 +37536,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -37545,7 +37545,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -37554,7 +37554,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37563,7 +37563,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 267,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37572,7 +37572,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 265,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37581,7 +37581,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 293,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37590,7 +37590,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 267,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37707,7 +37707,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -37716,7 +37716,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -37725,7 +37725,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -37734,7 +37734,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 35.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37743,7 +37743,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 270,
     "kr": 10.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37752,7 +37752,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 262,
     "kr": 10.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37761,7 +37761,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 254,
     "kr": 10.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37770,7 +37770,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 253,
     "kr": 10.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37779,7 +37779,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 322,
     "kr": 10.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37788,7 +37788,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 286,
     "kr": 10.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37797,7 +37797,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 271,
     "kr": 10.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37806,7 +37806,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 269,
     "kr": 10.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37815,7 +37815,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 268,
     "kr": 10.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37824,7 +37824,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 263,
     "kr": 10.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37833,7 +37833,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37842,7 +37842,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 334,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37851,7 +37851,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 334,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37860,7 +37860,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37869,7 +37869,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37878,7 +37878,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37887,7 +37887,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37896,7 +37896,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37905,7 +37905,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 315,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37914,7 +37914,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 315,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -37923,7 +37923,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -37932,7 +37932,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -37941,7 +37941,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 329,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -37950,7 +37950,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -37959,7 +37959,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -37968,7 +37968,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -37977,7 +37977,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 318,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -37986,7 +37986,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -37995,7 +37995,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38004,7 +38004,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38013,7 +38013,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38022,7 +38022,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38031,7 +38031,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38040,7 +38040,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38049,7 +38049,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38058,7 +38058,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38067,7 +38067,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 322,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38076,7 +38076,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 322,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38085,7 +38085,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38094,7 +38094,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 317,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38103,7 +38103,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38112,7 +38112,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38121,7 +38121,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 314,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38130,7 +38130,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38139,7 +38139,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38148,7 +38148,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38157,7 +38157,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38166,7 +38166,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38175,7 +38175,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38184,7 +38184,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38193,7 +38193,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 314,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38202,7 +38202,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38211,7 +38211,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38247,7 +38247,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 285,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38427,7 +38427,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38436,7 +38436,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 305,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38445,7 +38445,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 303,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38454,7 +38454,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 300,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38463,7 +38463,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 298,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38472,7 +38472,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 296,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38481,7 +38481,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 295,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38490,7 +38490,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 290,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38499,7 +38499,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 288,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38508,7 +38508,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 288,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38517,7 +38517,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 286,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38526,7 +38526,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 285,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -38535,7 +38535,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 318,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38544,7 +38544,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 305,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38553,7 +38553,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 304,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38562,7 +38562,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 300,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38571,7 +38571,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 300,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38580,7 +38580,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 294,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38589,7 +38589,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 284,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -38598,7 +38598,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 303,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38607,7 +38607,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38616,7 +38616,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 303,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38625,7 +38625,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 303,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38634,7 +38634,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 303,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38643,7 +38643,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 297,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38652,7 +38652,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 296,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38661,7 +38661,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 296,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38670,7 +38670,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 293,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38679,7 +38679,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 287,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -38688,7 +38688,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -38697,7 +38697,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 291,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -38706,7 +38706,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 288,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -38715,7 +38715,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 287,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -38724,7 +38724,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 286,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38733,7 +38733,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38741,8 +38741,8 @@ const database = [
     "dept": "항공운항학과",
     "ratio": "비율정보없음",
     "cut": 343,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": 33.3,
+    "mr": 0
   },
   {
     "group": "다",
@@ -38751,7 +38751,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38760,7 +38760,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38769,7 +38769,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 321,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38778,7 +38778,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 317,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38787,7 +38787,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38796,7 +38796,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 307,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38805,7 +38805,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 298,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38814,7 +38814,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 296,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38823,7 +38823,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 294,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38832,7 +38832,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 287,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38841,7 +38841,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 303,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -38850,7 +38850,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 296,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38859,7 +38859,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38868,7 +38868,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -38985,7 +38985,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 368,
     "kr": 16.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -38994,7 +38994,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 16.7,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39003,7 +39003,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39012,7 +39012,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39021,7 +39021,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39030,7 +39030,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39039,7 +39039,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39048,7 +39048,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39057,7 +39057,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39066,7 +39066,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39075,7 +39075,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39084,7 +39084,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39093,7 +39093,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39102,7 +39102,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39111,7 +39111,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39120,7 +39120,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39129,7 +39129,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 348,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39138,7 +39138,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39147,7 +39147,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39156,7 +39156,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39165,7 +39165,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39174,7 +39174,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39183,7 +39183,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39192,7 +39192,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 348,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39201,7 +39201,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 348,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39210,7 +39210,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 348,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39219,7 +39219,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 348,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39228,7 +39228,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39237,7 +39237,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39246,7 +39246,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39255,7 +39255,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39264,7 +39264,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39273,7 +39273,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39282,7 +39282,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39291,7 +39291,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39300,7 +39300,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 369,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39309,7 +39309,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39318,7 +39318,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39327,7 +39327,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39336,7 +39336,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39345,7 +39345,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39354,7 +39354,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39363,7 +39363,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39372,7 +39372,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39381,7 +39381,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39390,7 +39390,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39399,7 +39399,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39408,7 +39408,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39417,7 +39417,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39426,7 +39426,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39435,7 +39435,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39444,7 +39444,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39453,7 +39453,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39462,7 +39462,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39471,7 +39471,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39480,7 +39480,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39489,7 +39489,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39498,7 +39498,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39507,7 +39507,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39516,7 +39516,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39525,7 +39525,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39534,7 +39534,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39543,7 +39543,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39552,7 +39552,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39561,7 +39561,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 410,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39570,7 +39570,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 401,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39579,7 +39579,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39588,7 +39588,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39597,7 +39597,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39606,7 +39606,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39615,7 +39615,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39624,7 +39624,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39633,7 +39633,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39642,7 +39642,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39651,7 +39651,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39660,7 +39660,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39669,7 +39669,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39678,7 +39678,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39704,7 +39704,7 @@ const database = [
     "dept": "해양안보학전공(여)",
     "ratio": "비율정보없음",
     "cut": 335,
-    "kr": 0,
+    "kr": 30.0,
     "mr": 0
   },
   {
@@ -39713,7 +39713,7 @@ const database = [
     "dept": "해양안보학전공(남)",
     "ratio": "비율정보없음",
     "cut": 334,
-    "kr": 0,
+    "kr": 30.0,
     "mr": 0
   },
   {
@@ -39723,7 +39723,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 408,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39732,7 +39732,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 399,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39741,7 +39741,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39750,7 +39750,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 400,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39759,7 +39759,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39768,7 +39768,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39777,7 +39777,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39786,7 +39786,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 348,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39795,7 +39795,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39804,7 +39804,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39813,7 +39813,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39822,7 +39822,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39831,7 +39831,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39840,7 +39840,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39849,7 +39849,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39858,7 +39858,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -39867,7 +39867,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39876,7 +39876,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39885,7 +39885,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39894,7 +39894,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39903,7 +39903,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39912,7 +39912,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39921,7 +39921,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39930,7 +39930,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39939,7 +39939,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39948,7 +39948,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39957,7 +39957,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39966,7 +39966,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39975,7 +39975,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39984,7 +39984,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -39993,7 +39993,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -40002,7 +40002,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40011,7 +40011,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40020,7 +40020,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40029,7 +40029,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40038,7 +40038,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40047,7 +40047,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40056,7 +40056,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40065,7 +40065,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40074,7 +40074,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40083,7 +40083,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40092,7 +40092,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40101,7 +40101,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40110,7 +40110,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40119,7 +40119,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40128,7 +40128,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40137,7 +40137,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40146,7 +40146,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40155,7 +40155,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40164,7 +40164,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40173,7 +40173,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40182,7 +40182,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40191,7 +40191,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40200,7 +40200,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40209,7 +40209,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40218,7 +40218,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40227,7 +40227,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40236,7 +40236,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40245,7 +40245,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40254,7 +40254,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40263,7 +40263,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40272,7 +40272,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40281,7 +40281,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 410,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40290,7 +40290,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40299,7 +40299,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 402,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40308,7 +40308,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40317,7 +40317,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40326,7 +40326,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40335,7 +40335,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40344,7 +40344,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40353,7 +40353,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40362,7 +40362,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40371,7 +40371,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40380,7 +40380,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40389,7 +40389,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40398,7 +40398,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40407,7 +40407,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40416,7 +40416,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40425,7 +40425,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40434,7 +40434,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40443,7 +40443,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40452,7 +40452,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40461,7 +40461,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40470,7 +40470,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40479,7 +40479,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -40488,7 +40488,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40497,7 +40497,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40505,7 +40505,7 @@ const database = [
     "dept": "인문학자율전공학부",
     "ratio": "비율정보없음",
     "cut": 343,
-    "kr": 0,
+    "kr": 30.0,
     "mr": 0
   },
   {
@@ -40514,7 +40514,7 @@ const database = [
     "dept": "사회과학자율전공학부",
     "ratio": "비율정보없음",
     "cut": 346,
-    "kr": 0,
+    "kr": 30.0,
     "mr": 0
   },
   {
@@ -40533,7 +40533,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40541,7 +40541,7 @@ const database = [
     "dept": "농업생명환경자율전공학부",
     "ratio": "비율정보없음",
     "cut": 341,
-    "kr": 0,
+    "kr": 30.0,
     "mr": 0
   },
   {
@@ -40551,7 +40551,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 400,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40560,7 +40560,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 409,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40569,7 +40569,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 400,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40578,7 +40578,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 400,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -40587,7 +40587,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -40595,8 +40595,8 @@ const database = [
     "dept": "사회복지학과",
     "ratio": "비율정보없음",
     "cut": 245,
-    "kr": 0.0,
-    "mr": 0.0
+    "kr": 0,
+    "mr": 0
   },
   {
     "group": "다",
@@ -40605,7 +40605,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 248,
     "kr": 100.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -40803,7 +40803,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 334,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -40812,7 +40812,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 334,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -40821,7 +40821,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -40830,7 +40830,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -40839,7 +40839,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -40848,7 +40848,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -40857,7 +40857,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -40866,7 +40866,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -40875,7 +40875,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -40884,7 +40884,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -40893,7 +40893,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 329,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -40902,7 +40902,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -40911,7 +40911,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -40920,7 +40920,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -40929,7 +40929,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -40938,7 +40938,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -40947,7 +40947,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -40955,7 +40955,7 @@ const database = [
     "dept": "복지융합학부(의료재활공학전공)",
     "ratio": "비율정보없음",
     "cut": 337,
-    "kr": 0,
+    "kr": 20.0,
     "mr": 0
   },
   {
@@ -40964,7 +40964,7 @@ const database = [
     "dept": "복지융합학부(유아특수보육학전공)",
     "ratio": "비율정보없음",
     "cut": 328,
-    "kr": 0,
+    "kr": 20.0,
     "mr": 0
   },
   {
@@ -40973,7 +40973,7 @@ const database = [
     "dept": "복지융합학부(사회복지학전공)",
     "ratio": "비율정보없음",
     "cut": 328,
-    "kr": 0,
+    "kr": 20.0,
     "mr": 0
   },
   {
@@ -40982,7 +40982,7 @@ const database = [
     "dept": "복지융합학부(한국수어교육전공)",
     "ratio": "비율정보없음",
     "cut": 321,
-    "kr": 0,
+    "kr": 20.0,
     "mr": 0
   },
   {
@@ -40992,7 +40992,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41001,7 +41001,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -41010,7 +41010,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -41019,7 +41019,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41028,7 +41028,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41037,7 +41037,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41046,7 +41046,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41055,7 +41055,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41064,7 +41064,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41073,7 +41073,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -41082,7 +41082,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -41091,7 +41091,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -41100,7 +41100,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -41109,7 +41109,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -41118,7 +41118,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -41127,7 +41127,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -41136,7 +41136,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -41145,7 +41145,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -41154,7 +41154,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -41163,7 +41163,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41172,7 +41172,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41181,7 +41181,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41190,7 +41190,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41199,7 +41199,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41208,7 +41208,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41217,7 +41217,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41226,7 +41226,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41235,7 +41235,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -41244,7 +41244,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -41253,7 +41253,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41262,7 +41262,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -41271,7 +41271,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -41280,7 +41280,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -41289,7 +41289,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -41298,7 +41298,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -41307,7 +41307,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -41316,7 +41316,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -41325,7 +41325,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -41334,7 +41334,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -41343,7 +41343,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -41352,7 +41352,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41361,7 +41361,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41370,7 +41370,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41379,7 +41379,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41388,7 +41388,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41397,7 +41397,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41406,7 +41406,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41415,7 +41415,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41424,7 +41424,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41442,7 +41442,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 385,
     "kr": 22.5,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41451,7 +41451,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41460,7 +41460,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 22.5,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41469,7 +41469,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41478,7 +41478,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41487,7 +41487,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41496,7 +41496,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41505,7 +41505,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 376,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41514,7 +41514,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 375,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41523,7 +41523,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 22.5,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41532,7 +41532,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41541,7 +41541,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 371,
     "kr": 22.5,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41550,7 +41550,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 371,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41559,7 +41559,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 384,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41568,7 +41568,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41577,7 +41577,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41586,7 +41586,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41595,7 +41595,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41604,7 +41604,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41613,7 +41613,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41622,7 +41622,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 375,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41631,7 +41631,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41640,7 +41640,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41649,7 +41649,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 329,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41658,7 +41658,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41667,7 +41667,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41676,7 +41676,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41684,8 +41684,8 @@ const database = [
     "dept": "사회복지학과",
     "ratio": "비율정보없음",
     "cut": 326,
-    "kr": 33.3,
-    "mr": 0.0
+    "kr": 25.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -41693,8 +41693,8 @@ const database = [
     "dept": "영어영문학과",
     "ratio": "비율정보없음",
     "cut": 321,
-    "kr": 33.3,
-    "mr": 0.0
+    "kr": 25.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -41702,8 +41702,8 @@ const database = [
     "dept": "중국어학과",
     "ratio": "비율정보없음",
     "cut": 320,
-    "kr": 33.3,
-    "mr": 0.0
+    "kr": 25.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -41712,7 +41712,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41720,8 +41720,8 @@ const database = [
     "dept": "유아교육학과",
     "ratio": "비율정보없음",
     "cut": 318,
-    "kr": 33.3,
-    "mr": 0.0
+    "kr": 22.5,
+    "mr": 0
   },
   {
     "group": "다",
@@ -41730,7 +41730,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41739,7 +41739,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41748,7 +41748,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41756,8 +41756,8 @@ const database = [
     "dept": "컴퓨터공학과",
     "ratio": "비율정보없음",
     "cut": 337,
-    "kr": 33.3,
-    "mr": 0.0
+    "kr": 25.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -41765,8 +41765,8 @@ const database = [
     "dept": "컴퓨터소프트웨어학과",
     "ratio": "비율정보없음",
     "cut": 336,
-    "kr": 33.3,
-    "mr": 0.0
+    "kr": 25.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -41775,7 +41775,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41784,7 +41784,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41793,7 +41793,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 329,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41802,7 +41802,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41811,7 +41811,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41820,7 +41820,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41829,7 +41829,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41838,7 +41838,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41847,7 +41847,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41856,7 +41856,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41865,7 +41865,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41874,7 +41874,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41883,7 +41883,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41892,7 +41892,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 322,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -41901,7 +41901,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 321,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41909,7 +41909,7 @@ const database = [
     "dept": "항공서비스학과",
     "ratio": "비율정보없음",
     "cut": 326,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -41919,7 +41919,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41928,7 +41928,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41937,7 +41937,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41946,7 +41946,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41955,7 +41955,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41964,7 +41964,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41972,7 +41972,7 @@ const database = [
     "dept": "철도대학자유전공학부",
     "ratio": "비율정보없음",
     "cut": 363,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -41981,8 +41981,8 @@ const database = [
     "dept": "유아특수교육학과",
     "ratio": "비율정보없음",
     "cut": 316,
-    "kr": 33.3,
-    "mr": 0.0
+    "kr": 22.5,
+    "mr": 0
   },
   {
     "group": "가",
@@ -41991,7 +41991,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -41999,8 +41999,8 @@ const database = [
     "dept": "물리치료학과",
     "ratio": "비율정보없음",
     "cut": 346,
-    "kr": 33.3,
-    "mr": 0.0
+    "kr": 25.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -42009,7 +42009,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42018,7 +42018,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42026,7 +42026,7 @@ const database = [
     "dept": "생명자유전공학부",
     "ratio": "비율정보없음",
     "cut": 316,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -42036,7 +42036,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42045,7 +42045,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42072,7 +42072,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42081,7 +42081,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42090,7 +42090,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 318,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42099,7 +42099,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 284,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42108,7 +42108,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 355,
     "kr": 10.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42117,7 +42117,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42135,7 +42135,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42144,7 +42144,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 383,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42153,7 +42153,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 383,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42162,7 +42162,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 383,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42171,7 +42171,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42180,7 +42180,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 381,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42189,7 +42189,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42198,7 +42198,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42207,7 +42207,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42216,7 +42216,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42225,7 +42225,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42234,7 +42234,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42243,7 +42243,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42252,7 +42252,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42261,7 +42261,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42270,7 +42270,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42279,7 +42279,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42288,7 +42288,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 376,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42296,7 +42296,7 @@ const database = [
     "dept": "태국학과",
     "ratio": "비율정보없음",
     "cut": 376,
-    "kr": 0,
+    "kr": 20.0,
     "mr": 0
   },
   {
@@ -42306,7 +42306,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 376,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42315,7 +42315,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 375,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42324,7 +42324,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42333,7 +42333,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 383,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42342,7 +42342,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 383,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42351,7 +42351,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 383,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42360,7 +42360,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42369,7 +42369,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42378,7 +42378,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42387,7 +42387,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 382,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42396,7 +42396,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 381,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42405,7 +42405,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 381,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42414,7 +42414,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 381,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42423,7 +42423,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42432,7 +42432,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42441,7 +42441,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42450,7 +42450,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42459,7 +42459,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42468,7 +42468,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42477,7 +42477,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42486,7 +42486,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42495,7 +42495,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42504,7 +42504,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42513,7 +42513,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42522,7 +42522,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42531,7 +42531,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 376,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42540,7 +42540,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 376,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42549,7 +42549,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 385,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42558,7 +42558,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 383,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42567,7 +42567,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 385,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42576,7 +42576,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42585,7 +42585,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42594,7 +42594,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42603,7 +42603,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42612,7 +42612,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 350,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42621,7 +42621,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42630,7 +42630,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42639,7 +42639,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42648,7 +42648,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42657,7 +42657,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42666,7 +42666,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42675,7 +42675,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 352,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42684,7 +42684,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42693,7 +42693,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 351,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42702,7 +42702,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42711,7 +42711,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42720,7 +42720,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42729,7 +42729,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42738,7 +42738,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42747,7 +42747,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42756,7 +42756,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42765,7 +42765,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42774,7 +42774,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42783,7 +42783,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42792,7 +42792,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42801,7 +42801,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42809,8 +42809,8 @@ const database = [
     "dept": "AI데이터융합학부",
     "ratio": "비율정보없음",
     "cut": 361,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 20.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -42818,8 +42818,8 @@ const database = [
     "dept": "바이오메디컬공학부",
     "ratio": "비율정보없음",
     "cut": 360,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 20.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -42828,7 +42828,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42837,7 +42837,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42846,7 +42846,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42855,7 +42855,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42864,7 +42864,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42873,7 +42873,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42882,7 +42882,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42891,7 +42891,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42900,7 +42900,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42909,7 +42909,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42918,7 +42918,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42927,7 +42927,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42936,7 +42936,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -42945,7 +42945,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -42981,7 +42981,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42990,7 +42990,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -42999,7 +42999,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43035,7 +43035,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43044,7 +43044,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43053,7 +43053,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43062,7 +43062,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43071,7 +43071,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43080,7 +43080,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43089,7 +43089,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43098,7 +43098,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43107,7 +43107,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43115,7 +43115,7 @@ const database = [
     "dept": "항해전공",
     "ratio": "비율정보없음",
     "cut": 357,
-    "kr": 0,
+    "kr": 20.0,
     "mr": 0
   },
   {
@@ -43125,7 +43125,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43134,7 +43134,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43142,7 +43142,7 @@ const database = [
     "dept": "기관전공",
     "ratio": "비율정보없음",
     "cut": 343,
-    "kr": 0,
+    "kr": 20.0,
     "mr": 0
   },
   {
@@ -43152,7 +43152,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43161,7 +43161,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43170,7 +43170,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 329,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43179,7 +43179,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43188,7 +43188,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43197,7 +43197,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43206,7 +43206,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 322,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43215,7 +43215,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43224,7 +43224,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43233,7 +43233,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43242,7 +43242,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43251,7 +43251,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43260,7 +43260,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43269,7 +43269,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43278,7 +43278,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43287,7 +43287,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43296,7 +43296,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43305,7 +43305,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43314,7 +43314,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 329,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43323,7 +43323,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43332,7 +43332,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43341,7 +43341,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43350,7 +43350,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43359,7 +43359,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43368,7 +43368,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43377,7 +43377,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 323,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43386,7 +43386,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43395,7 +43395,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 318,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43404,7 +43404,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 318,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43413,7 +43413,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 318,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43422,7 +43422,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 318,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43431,7 +43431,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43440,7 +43440,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43449,7 +43449,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43458,7 +43458,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 306,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -43467,7 +43467,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -43476,7 +43476,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -43485,7 +43485,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -43494,7 +43494,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -43503,7 +43503,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -43512,7 +43512,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -43521,7 +43521,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 318,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -43530,7 +43530,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 315,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -43539,7 +43539,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 313,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -43548,7 +43548,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -43557,7 +43557,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 269,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43566,7 +43566,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43575,7 +43575,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43584,7 +43584,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 308,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43593,7 +43593,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 300,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43602,7 +43602,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 347,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43611,7 +43611,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43620,7 +43620,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 322,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43629,7 +43629,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 321,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43638,7 +43638,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43647,7 +43647,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 317,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43656,7 +43656,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 315,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -43665,7 +43665,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 308,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -43674,7 +43674,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -43683,7 +43683,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -43692,7 +43692,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -43701,7 +43701,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -43710,7 +43710,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -43719,7 +43719,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 315,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -43728,7 +43728,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43737,7 +43737,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43746,7 +43746,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 322,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43755,7 +43755,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 317,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43764,7 +43764,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43773,7 +43773,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 303,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -43782,7 +43782,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 297,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -43799,7 +43799,7 @@ const database = [
     "dept": "사회과학대학자유전공학부",
     "ratio": "비율정보없음",
     "cut": 319,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -43835,7 +43835,7 @@ const database = [
     "dept": "생명나노과학대학자유전공학부",
     "ratio": "비율정보없음",
     "cut": 314,
-    "kr": 0,
+    "kr": 33.3,
     "mr": 0
   },
   {
@@ -43854,7 +43854,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 287,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -43863,7 +43863,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 282,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -44196,7 +44196,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 412,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -44205,7 +44205,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -44277,7 +44277,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 345,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -44286,7 +44286,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -44295,7 +44295,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -44304,7 +44304,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -44312,8 +44312,8 @@ const database = [
     "dept": "융합경영학과",
     "ratio": "비율정보없음",
     "cut": 342,
-    "kr": 33.3,
-    "mr": 0.0
+    "kr": 30.0,
+    "mr": 0
   },
   {
     "group": "나",
@@ -44322,7 +44322,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -44331,7 +44331,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -44340,7 +44340,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 340,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -44349,7 +44349,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -44358,7 +44358,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -44367,7 +44367,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -44376,7 +44376,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -44385,7 +44385,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -44394,7 +44394,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -44403,7 +44403,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -44412,7 +44412,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 330,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -44421,7 +44421,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -44430,7 +44430,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -44439,7 +44439,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -44448,7 +44448,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -44457,7 +44457,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -44466,7 +44466,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -44475,7 +44475,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -44484,7 +44484,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -44493,7 +44493,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -44502,7 +44502,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -44511,7 +44511,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 331,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -44520,7 +44520,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 329,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -44529,7 +44529,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -44538,7 +44538,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -44547,7 +44547,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -44556,7 +44556,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -44565,7 +44565,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -44591,7 +44591,7 @@ const database = [
     "dept": "항공외국어학과",
     "ratio": "비율정보없음",
     "cut": 308,
-    "kr": 0,
+    "kr": 20.0,
     "mr": 0
   },
   {
@@ -44609,7 +44609,7 @@ const database = [
     "dept": "항공관광학과(승무원양성)",
     "ratio": "비율정보없음",
     "cut": 278,
-    "kr": 0,
+    "kr": 20.0,
     "mr": 0
   },
   {
@@ -44654,7 +44654,7 @@ const database = [
     "dept": "공학전공자율학과",
     "ratio": "비율정보없음",
     "cut": 346,
-    "kr": 0,
+    "kr": 30.0,
     "mr": 0
   },
   {
@@ -44663,7 +44663,7 @@ const database = [
     "dept": "항공보안학과",
     "ratio": "비율정보없음",
     "cut": 364,
-    "kr": 0,
+    "kr": 20.0,
     "mr": 0
   },
   {
@@ -44672,7 +44672,7 @@ const database = [
     "dept": "항공AI소프트웨어학과",
     "ratio": "비율정보없음",
     "cut": 361,
-    "kr": 0,
+    "kr": 20.0,
     "mr": 0
   },
   {
@@ -44771,8 +44771,8 @@ const database = [
     "dept": "항공교통물류학과",
     "ratio": "비율정보없음",
     "cut": 346,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 20.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -44781,7 +44781,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 376,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -44789,8 +44789,8 @@ const database = [
     "dept": "항공기계공학과",
     "ratio": "비율정보없음",
     "cut": 353,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 20.0,
+    "mr": 0
   },
   {
     "group": "다",
@@ -44798,8 +44798,8 @@ const database = [
     "dept": "항공정비학과",
     "ratio": "비율정보없음",
     "cut": 349,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 20.0,
+    "mr": 0
   },
   {
     "group": "다",
@@ -44808,7 +44808,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -44816,8 +44816,8 @@ const database = [
     "dept": "항공전자공학과",
     "ratio": "비율정보없음",
     "cut": 338,
-    "kr": 30.0,
-    "mr": 0.0
+    "kr": 20.0,
+    "mr": 0
   },
   {
     "group": "다",
@@ -44843,7 +44843,7 @@ const database = [
     "dept": "항공산업공학과",
     "ratio": "비율정보없음",
     "cut": 353,
-    "kr": 0,
+    "kr": 20.0,
     "mr": 0
   },
   {
@@ -44853,7 +44853,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -44871,7 +44871,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -44880,7 +44880,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -44889,7 +44889,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 342,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -44916,7 +44916,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -44925,7 +44925,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -44934,7 +44934,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 354,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -44943,7 +44943,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 353,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -44952,7 +44952,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 344,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -44961,7 +44961,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 343,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -44969,7 +44969,7 @@ const database = [
     "dept": "문학문화콘텐츠학과",
     "ratio": "비율정보없음",
     "cut": 354,
-    "kr": 0,
+    "kr": 20.0,
     "mr": 0
   },
   {
@@ -44978,7 +44978,7 @@ const database = [
     "dept": "문학문화콘텐츠학과(야)",
     "ratio": "비율정보없음",
     "cut": 338,
-    "kr": 0,
+    "kr": 20.0,
     "mr": 0
   },
   {
@@ -44988,7 +44988,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -44997,7 +44997,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45006,7 +45006,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 329,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45015,7 +45015,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45024,7 +45024,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 327,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45033,7 +45033,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45042,7 +45042,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45051,7 +45051,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 299,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45060,7 +45060,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45069,7 +45069,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45078,7 +45078,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 346,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45177,7 +45177,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 389,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45186,7 +45186,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45195,7 +45195,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45204,7 +45204,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45213,7 +45213,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45222,7 +45222,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45231,7 +45231,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45240,7 +45240,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45249,7 +45249,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45258,7 +45258,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45267,7 +45267,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45276,7 +45276,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45285,7 +45285,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 385,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45294,7 +45294,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 385,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45303,7 +45303,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 385,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45312,7 +45312,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 385,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45321,7 +45321,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 392,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45330,7 +45330,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 392,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45339,7 +45339,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 389,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45348,7 +45348,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 388,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45357,7 +45357,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 388,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45366,7 +45366,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 387,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45375,7 +45375,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 386,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -45384,7 +45384,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 392,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45393,7 +45393,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45402,7 +45402,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45411,7 +45411,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45420,7 +45420,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45429,7 +45429,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 392,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45438,7 +45438,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 392,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45447,7 +45447,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 391,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45455,8 +45455,8 @@ const database = [
     "dept": "건축학부",
     "ratio": "비율정보없음",
     "cut": 391,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": 20.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -45465,7 +45465,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 391,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45473,8 +45473,8 @@ const database = [
     "dept": "건축공학부",
     "ratio": "비율정보없음",
     "cut": 390,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": 20.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -45483,7 +45483,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 390,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45492,7 +45492,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 390,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45501,7 +45501,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 390,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45510,7 +45510,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 390,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45519,7 +45519,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 388,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45528,7 +45528,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 414,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45537,7 +45537,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 400,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45546,7 +45546,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 396,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45555,7 +45555,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 396,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45564,7 +45564,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 395,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45573,7 +45573,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 395,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45582,7 +45582,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 394,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45591,7 +45591,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 394,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45600,7 +45600,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 394,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45609,7 +45609,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45618,7 +45618,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 393,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45627,7 +45627,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 392,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45636,7 +45636,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 391,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45645,7 +45645,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45654,7 +45654,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45662,8 +45662,8 @@ const database = [
     "dept": "경제학부",
     "ratio": "비율정보없음",
     "cut": 359,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": 20.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -45672,7 +45672,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 358,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45681,7 +45681,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45690,7 +45690,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 20.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45699,7 +45699,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 359,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45708,7 +45708,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 356,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45717,7 +45717,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45726,7 +45726,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45735,7 +45735,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45744,7 +45744,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45753,7 +45753,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45762,7 +45762,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45771,7 +45771,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45779,7 +45779,7 @@ const database = [
     "dept": "지능형클라우드전공",
     "ratio": "비율정보없음",
     "cut": 364,
-    "kr": 0,
+    "kr": 25.0,
     "mr": 0
   },
   {
@@ -45789,7 +45789,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45798,7 +45798,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45807,7 +45807,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45815,8 +45815,8 @@ const database = [
     "dept": "건축학전공",
     "ratio": "비율정보없음",
     "cut": 363,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": 20.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -45825,7 +45825,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45834,7 +45834,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 362,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45842,8 +45842,8 @@ const database = [
     "dept": "건축공학전공",
     "ratio": "비율정보없음",
     "cut": 361,
-    "kr": 25.0,
-    "mr": 0.0
+    "kr": 20.0,
+    "mr": 0
   },
   {
     "group": "가",
@@ -45852,7 +45852,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45861,7 +45861,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 360,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45870,7 +45870,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 403,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45879,7 +45879,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 367,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45888,7 +45888,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45897,7 +45897,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 366,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45906,7 +45906,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 365,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45915,7 +45915,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 364,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45924,7 +45924,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45933,7 +45933,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 363,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -45942,7 +45942,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 361,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -45950,7 +45950,7 @@ const database = [
     "dept": "국방전략기술공학과(여)",
     "ratio": "비율정보없음",
     "cut": 359,
-    "kr": 0,
+    "kr": 25.0,
     "mr": 0
   },
   {
@@ -45959,7 +45959,7 @@ const database = [
     "dept": "국방전략기술공학과(남)",
     "ratio": "비율정보없음",
     "cut": 359,
-    "kr": 0,
+    "kr": 25.0,
     "mr": 0
   },
   {
@@ -45969,7 +45969,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -45978,7 +45978,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -45987,7 +45987,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -45996,7 +45996,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 321,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46005,7 +46005,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46014,7 +46014,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 318,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46023,7 +46023,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 315,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46032,7 +46032,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 315,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46041,7 +46041,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 314,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46050,7 +46050,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46059,7 +46059,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46068,7 +46068,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -46077,7 +46077,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46086,7 +46086,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 328,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46095,7 +46095,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 326,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46104,7 +46104,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 325,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46113,7 +46113,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46122,7 +46122,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 317,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46131,7 +46131,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -46248,7 +46248,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 296,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46257,7 +46257,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46266,7 +46266,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 341,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46275,7 +46275,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46284,7 +46284,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 321,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46293,7 +46293,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 321,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46302,7 +46302,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46311,7 +46311,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46320,7 +46320,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 319,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46329,7 +46329,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 315,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46338,7 +46338,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46347,7 +46347,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46356,7 +46356,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46365,7 +46365,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46374,7 +46374,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 308,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46383,7 +46383,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 307,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46392,7 +46392,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 305,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46401,7 +46401,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 305,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46410,7 +46410,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 304,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46419,7 +46419,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 304,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46428,7 +46428,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 303,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46437,7 +46437,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 302,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46446,7 +46446,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 300,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -46455,7 +46455,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 321,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -46464,7 +46464,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -46473,7 +46473,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 308,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46490,7 +46490,7 @@ const database = [
     "dept": "AIT스쿨(계열모집)",
     "ratio": "비율정보없음",
     "cut": 311,
-    "kr": 0,
+    "kr": 30.0,
     "mr": 0
   },
   {
@@ -46500,7 +46500,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 321,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46509,7 +46509,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 316,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46518,7 +46518,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 313,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46527,7 +46527,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 310,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46536,7 +46536,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46545,7 +46545,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 308,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46554,7 +46554,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 298,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46563,7 +46563,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 295,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -46572,7 +46572,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 320,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -46581,7 +46581,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 313,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -46590,7 +46590,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 311,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -46599,7 +46599,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 308,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "나",
@@ -46617,7 +46617,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 270,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46626,7 +46626,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 255,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46635,7 +46635,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 253,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46644,7 +46644,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 249,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46653,7 +46653,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 313,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46662,7 +46662,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 302,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46671,7 +46671,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 293,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46680,7 +46680,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 293,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46689,7 +46689,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 280,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46698,7 +46698,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 270,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "가",
@@ -46707,7 +46707,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 309,
     "kr": 50.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46716,7 +46716,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46725,7 +46725,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46734,7 +46734,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46743,7 +46743,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 376,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46752,7 +46752,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 376,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46761,7 +46761,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 376,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46770,7 +46770,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 375,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46779,7 +46779,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46788,7 +46788,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46797,7 +46797,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46806,7 +46806,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 374,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46815,7 +46815,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 373,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46824,7 +46824,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 384,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46833,7 +46833,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 381,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46842,7 +46842,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46851,7 +46851,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 380,
     "kr": 25.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46860,7 +46860,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46869,7 +46869,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46878,7 +46878,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 379,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46887,7 +46887,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 378,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46896,7 +46896,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46905,7 +46905,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 377,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46914,7 +46914,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 376,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46923,7 +46923,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 357,
     "kr": 40.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46932,7 +46932,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 349,
     "kr": 40.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46941,7 +46941,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 40.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46950,7 +46950,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 339,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46959,7 +46959,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46968,7 +46968,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 338,
     "kr": 40.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46977,7 +46977,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46986,7 +46986,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -46995,7 +46995,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 336,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -47004,7 +47004,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -47013,7 +47013,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 335,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -47022,7 +47022,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 333,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -47031,7 +47031,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 332,
     "kr": 30.0,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -47040,7 +47040,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 303,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -47049,7 +47049,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 288,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -47058,7 +47058,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 286,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -47067,7 +47067,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 285,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -47076,7 +47076,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 274,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -47085,7 +47085,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 337,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -47094,7 +47094,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 298,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -47103,7 +47103,7 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 294,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   },
   {
     "group": "다",
@@ -47112,6 +47112,6 @@ const database = [
     "ratio": "비율정보없음",
     "cut": 293,
     "kr": 33.3,
-    "mr": 0.0
+    "mr": 0
   }
 ];
