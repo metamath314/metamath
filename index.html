@@ -1,24 +1,94 @@
-<script>
-    // ... (기존 보안 로직) ...
-</script>
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>메타수학 2026 정시 분석 시스템</title>
+    <style>
+        :root { --primary: #0984e3; --stable: #27ae60; --fit: #2980b9; --ambitious: #f39c12; --danger: #e74c3c; }
+        body { font-family: 'Malgun Gothic', sans-serif; background: #f0f2f5; margin: 0; padding: 20px; }
+        .container { max-width: 1200px; margin: auto; background: white; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); padding: 30px; }
+        .header { text-align: center; margin-bottom: 20px; border-bottom: 3px solid var(--primary); padding-bottom: 15px; }
+        .no-print { background: #f8f9fa; padding: 20px; border-radius: 10px; margin-bottom: 20px; display: flex; flex-direction: column; align-items: center; gap: 15px; }
+        .score-row { display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; }
+        .input-group { display: flex; flex-direction: column; align-items: center; }
+        input { width: 70px; padding: 8px; border: 1px solid #ccc; border-radius: 5px; text-align: center; font-weight: bold; }
+        .btn { padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-weight: bold; color: white; margin: 5px; }
+        .btn-blue { background: var(--primary); }
+        .btn-green { background: var(--stable); }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th { background: #eee; padding: 12px; border-bottom: 2px solid #333; }
+        td { padding: 12px; border-bottom: 1px solid #ddd; text-align: center; }
+        .badge { padding: 5px 12px; border-radius: 20px; color: white; font-weight: bold; font-size: 12px; }
+        .bg-stable { background: var(--stable); } .bg-fit { background: var(--fit); }
+        .bg-ambitious { background: var(--ambitious); } .bg-danger { background: var(--danger); }
+        @media print { .no-print { display: none; } }
+    </style>
+</head>
+<body>
 
-<table>
+<div class="container" id="mainContent" style="display:none;">
+    <div class="header">
+        <h1>🎓 메타수학 2026 정시 분석 시스템</h1>
+        <p>재원생 전용 합격 예측 솔루션</p>
+    </div>
+
+    <div class="no-print">
+        <div class="score-row">
+            <div class="input-group"><label>국어</label><input type="number" id="kor" value="130"></div>
+            <div class="input-group"><label>수학</label><input type="number" id="math" value="135"></div>
+            <div class="input-group"><label>영어(등급)</label><input type="number" id="eng" value="1" min="1" max="9"></div>
+            <div class="input-group"><label>탐구1</label><input type="number" id="t1" value="65"></div>
+            <div class="input-group"><label>탐구2</label><input type="number" id="t2" value="60"></div>
+        </div>
+        <div>
+            <input type="text" id="univSearch" placeholder="대학명 또는 학과명 검색" style="width:250px; padding:10px;" onkeyup="runAnalysis()">
+            <button class="btn btn-blue" onclick="runAnalysis()">실시간 분석</button>
+            <button class="btn btn-green" onclick="window.print()">리포트 인쇄</button>
+        </div>
+    </div>
+
+    <div style="text-align: right; margin-bottom: 10px; font-weight: bold;">
+        단순 합산 점수: <span id="totalDisplay" style="color:red; font-size:22px;">0</span> 점
+    </div>
+
+    <table>
         <thead>
             <tr>
                 <th>대학명</th>
                 <th>모집단위</th>
-                <th>반영비율</th>
+                <th>반영비율(국/수/영/탐)</th>
                 <th>대학별 컷</th>
-                <th>내 환산점수</th> <th>차이</th>
+                <th>내 환산점수</th>
+                <th>차이</th>
                 <th>판정</th>
             </tr>
         </thead>
         <tbody id="resultBody"></tbody>
     </table>
+</div>
+
+<script src="database.js"></script>
 
 <script>
-    // ... (기존 변수들) ...
+    // [1] 보안 로직
+    (function() {
+        const PW = "meta314"; 
+        if (sessionStorage.getItem("authorized") !== "true") {
+            const input = prompt("🔒 메타수학 재원생 전용입니다.\n인증 번호를 입력해주세요.");
+            if (input === PW) {
+                sessionStorage.setItem("authorized", "true");
+                document.getElementById("mainContent").style.display = "block";
+            } else {
+                alert("인증 번호가 틀렸습니다.");
+                window.location.reload();
+            }
+        } else {
+            document.getElementById("mainContent").style.display = "block";
+        }
+    })();
 
+    // [2] 분석 로직
     function runAnalysis() {
         if (typeof database === 'undefined') return;
 
@@ -27,63 +97,48 @@
         const eng = parseInt(document.getElementById('eng').value) || 1;
         const t1 = parseInt(document.getElementById('t1').value) || 0;
         const t2 = parseInt(document.getElementById('t2').value) || 0;
-        const searchKeyword = document.getElementById('univSearch').value.toLowerCase();
-        
-        // 단순 합산 (화면 상단 표시용)
+        const search = document.getElementById('univSearch').value.toLowerCase();
+
         document.getElementById('totalDisplay').innerText = kor + math + t1 + t2;
-        
         const body = document.getElementById('resultBody');
         body.innerHTML = '';
 
-        let filtered = database.filter(d => 
-            d.group === currentGroup && 
-            (d.univ.toLowerCase().includes(searchKeyword) || d.dept.toLowerCase().includes(searchKeyword))
-        );
+        database.forEach(item => {
+            if (search && !item.univ.toLowerCase().includes(search) && !item.dept.toLowerCase().includes(search)) return;
 
-        filtered.forEach(item => {
-            // [핵심] 대학별 환산 점수 계산 로직
-            // 비율 데이터가 "25/40/15/20" 형태인 경우 추출
-            let myConvertedScore = 0;
+            // 대학별 환산 점수 계산 (국/수/탐 비율 반영)
+            let myConverted = (kor + math + (t1 + t2) / 2); // 기본값
+            
             if (item.ratio && item.ratio !== "비율정보없음") {
-                const r = item.ratio.split('/').map(Number);
-                const rKor = r[0] || 0;
-                const rMath = r[1] || 0;
-                const rEng = r[2] || 0;
-                const rTam = r[3] || 0;
-
-                // 1. 국수탐 환산 (비율 가중치 적용)
-                // (내점수 * 반영비율)의 총합을 전체 비율 합으로 나눔
-                const totalWeight = rKor + rMath + rTam;
-                const weightedSum = (kor * rKor) + (math * rMath) + ((t1 + t2) / 2 * rTam);
-                
-                // 400점 만점 기준으로 환산 (비상 컷이 보통 400점 만점 기준이므로)
-                myConvertedScore = (weightedSum / totalWeight); 
-                
-                // 영어 감점/가산점 단순화 모델 (1등급 기준 0, 등급당 -2점 가정 - 필요시 수정 가능)
-                myConvertedScore -= (eng - 1) * 2;
-            } else {
-                // 비율 정보가 없을 경우 단순 합산 평균으로 처리
-                myConvertedScore = (kor + math + (t1 + t2) / 2);
+                const totalW = item.kr + item.mr + item.tr;
+                if (totalW > 0) {
+                    myConverted = ((kor * item.kr) + (math * item.mr) + ((t1 + t2)/2 * item.tr)) / totalW;
+                    // 영어 등급당 2점 감점 가산 (간이 모델)
+                    myConverted -= (eng - 1) * 2;
+                }
             }
 
-            const finalMyScore = parseFloat(myConvertedScore.toFixed(2));
-            const diff = parseFloat((finalMyScore - item.cut).toFixed(2));
+            const myScore = parseFloat(myConverted.toFixed(2));
+            const diff = parseFloat((myScore - item.cut).toFixed(2));
             
-            let resultTxt, badgeClass;
-            if (diff >= 3) { resultTxt = "안정"; badgeClass = "bg-stable"; }
-            else if (diff >= -0.5) { resultTxt = "적정"; badgeClass = "bg-fit"; }
-            else if (diff >= -3) { resultTxt = "소신"; badgeClass = "bg-ambitious"; }
-            else { resultTxt = "위험"; badgeClass = "bg-danger"; }
+            let res = "위험", cls = "bg-danger";
+            if (diff >= 3) { res = "안정"; cls = "bg-stable"; }
+            else if (diff >= -0.5) { res = "적정"; cls = "bg-fit"; }
+            else if (diff >= -3) { res = "소신"; cls = "bg-ambitious"; }
 
             body.innerHTML += `<tr>
                 <td style="font-weight:bold;">${item.univ}</td>
                 <td>${item.dept}</td>
                 <td style="font-size:11px; color:#666;">${item.ratio}</td>
-                <td style="color:#2d3436;">${item.cut}</td>
-                <td style="font-weight:bold; color:var(--primary);">${finalMyScore}</td>
+                <td>${item.cut}</td>
+                <td style="font-weight:bold; color:var(--primary);">${myScore}</td>
                 <td style="font-weight:bold; color:${diff >= 0 ? 'blue' : 'red'}">${diff > 0 ? '+' + diff : diff}</td>
-                <td><span class="badge ${badgeClass}">${resultTxt}</span></td>
+                <td><span class="badge ${cls}">${res}</span></td>
             </tr>`;
         });
     }
+
+    window.onload = function() { if(sessionStorage.getItem("authorized") === "true") runAnalysis(); }
 </script>
+</body>
+</html>
