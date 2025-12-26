@@ -16,7 +16,6 @@
         .btn { padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-weight: bold; color: white; margin: 5px; }
         .btn-blue { background: var(--primary); }
         .btn-green { background: var(--stable); }
-        /* 탭 스타일 */
         .tabs { display: flex; justify-content: center; margin-bottom: 20px; gap: 10px; }
         .tab { padding: 10px 40px; background: #ddd; cursor: pointer; border-radius: 8px 8px 0 0; font-weight: bold; transition: 0.3s; }
         .tab.active { background: var(--primary); color: white; }
@@ -42,7 +41,7 @@
 <div class="container" id="mainContent" style="display:none;">
     <div class="header">
         <h1>🎓 메타수학 2026 정시 분석 시스템</h1>
-        <p>재원생 전용 합격 예측 솔루션</p>
+        <p>이투스 정밀 가중치 데이터 적용 버전</p>
     </div>
 
     <div class="no-print">
@@ -67,7 +66,7 @@
     </div>
 
     <div style="text-align: right; margin-bottom: 10px; font-weight: bold;">
-        단순 합산 점수: <span id="totalDisplay" style="color:red; font-size:22px;">0</span> 점
+        단순 합산 점수(국+수+탐평균): <span id="totalDisplay" style="color:red; font-size:22px;">0</span> 점
     </div>
 
     <table>
@@ -126,22 +125,27 @@
         const t2 = parseInt(document.getElementById('t2').value) || 0;
         const search = document.getElementById('univSearch').value.toLowerCase();
 
-        document.getElementById('totalDisplay').innerText = kor + math + t1 + t2;
+        const avg탐구 = (t1 + t2) / 2;
+        document.getElementById('totalDisplay').innerText = (kor + math + avg탐구).toFixed(1);
         const body = document.getElementById('resultBody');
         
-        // 탭에 맞는 데이터만 필터링 (속도 핵심!)
         let rows = "";
         database.forEach(item => {
-            if (item.group !== currentGroup) return; // 현재 탭의 군과 다르면 패스
+            if (item.group !== currentGroup) return;
             if (search && !item.univ.toLowerCase().includes(search) && !item.dept.toLowerCase().includes(search)) return;
 
-            let myScore = (kor + math + (t1 + t2) / 2);
-            if (item.ratio && item.ratio !== "비율정보없음") {
-                const totalW = (item.kr || 0) + (item.mr || 0) + (item.tr || 0);
-                if (totalW > 0) {
-                    myScore = ((kor * (item.kr || 0)) + (math * (item.mr || 0)) + ((t1 + t2)/2 * (item.tr || 0))) / totalW;
-                    myScore -= (eng - 1) * 2;
-                }
+            // [정밀 계산 로직]
+            let myScore = 0;
+            const totalW = (item.kr || 0) + (item.mr || 0) + (item.tr || 0);
+
+            if (totalW > 0) {
+                // 대학별 비율 적용 계산
+                myScore = ((kor * item.kr) + (math * item.mr) + (avg탐구 * item.tr)) / totalW;
+                // 영어 감점 (등급당 2점 차감 가상모델)
+                myScore -= (eng - 1) * 2;
+            } else {
+                // 비율 데이터 없을 시 단순 평균
+                myScore = kor + math + avg탐구;
             }
 
             const finalScore = parseFloat(myScore.toFixed(2));
