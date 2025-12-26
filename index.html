@@ -41,7 +41,7 @@
 <div class="container" id="mainContent" style="display:none;">
     <div class="header">
         <h1>🎓 메타수학 2026 정시 분석 시스템</h1>
-        <p>이투스 정밀 가중치 데이터 적용 버전</p>
+        <p>이투스 정밀 데이터 기반 가중치 분석 버전</p>
     </div>
 
     <div class="no-print">
@@ -75,7 +75,7 @@
                 <th>대학명</th>
                 <th>모집단위</th>
                 <th>반영비율(국/수/영/탐)</th>
-                <th>대학별 컷</th>
+                <th>이투스 컷</th>
                 <th>내 환산점수</th>
                 <th>차이</th>
                 <th>판정</th>
@@ -134,17 +134,19 @@
             if (item.group !== currentGroup) return;
             if (search && !item.univ.toLowerCase().includes(search) && !item.dept.toLowerCase().includes(search)) return;
 
-            // [정밀 계산 로직]
+            // [가중치 보정 계산 로직]
             let myScore = 0;
             const totalW = (item.kr || 0) + (item.mr || 0) + (item.tr || 0);
 
             if (totalW > 0) {
-                // 대학별 비율 적용 계산
-                myScore = ((kor * item.kr) + (math * item.mr) + (avg탐구 * item.tr)) / totalW;
-                // 영어 감점 (등급당 2점 차감 가상모델)
+                // 가중치를 적용한 합계를 구하되, 분모를 조정하여 단순 합계 규모(300~400점대)로 환산
+                // (국*비율 + 수*비율 + 탐*비율) / (전체비율/3)
+                // 이렇게 하면 가중치 효과는 살아나면서 결과값은 단순 합산 점수와 비교 가능해집니다.
+                myScore = ((kor * item.kr) + (math * item.mr) + (avg탐구 * item.tr)) / (totalW / 3);
+                
+                // 영어 감점 (등급당 2점 차감)
                 myScore -= (eng - 1) * 2;
             } else {
-                // 비율 데이터 없을 시 단순 평균
                 myScore = kor + math + avg탐구;
             }
 
@@ -152,16 +154,16 @@
             const diff = parseFloat((finalScore - item.cut).toFixed(2));
             
             let res = "위험", cls = "bg-danger";
-            if (diff >= 3) { res = "안정"; cls = "bg-stable"; }
-            else if (diff >= -0.5) { res = "적정"; cls = "bg-fit"; }
-            else if (diff >= -3) { res = "소신"; cls = "bg-ambitious"; }
+            if (diff >= 5) { res = "안정"; cls = "bg-stable"; }
+            else if (diff >= -1) { res = "적정"; cls = "bg-fit"; }
+            else if (diff >= -7) { res = "소신"; cls = "bg-ambitious"; }
 
             rows += `<tr>
                 <td style="font-weight:bold;">${item.univ}</td>
                 <td>${item.dept}</td>
                 <td style="font-size:11px; color:#666;">${item.ratio}</td>
-                <td>${item.cut}</td>
-                <td style="font-weight:bold; color:var(--primary);">${finalScore}</td>
+                <td style="background:#fff9f9;">${item.cut}</td>
+                <td style="font-weight:bold; color:var(--primary); font-size:16px;">${finalScore}</td>
                 <td style="font-weight:bold; color:${diff >= 0 ? 'blue' : 'red'}">${diff > 0 ? '+' + diff : diff}</td>
                 <td><span class="badge ${cls}">${res}</span></td>
             </tr>`;
