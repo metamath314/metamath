@@ -12,6 +12,7 @@
         .no-print { background: #f8f9fa; padding: 20px; border-radius: 10px; margin-bottom: 20px; display: flex; flex-direction: column; align-items: center; gap: 15px; }
         .score-row { display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; }
         .input-group { display: flex; flex-direction: column; align-items: center; }
+        label { font-size: 12px; font-weight: bold; margin-bottom: 5px; color: #555; }
         input { width: 75px; padding: 8px; border: 1px solid #ccc; border-radius: 5px; text-align: center; font-weight: bold; }
         .btn { padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-weight: bold; color: white; margin: 5px; }
         .btn-blue { background: var(--primary); }
@@ -20,8 +21,8 @@
         .tab { padding: 10px 40px; background: #ddd; cursor: pointer; border-radius: 8px 8px 0 0; font-weight: bold; transition: 0.3s; }
         .tab.active { background: var(--primary); color: white; }
         table { width: 100%; border-collapse: collapse; margin-top: 10px; }
-        th { background: #eee; padding: 12px; border-bottom: 2px solid #333; font-size: 14px; }
-        td { padding: 12px; border-bottom: 1px solid #ddd; text-align: center; }
+        th { background: #f1f3f5; padding: 12px; border-bottom: 2px solid #333; font-size: 14px; }
+        td { padding: 12px; border-bottom: 1px solid #ddd; text-align: center; font-size: 14px; }
         .badge { padding: 5px 12px; border-radius: 20px; color: white; font-weight: bold; font-size: 12px; }
         .bg-stable { background: var(--stable); } .bg-fit { background: var(--fit); }
         .bg-ambitious { background: var(--ambitious); } .bg-danger { background: var(--danger); }
@@ -41,16 +42,16 @@
 <div class="container" id="mainContent" style="display:none;">
     <div class="header">
         <h1>🎓 메타수학 2026 정시 분석 시스템</h1>
-        <p>이투스 정밀 데이터 기반 가중치 분석 버전</p>
+        <p>이투스 국수탐 표준점수 기반 가중치 분석기</p>
     </div>
 
     <div class="no-print">
         <div class="score-row">
-            <div class="input-group"><label>국어</label><input type="number" id="kor" value="130"></div>
-            <div class="input-group"><label>수학</label><input type="number" id="math" value="135"></div>
-            <div class="input-group"><label>영어</label><input type="number" id="eng" value="1" min="1" max="9"></div>
-            <div class="input-group"><label>탐구1</label><input type="number" id="t1" value="65"></div>
-            <div class="input-group"><label>탐구2</label><input type="number" id="t2" value="60"></div>
+            <div class="input-group"><label>국어(표점)</label><input type="number" id="kor" value="130"></div>
+            <div class="input-group"><label>수학(표점)</label><input type="number" id="math" value="135"></div>
+            <div class="input-group"><label>영어(등급)</label><input type="number" id="eng" value="1" min="1" max="9"></div>
+            <div class="input-group"><label>탐구1(표점)</label><input type="number" id="t1" value="65"></div>
+            <div class="input-group"><label>탐구2(표점)</label><input type="number" id="t2" value="60"></div>
         </div>
         <div>
             <input type="text" id="univSearch" placeholder="대학명 또는 학과명 검색" style="width:250px; padding:10px;" onkeyup="runAnalysis()">
@@ -66,7 +67,7 @@
     </div>
 
     <div style="text-align: right; margin-bottom: 10px; font-weight: bold;">
-        단순 합산 점수(국+수+탐평균): <span id="totalDisplay" style="color:red; font-size:22px;">0</span> 점
+        내 단순 합산(국+수+탐평균): <span id="totalDisplay" style="color:#e67e22; font-size:22px;">0</span> 점
     </div>
 
     <table>
@@ -75,9 +76,9 @@
                 <th>대학명</th>
                 <th>모집단위</th>
                 <th>반영비율(국/수/영/탐)</th>
-                <th>이투스 컷</th>
+                <th>대학 합격컷(U)</th>
                 <th>내 환산점수</th>
-                <th>차이</th>
+                <th>점수 차이</th>
                 <th>판정</th>
             </tr>
         </thead>
@@ -126,28 +127,32 @@
         const search = document.getElementById('univSearch').value.toLowerCase();
 
         const avg탐구 = (t1 + t2) / 2;
-        document.getElementById('totalDisplay').innerText = (kor + math + avg탐구).toFixed(1);
-        const body = document.getElementById('resultBody');
+        const simpleSum = kor + math + avg탐구;
+        document.getElementById('totalDisplay').innerText = simpleSum.toFixed(1);
         
+        const body = document.getElementById('resultBody');
         let rows = "";
+
         database.forEach(item => {
             if (item.group !== currentGroup) return;
             if (search && !item.univ.toLowerCase().includes(search) && !item.dept.toLowerCase().includes(search)) return;
 
-            // [가중치 보정 계산 로직]
+            // [핵심 가중치 합산 로직]
             let myScore = 0;
-            const totalW = (item.kr || 0) + (item.mr || 0) + (item.tr || 0);
+            // 국, 수, 탐 반영비율만 합산 (영어 제외한 가중치 분모)
+            const weightDenominator = (item.kr || 0) + (item.mr || 0) + (item.tr || 0);
 
-            if (totalW > 0) {
-                // 가중치를 적용한 합계를 구하되, 분모를 조정하여 단순 합계 규모(300~400점대)로 환산
-                // (국*비율 + 수*비율 + 탐*비율) / (전체비율/3)
-                // 이렇게 하면 가중치 효과는 살아나면서 결과값은 단순 합산 점수와 비교 가능해집니다.
-                myScore = ((kor * item.kr) + (math * item.mr) + (avg탐구 * item.tr)) / (totalW / 3);
+            if (weightDenominator > 0) {
+                // 1. 가중 평균 점수를 구합니다.
+                const weightedAvg = ((kor * item.kr) + (math * item.mr) + (avg탐구 * item.tr)) / weightDenominator;
                 
-                // 영어 감점 (등급당 2점 차감)
+                // 2. [중요] 3과목 합산 규모(U열 컷 규모)로 맞추기 위해 3을 곱합니다.
+                myScore = weightedAvg * 3;
+                
+                // 3. 영어 등급 감점 (1등급당 2점씩 총점에서 차감)
                 myScore -= (eng - 1) * 2;
             } else {
-                myScore = kor + math + avg탐구;
+                myScore = simpleSum;
             }
 
             const finalScore = parseFloat(myScore.toFixed(2));
@@ -156,13 +161,13 @@
             let res = "위험", cls = "bg-danger";
             if (diff >= 5) { res = "안정"; cls = "bg-stable"; }
             else if (diff >= -1) { res = "적정"; cls = "bg-fit"; }
-            else if (diff >= -7) { res = "소신"; cls = "bg-ambitious"; }
+            else if (diff >= -8) { res = "소신"; cls = "bg-ambitious"; }
 
             rows += `<tr>
                 <td style="font-weight:bold;">${item.univ}</td>
                 <td>${item.dept}</td>
-                <td style="font-size:11px; color:#666;">${item.ratio}</td>
-                <td style="background:#fff9f9;">${item.cut}</td>
+                <td style="font-size:11px; color:#777;">${item.ratio}</td>
+                <td style="background:#fff4f4; font-weight:bold;">${item.cut}</td>
                 <td style="font-weight:bold; color:var(--primary); font-size:16px;">${finalScore}</td>
                 <td style="font-weight:bold; color:${diff >= 0 ? 'blue' : 'red'}">${diff > 0 ? '+' + diff : diff}</td>
                 <td><span class="badge ${cls}">${res}</span></td>
